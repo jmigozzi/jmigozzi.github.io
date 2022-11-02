@@ -6,7 +6,6 @@ From September 2022, I am an [Urban Studies Foundation Postdoctoral Research Fel
 
 My current research project investigates the rise of real estate technologies, also known as PropTech, in South Africa, through a comparison of housing markets in Cape Town and Johannesburg.
 
-My research involves a mixed methods framework that combines in-depth fieldwork based on interviews and participant-observation with computational analysis and mapping. I use open source tools such as R or QGIS.
 
 ### Appointments and Education 
 
