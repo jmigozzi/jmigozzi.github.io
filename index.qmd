@@ -10,7 +10,8 @@ shortcodes:
 ---
 
 ::: columns
-::: {.column .col-v-center width="25%"}
+
+::: {.column .col-v-center width="30%"}
 ::: portrait
 ![](static/img/julien.png)
 :::
@@ -42,7 +43,7 @@ My current project explores how digital technologies reshape urban housing marke
 :::
 :::
 
-::: {.column .col-v-center width="100%"}
+::: {.column .col-v-center width="90%"}
 ![Cape Town. © J. Migozzi, 2018.](static/img/CT_banner.jpg){fig-align="center"}
 :::
 :::
