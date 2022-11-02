@@ -13,7 +13,7 @@ shortcodes:
 
 ::: {.column .col-v-center width="30%"}
 ::: portrait
-![](static/img/julien.png)
+![](static/img/pic2-modified.png)
 :::
 :::
 
