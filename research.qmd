@@ -1,0 +1,9 @@
+1.  <div>
+
+    ---
+    title: "Research"
+    ---
+
+    </div>
+
+All my publications are available through [Google Scholar](https://scholar.google.fr/citations?user=TOQMW10AAAAJ&hl=fr).

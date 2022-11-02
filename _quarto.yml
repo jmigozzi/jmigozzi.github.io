@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  description: "Personal website of Julien Migozzi"
+  search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+      - href: publications/index.qmd
+        text: Research
+      - href: CV.qmd
+  page-footer:
+    left: "© 2022 Julien Migozzi"
+    center: "Made with [quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: 
+      - styles.css
+      - academicons.css
+    toc: true
+

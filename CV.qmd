@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+<iframe src="static/files/Julien_CV_October2022.pdf" height="2000" width="1000"></iframe>
+
+

@@ -1,0 +1,16 @@
+---
+title: "Publications"
+listing:
+  contents: 
+    - ville_et_numerique
+    - housing_inequity
+    - financialization_housing_sa
+    - who_sells_whom
+    - national_parks_market
+    - new_caledonia
+    - rugby_schools
+    - rugby_sa
+  type: default
+  image-align: left
+  sort: "date desc"
+---
