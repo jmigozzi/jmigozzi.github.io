@@ -38,7 +38,7 @@ As an urban and economic geographer, my research interests lie at the intersecti
 My current project explores how digital technologies reshape urban housing markets and renew mechanisms of segregation and inequalities, focusing on post-apartheid South Africa.
 
 ::: about-link
-[ABOUT ME](about/)
+[ABOUT ME](about.html)
 :::
 :::
 :::
