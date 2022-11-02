@@ -1,5 +1,5 @@
 ---
-date: "2019-03_21"
+date: "2019-03-21"
 draft: false
 description: In a context of a housing inflation in the greater Paris Region, this paper develops new computational methods to understand how housing price dynamics affect socioeconomic segregation.
 subtitle: Renaud Le Goix, Timothée Giraud, Robin Cura, Thibault Le Corre, Julien Migozzi
