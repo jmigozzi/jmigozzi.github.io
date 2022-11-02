@@ -10,7 +10,7 @@ toc: false
 ---
 
 
-<button type="button" class="btn btn-outline-success"><a href="https://metropolitiques.eu/Ville-et-numerique-vers-un-renouveau-de-la-segregation-urbaine-au-Cap.html">journal</a></button>
+<button type="button" class="btn btn-outline-success"><a href="https://metropolitiques.eu/Ville-et-numerique-vers-un-renouveau-de-la-segregation-urbaine-au-Cap.html">paper</a></button>
 
 ## Abstract
 

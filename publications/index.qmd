@@ -10,6 +10,7 @@ listing:
     - new_caledonia
     - rugby_schools
     - rugby_sa
+    - apartheid_algorithm
   type: default
   image-align: left
   sort: "date desc"

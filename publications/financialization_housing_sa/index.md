@@ -11,7 +11,7 @@ toc: false
 
 <button type="button" class="btn btn-outline-success">
 
-<a href="https://doi.org/10.1080/10511482.2019.1684335">journal</a>
+<a href="https://doi.org/10.1080/10511482.2019.1684335">paper</a>
 
 </button>
 
