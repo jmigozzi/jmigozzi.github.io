@@ -11,7 +11,7 @@ toc: false
 
 <button type="button" class="btn btn-outline-success">
 
-<a href="http://mappemonde-archive.mgm.fr/num36/articles/art12404.html">journal</a>
+<a href="http://mappemonde-archive.mgm.fr/num36/articles/art12404.html">paper</a>
 
 </button>
 
