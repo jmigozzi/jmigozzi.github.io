@@ -20,4 +20,6 @@ My research involves a mixed methods framework that combines in-depth fieldwork 
 
 I use open source tools such as R or QGIS.
 
+
+
 # Publications

@@ -21,6 +21,8 @@ shortcodes:
 :::
 
 ::: {.column .col-v-center width="50%"}
+
+
 # Julien Migozzi, Ph.D.
 
 ::: julien-intro
@@ -33,9 +35,9 @@ shortcodes:
 
 I am an [Urban Studies Foundation Postdoctoral Research Fellow](https://www.urbanstudiesfoundation.org/) at the University of Oxford.
 
-As an urban and economic geographer, my research interests lie at the intersection of financial geography, urban studies and economic sociology.
+As an economic geographer, my research interests lie at the intersection of financial geography, urban studies and economic sociology.
 
-My current project explores how digital technologies reshape urban housing markets and renew mechanisms of segregation and inequalities, focusing on post-apartheid South Africa.
+My research explores how digital technologies reshape urban housing markets and renew mechanisms of segregation and inequalities, focusing on post-apartheid South Africa.
 
 ::: about-link
 [ABOUT ME](about.html)

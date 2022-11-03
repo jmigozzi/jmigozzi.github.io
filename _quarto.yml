@@ -26,5 +26,6 @@ format:
     css: 
       - styles.css
       - academicons.css
+    fontsize: 1em
     toc: true
 
