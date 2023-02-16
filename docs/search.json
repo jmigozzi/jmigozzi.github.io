@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "From September 2022, I am an Urban Studies Foundation Postdoctoral Research Fellow in the School of Geography and the Environment at the University of Oxford.\nMy ongoing research investigates how digital technologies transform the real estate industry, create global real estate networks and reshape urban housing markets in terms of segregation and inequalities, focusing on South Africa.\nI am particularly interested in the topics of credit scoring and real estate platforms.\nMy research involves mixed methods framework that combines in-depth fieldwork based on expert interviews and participant-observation with computational analysis and mapping, using open source tools such as R or QGIS.\nAppointments and Education\nAs a Research Associate in Finance and Geography, I was previously part of the ERC project “Cities in Global Financial Network” led by Professor Dariusz Wójcik. Our team authored the first Atlas of Finance, to be published by Yale University Press in 2024.\nPrior to joining the University of Oxford, I was a lecturer in the Department of Geography at the Ecole Normale Supérieure in Paris.\nI earned my MA from the Ecole Normale Supérieure de Lyon and my PhD from the University of Grenoble Alpes.\nAffiliations\nI am a Research Associate at the Research Labs Géographie-cités and PACTE, an Associate Member of the St Peter’s College, and a Visiting Scholar of the African Center for Cities at the University of Cape Town.\nI also occasionally write - and tweet - about rugby."
+  },
+  {
+    "objectID": "Dissertation.html",
+    "href": "Dissertation.html",
+    "title": "",
+    "section": "",
+    "text": "My PhD dissertation was awarded two national prizes:\n\nthe 2021 National Doctoral Prize in Urban Studies by the PUCA-APERAU-Caisse des Dépôts;\nthe 2021 National Dissertation Award in Geography by the French National Committee of Geography (CNFG).\n\nThe thesis also received a Special mention of the jury for the 2021 Humanities and social sciences PSL Dissertation Prize.\nIn this work, I demonstrated how the digitalization of the real estate industry driven by credit scoring and real estatgitke platforms reshaped the mortgage and rental markets and enabled the financialization of housing, thereby renewing patterns of stratification and urban segregation across Cape Town, a post-apartheid and emerging city of the Global South.\nTo that end, I conducted 18 months of fieldwork among market professionals. In parallel, I sourced deeds data to construct a database of 900,000 residential sales covering the Cape Town metropolitan area from 1984 to 2017, and assembled longitudinal census data at the neighborhood level."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "",
@@ -7,25 +21,18 @@
     "text": "Julien Migozzi, Ph.D.\n\n\n\n\n\n\n\nI am an Urban Studies Foundation Postdoctoral Research Fellow at the University of Oxford.\nAs an economic geographer, my research interests lie at the intersection of financial geography, urban studies and economic sociology.\nMy ongoing research investigates how digital technologies transform the real estate industry, create global real estate networks and reshape urban housing markets, focusing on South Africa.\n\nABOUT ME\n\n\n\n\n\n\n\nCape Town. © J. Migozzi, 2018."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "publications/apartheid_algorithm/index.html",
+    "href": "publications/apartheid_algorithm/index.html",
+    "title": "Apartheid by Algorithm",
     "section": "",
-    "text": "From September 2022, I am an Urban Studies Foundation Postdoctoral Research Fellow in the School of Geography and the Environment at the University of Oxford.\nMy ongoing research investigates how digital technologies transform the real estate industry, create global real estate networks and reshape urban housing markets in terms of segregation and inequalities, focusing on South Africa.\nI am particularly interested in the topics of credit scoring and real estate platforms.\nMy research involves mixed methods framework that combines in-depth fieldwork based on expert interviews and participant-observation with computational analysis and mapping, using open source tools such as R or QGIS.\n\nAppointments and Education\nAs a Research Associate in Finance and Geography, I was previously part of the ERC project “Cities in Global Financial Network” led by Professor Dariusz Wójcik. Our team authored the first Atlas of Finance, to be published by Yale University Press in 2024.\nPrior to joining the University of Oxford, I was a lecturer in the Department of Geography at the Ecole Normale Supérieure in Paris.\nI earned my MA from the Ecole Normale Supérieure de Lyon and my PhD from the University of Grenoble Alpes.\n\n\nAffiliations\nI am a Research Associate at the Research Labs Géographie-cités and PACTE, an Associate Member of the St Peter’s College, and a Visiting Scholar of the African Center for Cities at the University of Cape Town.\nI also occasionally write - and tweet - about rugby."
+    "text": "magazine"
   },
   {
-    "objectID": "publications/new_caledonia/index.html",
-    "href": "publications/new_caledonia/index.html",
-    "title": "Showcasing the sovereignty of non-self-governing islands: New Caledonia",
-    "section": "",
-    "text": "paper"
-  },
-  {
-    "objectID": "publications/new_caledonia/index.html#abstract",
-    "href": "publications/new_caledonia/index.html#abstract",
-    "title": "Showcasing the sovereignty of non-self-governing islands: New Caledonia",
+    "objectID": "publications/apartheid_algorithm/index.html#abstract",
+    "href": "publications/apartheid_algorithm/index.html#abstract",
+    "title": "Apartheid by Algorithm",
     "section": "Abstract",
-    "text": "Abstract\nSince 1983, no non-self-governing island connected to a (neo-) colonial European or American metropole has acquired full Westphalian sovereignty and these islands continue to operate within constitutional frameworks that connect them to these metropoles. Large majorities in referendums on several of these islands have rejected full sovereignty. This paper opens with a review of the essential elements of the concept of sovereignty in a historical and global context, before studying how sovereignty is unfolding in new forms in non-self-governing islands in the Pacific and the Caribbean. As a case study, an analysis is presented of how pro-France (loyaliste) and pro-independence (indépendantiste) parties in New Caledonia are negotiating sovereignty with France. Evidence is given of how these New Caledonian parties are creatively using classic Westphalian signifiers of sovereignty normally reserved for sovereign states such as flags, diplomatic representations and international treaties, while still negotiating New Caledonia’s sovereignty with France. This suggests that in contrast to Westphalian sovereignty, a unique ‘Islandian’ concept of sovereignty is emerging. Islands that are not sovereign in a Westphalian sense can creatively disassemble and reassemble signifiers of Westphalian sovereignty to strengthen their continuous negotiations with their metropoles and their neighbours.\nPublished in Asia Pacific Viewpoint."
+    "text": "Abstract\nThe infrastructural legacies of apartheid have made modern South Africa into an especially stark illustration of the New Jim Code."
   },
   {
     "objectID": "publications/financialization_housing_sa/index.html",
@@ -40,34 +47,6 @@
     "title": "Selecting Spaces, Classifying People: The Financialization of Housing in the South African City",
     "section": "Abstract",
     "text": "Abstract\nFocusing on Cape Town, this article investigates how financialization unfolds in the South African housing market. I use a mixed method that combines in-depth field research conducted among key market players with an analysis of georeferenced residential transactions. Connecting financial and urban geography, the article retraces the institutional and social anatomy of financialization. I demonstrate how financialization unfolds in metropolitan areas through the classification of people and the selection of spaces, by staying away from the urban poor, and instead incorporating the middle- and upper-income sections of society. In that regard, the article unpacks the urban and class structures of housing financialization in South Africa, which challenges narratives from the urban Global North. Two market segments drive financialization in South Africa: the rental market, which became a new financial frontier with the emergence of corporate landlords; and the owner-occupied market, with the rise of the mortgage industry and the limited implementation of securitization, underpinned by highly restrictive lending practices. In both segments, financial institutions and corporate landlords rely on credit scoring to classify and select tenants or mortgage beneficiaries; they target specific areas within the post-apartheid city to develop residential portfolios and allocate mortgages.\nPublished in Housing Policy Debate."
-  },
-  {
-    "objectID": "publications/rugby_schools/index.html",
-    "href": "publications/rugby_schools/index.html",
-    "title": "L’école des Springboks : le rugby scolaire au Cap, entre ségrégation et déségrégation",
-    "section": "",
-    "text": "paper"
-  },
-  {
-    "objectID": "publications/rugby_schools/index.html#abstract",
-    "href": "publications/rugby_schools/index.html#abstract",
-    "title": "L’école des Springboks : le rugby scolaire au Cap, entre ségrégation et déségrégation",
-    "section": "Abstract",
-    "text": "Abstract\nSports’ geography provides a new means of analysing and understanding South African urban space. In Cape Town, school rugby, deeply embedded in and influenced by the city and the country’s political history, highlights the social dynamics, divides, and inequalities of contemporary South African society. Though school rugby contributes to enshrining and renewing racial and social segregation, it also nurtures new urban practices and social interactions. From its spatialities, structure, its actors and their network, emerge sports territories that articulate segregation and desegregation processes within the post-apartheid city\nPublished in Mappemonde."
-  },
-  {
-    "objectID": "publications/rugby_sa/index.html",
-    "href": "publications/rugby_sa/index.html",
-    "title": "Le rugby en Afrique du Sud face au défi de transformation : jeu de pouvoir, outil de développement et force symbolique",
-    "section": "",
-    "text": "paper"
-  },
-  {
-    "objectID": "publications/rugby_sa/index.html#abstract",
-    "href": "publications/rugby_sa/index.html#abstract",
-    "title": "Le rugby en Afrique du Sud face au défi de transformation : jeu de pouvoir, outil de développement et force symbolique",
-    "section": "Abstract",
-    "text": "Abstract\nRugby appears to be a valuable topic allowing reading and analyzing the South African notions of space and society. Its deep cultural impact and the attachment — almost religious — that a section of the population of the country has for this sport establish it as a true symbol fraught with the social stakes of the South African nation. As a highly political topic and a particularly interesting focus for the press, rugby is discussed by elected representatives and gives rise to deep controversies over points such as skin-colour or inequalities, which are major issues for the future of the country. After 150 years of political appropriation, it has been pushed to the rank of most valuable sport for the White Afrikaner community and raises the tricky issue of identity in the context of a rainbow nation that hesitates between acknowledging the Black and coloured cultures and searching for an identification of all communities to the South African nation through sport. Rugby, that played a part in the division among the South African people, is now a particularly important element that brings to light the stakes of transformation and development that trouble the country. Indeed, discrimination, economic and social inequalities and strong oppositions that have their roots in the past and the apartheid can be found today in rugby. Sport, and firstly rugby because of the symbolism that surrounds it, can be seen as a key-sector for development and recovery policies that not only have to remedy inequality through support and practice, especially in historically disadvantaged communities, but also have to transform the picture of rugby in order to turn it into the sport of all South Africans.\nPublished in Les Cahiers d’Outre-Mer."
   },
   {
     "objectID": "publications/housing_inequity/index.html",
@@ -91,18 +70,60 @@
     "text": "Publications\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nApartheid by Algorithm\n\n\nJulien Migozzi\n\n\nA report for the magazine Logic on computer-assisted housing discrimination in South Africa.\n\n\n\n\n\n\nAug 22, 2022\n\n\n\n\n\n\n  \n\n\n\n\nVille et numérique : vers un renouveau de la ségrégation urbaine au Cap ?\n\n\nJulien Migozzi\n\n\nÀ l’heure du capitalisme de plateforme, comment le numérique reconfigure-t-il les marchés immobiliers et l’accès au logement ? En Afrique du Sud, au Cap, la pratique du credit scoring est devenue la règle. Fondée sur une sélection par les comportements financiers, elle contribue à renouveler la ségrégation héritée de l’apartheid.\n\n\n\n\n\n\nMar 7, 2022\n\n\n\n\n\n\n  \n\n\n\n\nHousing (In)Equity and the Spatial Dynamics of Homeownership in France: A Research Agenda\n\n\nRenaud Le Goix, Laure Casanova Enault, Loïc Bonneval, Thibault Le Corre, Eliza Benites‐Gambirazio, Guilhem Boulay, William Kutz, Natacha Aveline‐Dubach, Julien Migozzi, Ronan Ysebaert\n\n\nThis paper advances a research agenda on how asset-based welfare policies, residential market volatility, stratified accumulation and vulnerability impinge upon the geography of inequality in property markets.\n\n\n\n\n\n\nAug 11, 2020\n\n\n\n\n\n\n  \n\n\n\n\nSelecting Spaces, Classifying People: The Financialization of Housing in the South African City\n\n\nJulien Migozzi\n\n\nFocusing on Cape Town, this article investigates how financialization unfolds in the South African housing market. I use a mixed method that combines in-depth field research conducted among key market players with an analysis of georeferenced residential transactions.\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n  \n\n\n\n\nWho sells to whom in the suburbs? Home price inflation and the dynamics of sellers and buyers in the metropolitan region of Paris, 1996–2012\n\n\nRenaud Le Goix, Timothée Giraud, Robin Cura, Thibault Le Corre, Julien Migozzi\n\n\nIn a context of a housing inflation in the greater Paris Region, this paper develops new computational methods to understand how housing price dynamics affect socioeconomic segregation.\n\n\n\n\n\n\nMar 21, 2019\n\n\n\n\n\n\n  \n\n\n\n\nUrban National Parks and the Making of the Housing Market in Emerging Cities: Places of Exclusiveness, Land of Opportunities\n\n\nJulien Migozzi, Abdul Shaban, Rafael Soares Gonçalves\n\n\nAs emerging Global South Cities, Cape Town, Mumbai and Rio de Janeiro have experienced the a spectacular increase of housing prices, turning land around urban national parks into places of exclusiveness and opportunities. This chapter is the outcome of the Research Project “Urban National Parks in Emerging Countries” led by Professor Frédéric Landy from University of Paris Nanterre.\n\n\n\n\n\n\nJul 18, 2018\n\n\n\n\n\n\n  \n\n\n\n\nShowcasing the sovereignty of non-self-governing islands: New Caledonia\n\n\nGerard Prinsen, Yves Lafoy, Julien Migozzi\n\n\nThis paper is the output of my work as a Research Assistant for the Marsden Fund research project on aid and sovereignty across the Pacific island nations, led by Professor John Overton from Wellington’s Victoria University, New Zealand.\n\n\n\n\n\n\nJun 9, 2017\n\n\n\n\n\n\n  \n\n\n\n\nL’école des Springboks : le rugby scolaire au Cap, entre ségrégation et déségrégation\n\n\nJulien Migozzi\n\n\nA research paper presenting the findings of my Master dissertation on school rugby and urban segregation in post-apartheid Cape Town.\n\n\n\n\n\n\nJan 1, 2012\n\n\n\n\n\n\n  \n\n\n\n\nLe rugby en Afrique du Sud face au défi de transformation : jeu de pouvoir, outil de développement et force symbolique\n\n\nJulien Migozzi\n\n\nA research paper presenting the findings of my Master dissertation on school rugby and urban segregation in post-apartheid Cape Town.\n\n\n\n\n\n\nApr 1, 2010\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications/apartheid_algorithm/index.html",
-    "href": "publications/apartheid_algorithm/index.html",
-    "title": "Apartheid by Algorithm",
+    "objectID": "publications/national_parks_market/index.html",
+    "href": "publications/national_parks_market/index.html",
+    "title": "Urban National Parks and the Making of the Housing Market in Emerging Cities: Places of Exclusiveness, Land of Opportunities",
     "section": "",
-    "text": "magazine"
+    "text": "book chapter"
   },
   {
-    "objectID": "publications/apartheid_algorithm/index.html#abstract",
-    "href": "publications/apartheid_algorithm/index.html#abstract",
-    "title": "Apartheid by Algorithm",
+    "objectID": "publications/national_parks_market/index.html#abstract",
+    "href": "publications/national_parks_market/index.html#abstract",
+    "title": "Urban National Parks and the Making of the Housing Market in Emerging Cities: Places of Exclusiveness, Land of Opportunities",
     "section": "Abstract",
-    "text": "Abstract\nThe infrastructural legacies of apartheid have made modern South Africa into an especially stark illustration of the New Jim Code."
+    "text": "Abstract\nAs emerging and postcolonial cities of the Global South, Mumbai, Rio de Janeiro, Nairobi and Cape Town share some common trends with regards to local real estate market dynamics. The spectacular increase of real estate prices had clear implications for urban national parks in these cities: the land and resources provided by the park are claimed by the urban poor, in the form of informal settlements and squatting strategies, while the park, as a major amenity and a potential reserve of land, attracted developers and investors. But despite the rise of property values and the intensity of urban change, these cities remain quite marginalised from the large scholarship on how environmental amenities influence market and price dynamics. Using primary and secondary data, this chapter deploys quantitative methodologies for mapping and tracing the spatial dynamics of housing prices, with a focus on Cape Town and Mumbai. Analysing local market configurations, both in terms of supply and demand, this chapter investigates the interweaving of the park within the housing market: we discuss the making of the park as an influential environmental amenity by analysing the marketing strategies, the narratives and the discourses displayed by local market actors, and investigate the role of the park in the determination of property prices. In the context of urban growth and rising property prices, market forces turn urban national parks into a land of opportunity, both for profit-oriented developers and city-dwellers aspiring to access housing, either through the formal or informal market channels. Findings highlight how the interplay of market forces and residential contexts led to a social and spatial process of homogenisation in Cape Town and to a process of differentiation in Mumbai: the construction of environmental amenities and their incorporation into the housing market are deeply structured on the local patterns of social stratification and market configurations."
+  },
+  {
+    "objectID": "publications/new_caledonia/index.html",
+    "href": "publications/new_caledonia/index.html",
+    "title": "Showcasing the sovereignty of non-self-governing islands: New Caledonia",
+    "section": "",
+    "text": "paper"
+  },
+  {
+    "objectID": "publications/new_caledonia/index.html#abstract",
+    "href": "publications/new_caledonia/index.html#abstract",
+    "title": "Showcasing the sovereignty of non-self-governing islands: New Caledonia",
+    "section": "Abstract",
+    "text": "Abstract\nSince 1983, no non-self-governing island connected to a (neo-) colonial European or American metropole has acquired full Westphalian sovereignty and these islands continue to operate within constitutional frameworks that connect them to these metropoles. Large majorities in referendums on several of these islands have rejected full sovereignty. This paper opens with a review of the essential elements of the concept of sovereignty in a historical and global context, before studying how sovereignty is unfolding in new forms in non-self-governing islands in the Pacific and the Caribbean. As a case study, an analysis is presented of how pro-France (loyaliste) and pro-independence (indépendantiste) parties in New Caledonia are negotiating sovereignty with France. Evidence is given of how these New Caledonian parties are creatively using classic Westphalian signifiers of sovereignty normally reserved for sovereign states such as flags, diplomatic representations and international treaties, while still negotiating New Caledonia’s sovereignty with France. This suggests that in contrast to Westphalian sovereignty, a unique ‘Islandian’ concept of sovereignty is emerging. Islands that are not sovereign in a Westphalian sense can creatively disassemble and reassemble signifiers of Westphalian sovereignty to strengthen their continuous negotiations with their metropoles and their neighbours.\nPublished in Asia Pacific Viewpoint."
+  },
+  {
+    "objectID": "publications/rugby_sa/index.html",
+    "href": "publications/rugby_sa/index.html",
+    "title": "Le rugby en Afrique du Sud face au défi de transformation : jeu de pouvoir, outil de développement et force symbolique",
+    "section": "",
+    "text": "paper"
+  },
+  {
+    "objectID": "publications/rugby_sa/index.html#abstract",
+    "href": "publications/rugby_sa/index.html#abstract",
+    "title": "Le rugby en Afrique du Sud face au défi de transformation : jeu de pouvoir, outil de développement et force symbolique",
+    "section": "Abstract",
+    "text": "Abstract\nRugby appears to be a valuable topic allowing reading and analyzing the South African notions of space and society. Its deep cultural impact and the attachment — almost religious — that a section of the population of the country has for this sport establish it as a true symbol fraught with the social stakes of the South African nation. As a highly political topic and a particularly interesting focus for the press, rugby is discussed by elected representatives and gives rise to deep controversies over points such as skin-colour or inequalities, which are major issues for the future of the country. After 150 years of political appropriation, it has been pushed to the rank of most valuable sport for the White Afrikaner community and raises the tricky issue of identity in the context of a rainbow nation that hesitates between acknowledging the Black and coloured cultures and searching for an identification of all communities to the South African nation through sport. Rugby, that played a part in the division among the South African people, is now a particularly important element that brings to light the stakes of transformation and development that trouble the country. Indeed, discrimination, economic and social inequalities and strong oppositions that have their roots in the past and the apartheid can be found today in rugby. Sport, and firstly rugby because of the symbolism that surrounds it, can be seen as a key-sector for development and recovery policies that not only have to remedy inequality through support and practice, especially in historically disadvantaged communities, but also have to transform the picture of rugby in order to turn it into the sport of all South Africans.\nPublished in Les Cahiers d’Outre-Mer."
+  },
+  {
+    "objectID": "publications/rugby_schools/index.html",
+    "href": "publications/rugby_schools/index.html",
+    "title": "L’école des Springboks : le rugby scolaire au Cap, entre ségrégation et déségrégation",
+    "section": "",
+    "text": "paper"
+  },
+  {
+    "objectID": "publications/rugby_schools/index.html#abstract",
+    "href": "publications/rugby_schools/index.html#abstract",
+    "title": "L’école des Springboks : le rugby scolaire au Cap, entre ségrégation et déségrégation",
+    "section": "Abstract",
+    "text": "Abstract\nSports’ geography provides a new means of analysing and understanding South African urban space. In Cape Town, school rugby, deeply embedded in and influenced by the city and the country’s political history, highlights the social dynamics, divides, and inequalities of contemporary South African society. Though school rugby contributes to enshrining and renewing racial and social segregation, it also nurtures new urban practices and social interactions. From its spatialities, structure, its actors and their network, emerge sports territories that articulate segregation and desegregation processes within the post-apartheid city\nPublished in Mappemonde."
   },
   {
     "objectID": "publications/ville_et_numerique/index.html",
@@ -131,26 +152,5 @@
     "title": "Who sells to whom in the suburbs? Home price inflation and the dynamics of sellers and buyers in the metropolitan region of Paris, 1996–2012",
     "section": "Abstract",
     "text": "Abstract\nPrice inflation has outbalanced the income of residents and buyers in major post-industrial city-regions, and real estate has become an important driver of these inequalities. In a context of a resilient inflation of home values during the last two decades in the greater Paris Region, it is critical to examine housing price dynamics to get a better understanding of socioeconomic segregation. This paper aims at presenting spatial analysis of the dynamics of segregation pertaining to inflation, analyzing price and sellers and buyers data. Using interpolation techniques and multivariate analysis, the paper presents a spatial analysis of property-level data from the Paris Chamber of Notaries (1996-2012) in a GIS (159,000 transactions in suburban areas, single family homes only). Multivariate analysis capture price change and local trajectories of occupational status, i.e. changes in balance between inward and outward flows of sellers and buyers. We adopt a method that fits the fragmented spatial patterns of suburbanization. To do so, we remove the spatial bias by means of a regular 1-km spatial grid, interpolating the variables within it, using a time-distance matrix. The main results are threefold. We document the spatial patterns of professionalization (a rise of executives, intermediate occupation and employees) to describe the main trends of inward mobility in property ownership in suburbs, offsetting the outward mobility of retired persons. Second, neighborhood trajectories are related the diverging patterns of appreciation, between local contexts of accumulation with a growth of residential prices, and suburbs with declining trends. The maturity of suburbanization yields a diversified structure of segregation between the social groups, that do not simply oppose executives vs. blue collar suburbs. A follow-up research agenda is finally outlined.\nPublished in PLOS One."
-  },
-  {
-    "objectID": "publications/national_parks_market/index.html",
-    "href": "publications/national_parks_market/index.html",
-    "title": "Urban National Parks and the Making of the Housing Market in Emerging Cities: Places of Exclusiveness, Land of Opportunities",
-    "section": "",
-    "text": "book chapter"
-  },
-  {
-    "objectID": "publications/national_parks_market/index.html#abstract",
-    "href": "publications/national_parks_market/index.html#abstract",
-    "title": "Urban National Parks and the Making of the Housing Market in Emerging Cities: Places of Exclusiveness, Land of Opportunities",
-    "section": "Abstract",
-    "text": "Abstract\nAs emerging and postcolonial cities of the Global South, Mumbai, Rio de Janeiro, Nairobi and Cape Town share some common trends with regards to local real estate market dynamics. The spectacular increase of real estate prices had clear implications for urban national parks in these cities: the land and resources provided by the park are claimed by the urban poor, in the form of informal settlements and squatting strategies, while the park, as a major amenity and a potential reserve of land, attracted developers and investors. But despite the rise of property values and the intensity of urban change, these cities remain quite marginalised from the large scholarship on how environmental amenities influence market and price dynamics. Using primary and secondary data, this chapter deploys quantitative methodologies for mapping and tracing the spatial dynamics of housing prices, with a focus on Cape Town and Mumbai. Analysing local market configurations, both in terms of supply and demand, this chapter investigates the interweaving of the park within the housing market: we discuss the making of the park as an influential environmental amenity by analysing the marketing strategies, the narratives and the discourses displayed by local market actors, and investigate the role of the park in the determination of property prices. In the context of urban growth and rising property prices, market forces turn urban national parks into a land of opportunity, both for profit-oriented developers and city-dwellers aspiring to access housing, either through the formal or informal market channels. Findings highlight how the interplay of market forces and residential contexts led to a social and spatial process of homogenisation in Cape Town and to a process of differentiation in Mumbai: the construction of environmental amenities and their incorporation into the housing market are deeply structured on the local patterns of social stratification and market configurations."
-  },
-  {
-    "objectID": "Dissertation.html",
-    "href": "Dissertation.html",
-    "title": "Dissertation",
-    "section": "",
-    "text": "My PhD dissertation was awarded two national prizes:\n\nthe 2021 National Doctoral Prize in Urban Studies by the PUCA-APERAU-Caisse des Dépôts;\nthe 2021 National Dissertation Award in Geography by the French National Committee of Geography (CNFG).\n\nThe thesis also received a Special mention of the jury for the 2021 Humanities and social sciences PSL Dissertation Prize.\nIn this work, I demonstrated how the digitalization of the real estate industry driven by credit scoring and real estate platforms reshaped the mortgage and rental markets and enabled the financialization of housing, thereby renewing patterns of stratification and urban segregation across Cape Town, a post-apartheid and emerging city of the Global South.\nTo that end, I conducted 18 months of fieldwork among market professionals. In parallel, I sourced deeds data to construct a database of 900,000 residential sales covering the Cape Town metropolitan area from 1984 to 2017, and assembled longitudinal census data at the neighborhood level."
   }
 ]

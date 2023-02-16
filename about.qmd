@@ -10,17 +10,15 @@ I am particularly interested in the topics of credit scoring and real estate pla
 
 My research involves mixed methods framework that combines in-depth fieldwork based on expert interviews and participant-observation with computational analysis and mapping, using open source tools such as R or QGIS.
 
-
-### Appointments and Education 
+**Appointments and Education**
 
 As a Research Associate in Finance and Geography, I was previously part of the ERC project "[Cities in Global Financial Network](https://www.citynet21.org/)" led by Professor Dariusz Wójcik. Our team authored the first Atlas of Finance, to be published by Yale University Press in 2024.
 
-Prior to joining the University of Oxford, I was a lecturer in the Department of Geography at the Ecole Normale Supérieure in Paris. 
+Prior to joining the University of Oxford, I was a lecturer in the Department of Geography at the Ecole Normale Supérieure in Paris.
 
 I earned my MA from the Ecole Normale Supérieure de Lyon and my PhD from the University of Grenoble Alpes.
 
-
-### Affiliations
+**Affiliations**
 
 I am a Research Associate at the Research Labs [Géographie-cités](https://geographie-cites.cnrs.fr/en/geographie-cites/) and [PACTE](https://www.pacte-grenoble.fr/en), an Associate Member of the [St Peter's College](https://www.spc.ox.ac.uk/), and a Visiting Scholar of the [African Center for Cities](https://www.africancentreforcities.net/) at the University of Cape Town.
 
