@@ -4,29 +4,24 @@ title: "About"
 
 From September 2022, I am an [Urban Studies Foundation Postdoctoral Research Fellow](https://www.urbanstudiesfoundation.org/) in the [School of Geography and the Environment](https://www.geog.ox.ac.uk/staff/jmigozzi.html) at the University of Oxford.
 
-My current research project investigates the rise of real estate technologies, also known as PropTech, in South Africa, through a comparison of housing markets in Cape Town and Johannesburg.
+My ongoing research investigates how digital technologies transform the real estate industry, create global real estate networks and reshape urban housing markets in terms of segregation and inequalities, focusing on South Africa.
+
+I am particularly interested in the topics of credit scoring and real estate platforms.
+
+My research involves mixed methods framework that combines in-depth fieldwork based on expert interviews and participant-observation with computational analysis and mapping, using open source tools such as R or QGIS.
 
 
 ### Appointments and Education 
 
-As a Research Associate in Finance and Geography, I was previously part of the ERC project "[Cities in Global Financial Network](https://www.citynet21.org/)" led by Professor Dariusz Wójcik. Our team authored the first Atlas of Finance, to be published by Yale University Press in 2023.
+As a Research Associate in Finance and Geography, I was previously part of the ERC project "[Cities in Global Financial Network](https://www.citynet21.org/)" led by Professor Dariusz Wójcik. Our team authored the first Atlas of Finance, to be published by Yale University Press in 2024.
 
 Prior to joining the University of Oxford, I was a lecturer in the Department of Geography at the Ecole Normale Supérieure in Paris. 
 
-I earned my MA in Geography from the Ecole Normale Supérieure de Lyon and my Ph.D. from the University of Grenoble Alpes.
-
-### Awards
-
-My [PhD dissertation](https://tel.archives-ouvertes.fr/tel-03121350) was awarded two national prizes: the 2021 [National Doctoral Prize in Urban Studies](http://www.urbanisme-puca.gouv.fr/prix-de-these-sur-la-ville-2021-a2141.html) by the PUCA-APERAU-Caisse des Dépôts, and the 2021 [National Dissertation Award in Geography](https://www.cnfg.fr/vie-du-comite/prix-de-these-du-cnfg/) by the French National Committee of Geography (CNFG). It also received a Special mention of the jury for the 2021 [Humanities and social sciences PSL Dissertation Prize](https://psl.eu/en/news/winners-2021-humanities-and-social-sciences-shs-psl-dissertation-prize).
-
-In my thesis, I demonstrated how the digitalization of the real estate market driven by credit scoring technologies reshaped the mortgage market and enabled the financialization of housing, thereby renewing patterns of stratification and urban segregation across Cape Town, a post-apartheid and emerging city of the Global South.
-
-To thad end, I conducted 18 months of fieldwork among the real estate industry. In parallel, I sourced public deeds data to develop a database of 900,000 residential sales covering the Cape Town metropolitan area from 1984 to 2017. I mobilized computational and spatial analysis to measure and map the distribution of prices and mortgages across the post-apartheid city.
-
+I earned my MA from the Ecole Normale Supérieure de Lyon and my PhD from the University of Grenoble Alpes.
 
 
 ### Affiliations
 
-I am a Research Associate at the Research Labs [Géographie-cités](https://geographie-cites.cnrs.fr/en/geographie-cites/) and [PACTE](https://www.pacte-grenoble.fr/en), an Associate Member of the [St Peter's College](https://www.spc.ox.ac.uk/), and a regular Visiting Researcher of the [African Center for Cities](https://www.africancentreforcities.net/) at the University of Cape Town.
+I am a Research Associate at the Research Labs [Géographie-cités](https://geographie-cites.cnrs.fr/en/geographie-cites/) and [PACTE](https://www.pacte-grenoble.fr/en), an Associate Member of the [St Peter's College](https://www.spc.ox.ac.uk/), and a Visiting Scholar of the [African Center for Cities](https://www.africancentreforcities.net/) at the University of Cape Town.
 
 I also occasionally write - and tweet - about rugby.

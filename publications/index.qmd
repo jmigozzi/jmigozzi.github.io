@@ -16,9 +16,7 @@ listing:
   sort: "date desc"
 ---
 
-My research involves a mixed methods framework that combines in-depth fieldwork based on interviews and participant-observation with computational analysis and mapping.
 
-I use open source tools such as R or QGIS.
 
 
 

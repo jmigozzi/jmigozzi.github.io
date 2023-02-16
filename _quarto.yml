@@ -13,6 +13,8 @@ website:
       - href: about.qmd
       - href: publications/index.qmd
         text: Research
+      - href: Dissertation.qmd
+        text: Dissertation
       - href: CV.qmd
   page-footer:
     left: "© 2022 Julien Migozzi"
