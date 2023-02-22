@@ -37,7 +37,10 @@ I am an [Urban Studies Foundation Postdoctoral Research Fellow](https://www.urba
 
 As an economic geographer, my research interests lie at the intersection of financial geography, urban studies and economic sociology.
 
-My ongoing research investigates how digital technologies transform the real estate industry, create global real estate networks and reshape urban housing markets, focusing on South Africa.
+My ongoing research investigates how digital technologies transform the real estate and finance industries, create global real estate networks and reshape urban housing markets, focusing on South Africa.
+
+In April 2023, I'm co-organizing an international masterclass on "Digital technologies in the African city" in Cape Town. Check it [out](https://jmigozzi.github.io/masterclass/)!
+
 
 ::: about-link
 [ABOUT ME](about.html)
