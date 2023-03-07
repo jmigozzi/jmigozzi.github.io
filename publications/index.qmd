@@ -11,6 +11,7 @@ listing:
     - rugby_schools
     - rugby_sa
     - apartheid_algorithm
+    - india_fintech
   type: default
   image-align: left
   sort: "date desc"

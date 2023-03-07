@@ -1,16 +1,16 @@
 ---
-date: "2022-03-07"
+date: "2023-03-03"
 draft: false
-description: À l’heure du capitalisme de plateforme, comment le numérique reconfigure-t-il les marchés immobiliers et l’accès au logement ? En Afrique du Sud, au Cap, la pratique du credit scoring est devenue la règle. Fondée sur une sélection par les comportements financiers, elle contribue à renouveler la ségrégation héritée de l’apartheid.
-subtitle: Julien Migozzi <br> Published in *Metropolitiques*
-title: "Ville et numérique : vers un renouveau de la ségrégation urbaine au Cap ?"
-image: featured.png
+description: This paper explores the potential of FinTech to change the geography of finance and financial centres through a longitudinal and multiscalar analysis of FinTech in India. Using a financial ecology approach and a mixed-method framework, we document Bangalore’s emergence as India’s FinTech capital and the rise of New Delhi, demonstrate how Mumbai and Bangalore structure India’s financial geography as complementary ecosystemsm, and conceptualize FinTech in India as a “Tech-Fin-State” ecosystem.
+subtitle: Julien Migozzi, Michael Urban, Dariusz Wójcik  <br>  Published in *Geoforum*
+title: " “You should do what India does”: FinTech ecosystems in India reshaping the geography of finance"
+image: featured.jpg
 title-block-style: none
 toc: false
 ---
 
 
-<button type="button" class="btn btn-outline-success"><a href="https://metropolitiques.eu/Ville-et-numerique-vers-un-renouveau-de-la-segregation-urbaine-au-Cap.html">paper</a></button>
+<button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1016/j.geoforum.2023.103720">paper</a></button>
 
 ## Abstract
 

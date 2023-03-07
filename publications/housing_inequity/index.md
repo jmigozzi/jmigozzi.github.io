@@ -2,7 +2,7 @@
 date: "2020-08-11"
 draft: false
 description: This paper advances a research agenda on how asset-based welfare policies, residential market volatility, stratified accumulation and vulnerability impinge upon the geography of inequality in property markets.
-subtitle: Renaud Le Goix, Laure Casanova Enault, Loïc Bonneval, Thibault Le Corre, Eliza Benites‐Gambirazio, Guilhem Boulay, William Kutz, Natacha Aveline‐Dubach, Julien Migozzi, Ronan Ysebaert
+subtitle: Renaud Le Goix, Laure Casanova Enault, Loïc Bonneval, Thibault Le Corre, Eliza Benites‐Gambirazio, Guilhem Boulay, William Kutz, Natacha Aveline‐Dubach, Julien Migozzi, Ronan Ysebaert <br> Published in *Tijdschrift voor Economische en Sociale Geografie*
 title: "Housing (In)Equity and the Spatial Dynamics of Homeownership in France: A Research Agenda"
 image: featured.jpg
 title-block-style: none
