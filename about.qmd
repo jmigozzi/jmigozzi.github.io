@@ -12,6 +12,9 @@ I am particularly interested in credit scoring, real estate platforms (PropTech)
 
 My research involves mixed methods framework that combines in-depth fieldwork based on expert interviews and participant-observation with computational analysis and mapping, using open source tools such as R or QGIS.
 
+I also occasionally write or talk about rugby.
+
+
 **Appointments and Education**
 
 As a Research Associate in Finance and Geography, I was previously part of the ERC project "[Cities in Global Financial Network](https://www.citynet21.org/)" led by Professor Dariusz Wójcik. Our team authored the first Atlas of Finance, to be published by Yale University Press in 2024.
@@ -22,6 +25,7 @@ I earned my MA from the Ecole Normale Supérieure de Lyon and my PhD from the Un
 
 **Affiliations**
 
-I am a Research Associate at the Research Labs [Géographie-cités](https://geographie-cites.cnrs.fr/en/geographie-cites/) and [PACTE](https://www.pacte-grenoble.fr/en), an Associate Member of the [St Peter's College](https://www.spc.ox.ac.uk/), and a Visiting Scholar of the [African Center for Cities](https://www.africancentreforcities.net/) at the University of Cape Town.
+I am a Research Associate at the Research Labs [Géographie-cités](https://geographie-cites.cnrs.fr/en/geographie-cites/) and [PACTE](https://www.pacte-grenoble.fr/en), an Associate Member of the [St Peter's College](https://www.spc.ox.ac.uk/), and a Visiting Scholar at the [African Center for Cities](https://www.africancentreforcities.net/) at the University of Cape Town.
 
-I also occasionally write about rugby.
+Since 2023, I'm also an elected member of the [FinGeo Network](https://www.fingeo.net/) committee. Check it out and join us!
+
