@@ -6,13 +6,13 @@ title: "About"
 
 I am an [Urban Studies Foundation Postdoctoral Research Fellow](https://www.urbanstudiesfoundation.org/) in the [School of Geography and the Environment](https://www.geog.ox.ac.uk/staff/jmigozzi.html) at the University of Oxford.
 
-My ongoing research investigates how digital technologies transform the real estate and finance industries, create global real estate networks and reshape urban housing markets, focusing on South Africa and the Global South.
+My ongoing research investigates how digital technologies transform the real estate and finance industries by creating global real estate networks and reshaping urban housing markets. Most of my work focuses on post-apartheid South Africa.
 
-I am particularly interested in credit scoring, real estate platforms (PropTech) and FinTech, and how such technologies renew mechanisms of urban segregation and patterns of wealth inequalities.
+I am particularly interested in credit scoring, real estate platforms (PropTech) and FinTech, and how such technologies interact with and renew segregation and wealth inequalities.
 
 My research involves mixed methods framework that combines in-depth fieldwork based on expert interviews and participant-observation with computational analysis and mapping, using open source tools such as R or QGIS.
 
-I also occasionally write or talk about rugby.
+I also occasionally write or talk about rugby, unconditionally support the Rugby Club Toulonnais, and love improv' and sports theatre.
 
 
 **Appointments and Education**
