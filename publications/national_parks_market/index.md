@@ -1,7 +1,7 @@
 ---
 date: "2018-07-18"
 draft: false
-description: As emerging Global South Cities, Cape Town, Mumbai and Rio de Janeiro have experienced the a spectacular increase of housing prices, turning land around urban national parks into places of exclusiveness and opportunities. This chapter is the outcome of the Research Project "Urban National Parks in Emerging Countries" led by Professor Frédéric Landy from University of Paris Nanterre. 
+description: As emerging Global South Cities, Cape Town, Mumbai and Rio de Janeiro have experienced the a spectacular increase of housing prices, turning land around urban national parks into places of exclusiveness and opportunities. This chapter is the outcome of my participation in the research project "Urban National Parks in Emerging Countries" led by Professor Frédéric Landy (University of Paris Nanterre). 
 subtitle: Julien Migozzi, Abdul Shaban, Rafael Soares Gonçalves <br> Book chapter
 title: "Urban National Parks and the Making of the Housing Market in Emerging Cities: Places of Exclusiveness, Land of Opportunities"
 image: featured.png
