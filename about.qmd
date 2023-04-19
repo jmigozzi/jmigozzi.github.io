@@ -4,11 +4,11 @@ title: "About"
 
 <br>
 
-From September 2022, I am an [Urban Studies Foundation Postdoctoral Research Fellow](https://www.urbanstudiesfoundation.org/) in the [School of Geography and the Environment](https://www.geog.ox.ac.uk/staff/jmigozzi.html) at the University of Oxford.
+I am an [Urban Studies Foundation Postdoctoral Research Fellow](https://www.urbanstudiesfoundation.org/) in the [School of Geography and the Environment](https://www.geog.ox.ac.uk/staff/jmigozzi.html) at the University of Oxford.
 
 My ongoing research investigates how digital technologies transform the real estate and finance industries, create global real estate networks and reshape urban housing markets, focusing on South Africa and the Global South.
 
-I am particularly interested in credit scoring, real estate platforms (PropTech) and FinTech, and how such technologies renew patterns of urban segregation and wealth inequalities.
+I am particularly interested in credit scoring, real estate platforms (PropTech) and FinTech, and how such technologies renew mechanisms of urban segregation and patterns of wealth inequalities.
 
 My research involves mixed methods framework that combines in-depth fieldwork based on expert interviews and participant-observation with computational analysis and mapping, using open source tools such as R or QGIS.
 
@@ -25,7 +25,7 @@ I earned my MA from the Ecole Normale Supérieure de Lyon and my PhD from the Un
 
 **Affiliations**
 
-I am a Research Associate at the Research Labs [Géographie-cités](https://geographie-cites.cnrs.fr/en/geographie-cites/) and [PACTE](https://www.pacte-grenoble.fr/en), an Associate Member of the [St Peter's College](https://www.spc.ox.ac.uk/), and a Visiting Scholar at the [African Center for Cities](https://www.africancentreforcities.net/) at the University of Cape Town.
+I am a Research Associate at the Research Labs [Géographie-cités](https://geographie-cites.cnrs.fr/en/geographie-cites/) and [PACTE](https://www.pacte-grenoble.fr/en), an Associate Member of the [St Peter's College](https://www.spc.ox.ac.uk/), and a regular Visiting Scholar at the [African Center for Cities](https://www.africancentreforcities.net/) at the University of Cape Town.
 
 Since 2023, I'm also an elected member of the [FinGeo Network](https://www.fingeo.net/) committee. Check it out and join us!
 
