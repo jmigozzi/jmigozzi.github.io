@@ -7,6 +7,10 @@ title: "Ville et numérique : vers un renouveau de la ségrégation urbaine au C
 image: featured.png
 title-block-style: none
 toc: false
+categories: 
+  - South Africa
+  - Housing market
+  - Digital Technologies
 ---
 
 

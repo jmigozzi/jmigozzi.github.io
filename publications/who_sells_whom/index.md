@@ -7,6 +7,9 @@ title: "Who sells to whom in the suburbs? Home price inflation and the dynamics 
 image: featured.png
 title-block-style: none
 toc: false
+categories: 
+  - Housing market
+  - Segregation
 ---
 
 <button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1371/journal.pone.0213169">journal</a>

@@ -7,6 +7,10 @@ title: "Apartheid by Algorithm"
 image: featured.jpeg
 title-block-style: none
 toc: false
+categories: 
+  - South Africa
+  - Housing market
+  - Digital Technologies
 ---
 
 <button type="button" class="btn btn-outline-success">

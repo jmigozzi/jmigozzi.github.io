@@ -7,6 +7,9 @@ title: "Urban geographies of financial convergence: situating Indian financial c
 image: featured.png
 title-block-style: none
 toc: false
+categories: 
+  - Finance and cities
+  - Digital Technologies
 ---
 
 <button type="button" class="btn btn-outline-success"><a href="">journal</a>

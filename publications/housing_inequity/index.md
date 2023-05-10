@@ -7,6 +7,9 @@ title: "Housing (In)Equity and the Spatial Dynamics of Homeownership in France: 
 image: featured.jpg
 title-block-style: none
 toc: false
+categories: 
+  - Housing market
+  - Segregation
 ---
 
 

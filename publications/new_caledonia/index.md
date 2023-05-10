@@ -7,6 +7,8 @@ title: "Showcasing the sovereignty of non-self-governing islands: New Caledonia"
 image: featured.png
 title-block-style: none
 toc: false
+categories: 
+  - Early work
 ---
 
 <button type="button" class="btn btn-outline-success">

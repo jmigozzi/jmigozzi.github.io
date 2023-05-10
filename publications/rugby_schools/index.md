@@ -7,6 +7,8 @@ title: "L'école des Springboks : le rugby scolaire au Cap, entre ségrégation 
 image: featured.jpg
 title-block-style: none
 toc: false
+categories: 
+  - Early work
 ---
 
 <button type="button" class="btn btn-outline-success">

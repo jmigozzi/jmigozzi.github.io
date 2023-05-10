@@ -7,6 +7,11 @@ title: "Selecting Spaces, Classifying People: The Financialization of Housing in
 image: feature.jpeg
 title-block-style: none
 toc: false
+categories: 
+  - South Africa
+  - Housing market
+  - Digital Technologies
+  - Segregation
 ---
 
 <button type="button" class="btn btn-outline-success">

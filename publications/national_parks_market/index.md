@@ -7,6 +7,9 @@ title: "Urban National Parks and the Making of the Housing Market in Emerging Ci
 image: featured.png
 title-block-style: none
 toc: false
+categories: 
+  - South Africa
+  - Housing market
 ---
 
 <button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1080/10511482.2019.1684335">book chapter</a></button>

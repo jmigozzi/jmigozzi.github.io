@@ -7,6 +7,9 @@ title: " “You should do what India does”: FinTech ecosystems in India reshap
 image: Figure3.png
 title-block-style: none
 toc: false
+categories: 
+  - Finance and cities
+  - Digital Technologies
 ---
 
 

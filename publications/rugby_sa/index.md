@@ -7,6 +7,8 @@ title: "Le rugby en Afrique du Sud face au défi de transformation : jeu de pouv
 image: featured.png
 title-block-style: none
 toc: false
+categories: 
+  - Early work
 ---
 
 <button type="button" class="btn btn-outline-success">

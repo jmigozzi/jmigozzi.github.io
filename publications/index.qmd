@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Publications"
 listing:
   contents: 
     - ville_et_numerique
@@ -14,12 +14,10 @@ listing:
     - india_fintech
     - india_ma
   type: default
+  categories: true
   image-align: left
   sort: "date desc"
 ---
 
 
 
-
-
-# Publications
