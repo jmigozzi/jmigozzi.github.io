@@ -8,7 +8,7 @@ image: featured.png
 title-block-style: none
 toc: false
 categories: 
-  - Finance and cities
+  - Finance
   - Digital Technologies
 ---
 

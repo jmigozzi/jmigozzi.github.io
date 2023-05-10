@@ -10,6 +10,7 @@ toc: false
 categories: 
   - South Africa
   - Housing market
+  - Finance
   - Digital Technologies
   - Segregation
 ---

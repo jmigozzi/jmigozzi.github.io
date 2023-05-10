@@ -11,6 +11,7 @@ categories:
   - South Africa
   - Housing market
   - Digital Technologies
+  - Segregation
 ---
 
 
