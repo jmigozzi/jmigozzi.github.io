@@ -20,6 +20,10 @@ website:
   page-footer:
     left: "© 2022 Julien Migozzi"
     center: "Made with [quarto](https://quarto.org)"
+  google-analytics: 
+    tracking-id: "UA-5198935816"
+    storage: no
+    anonymize-ip: true
 
 format:
   html:
