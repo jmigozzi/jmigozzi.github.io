@@ -21,8 +21,8 @@ website:
     left: "© 2022 Julien Migozzi"
     center: "Made with [quarto](https://quarto.org)"
   google-analytics: 
-    tracking-id: "UA-5198935816"
-    storage: no
+    tracking-id: "G-DM8RWDZ57L"
+    storage: none
     anonymize-ip: true
 
 format:
