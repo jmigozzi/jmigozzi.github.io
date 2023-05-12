@@ -1,10 +1,13 @@
 project:
   type: website
   output-dir: docs
+  
+
+description-meta: "Julien Migozzi's personal website."
 
 website:
   title: ""
-  description: "Personal website of Julien Migozzi"
+  description: "Website of Julien Migozzi"
   search: false
   navbar:
     left:
@@ -19,7 +22,7 @@ website:
       - href: CV.qmd
   page-footer:
     left: "© 2022 Julien Migozzi"
-    center: "Made with [quarto](https://quarto.org)"
+    center: "Made with {{< fa brands r-project >}} and [quarto](https://quarto.org)"
   google-analytics: 
     tracking-id: "G-DM8RWDZ57L"
     storage: none
