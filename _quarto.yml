@@ -2,11 +2,10 @@ project:
   type: website
   output-dir: docs
   
-
 description-meta: "Julien Migozzi's personal website."
 
 website:
-  title: ""
+  title: "Julien Migozzi"
   description: "Website of Julien Migozzi"
   search: false
   navbar:
@@ -20,6 +19,7 @@ website:
       - href: Dissertation.qmd
         text: Dissertation
       - href: CV.qmd
+    title: false
   page-footer:
     left: "© 2022 Julien Migozzi"
     center: "Made with [quarto](https://quarto.org)"

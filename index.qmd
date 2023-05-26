@@ -1,5 +1,5 @@
 ---
-pagetitle: ""
+pagetitle: "Julien Migozzi"
 page-layout: full
 toc: false
 css: index.css
