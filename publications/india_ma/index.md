@@ -14,7 +14,7 @@ categories:
 
 <button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1080/00130095.2023.2205584">journal</a>
 </button>
-<button type="button" class="btn btn-outline-success"><a href="static/files/pubs/migozzi_et_al_gfn_gpn_2023.pdf" target="_blank">PDF</a>
+<button type="button" class="btn btn-outline-success"><a href="https://jmigozzi.github.io/static/files/pubs/migozzi_et_al_gfn_gpn_2023.pdf" target="_blank">PDF</a>
 </button>
 
 
