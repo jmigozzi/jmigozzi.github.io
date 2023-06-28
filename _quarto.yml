@@ -16,8 +16,8 @@ website:
         text: About
       - href: publications/index.qmd
         text: Research
-      - href: Dissertation.qmd
-        text: Dissertation
+      # - href: Dissertation.qmd
+      #   text: Dissertation
       - href: CV.qmd
     title: false
   page-footer:
