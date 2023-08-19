@@ -2,7 +2,7 @@
 date: "2019-03-21"
 draft: false
 description: In a context of a housing inflation in the greater Paris Region, this paper develops new computational methods to understand how housing price dynamics affect socioeconomic segregation.
-subtitle: Renaud Le Goix, Timothée Giraud, Robin Cura, Thibault Le Corre, Julien Migozzi <br> Published in *PLOS One*
+subtitle: With Renaud Le Goix, Timothée Giraud, Robin Cura and Thibault Le Corre <br> Published in *PLOS One*
 title: "Who sells to whom in the suburbs? Home price inflation and the dynamics of sellers and buyers in the metropolitan region of Paris, 1996–2012"
 image: featured.png
 title-block-style: none

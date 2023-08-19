@@ -2,7 +2,7 @@
 date: "2010-04-01"
 draft: false 
 description: A research paper presenting the findings of my Master dissertation on school rugby and urban segregation in post-apartheid Cape Town.
-subtitle: Julien Migozzi <br> Published in *Les Cahiers d'Outre-Mer*
+subtitle: Published in *Les Cahiers d'Outre-Mer*
 title: "Le rugby en Afrique du Sud face au défi de transformation : jeu de pouvoir, outil de développement et force symbolique" 
 image: featured.png
 title-block-style: none

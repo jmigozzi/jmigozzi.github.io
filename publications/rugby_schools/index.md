@@ -2,7 +2,7 @@
 date: "2012"
 draft: false
 description: A research paper presenting the findings of my Master dissertation on school rugby and urban segregation in post-apartheid Cape Town.
-subtitle: Julien Migozzi <br> Published in *M@ppemonde*
+subtitle: Published in *M@ppemonde*
 title: "L'école des Springboks : le rugby scolaire au Cap, entre ségrégation et déségrégation" 
 image: featured.jpg
 title-block-style: none

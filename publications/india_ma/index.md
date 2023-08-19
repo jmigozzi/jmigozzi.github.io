@@ -2,7 +2,7 @@
 date: "2023-05-25"
 draft: false
 description: How does finance transform global production networks and affect the hierarchy of financial centres? Recent advancements in the global production networks (GPNs) literature seek to better emphasize the role of finance by identifying where and how global financial networks (GFNs) intersect with GPNs. Financial centers (FCs) operate as key sites for articulating financial convergence, understood as the merging of financial and nonfinancial sectors enacted by cross-sectoral investments. Yet, how such entanglement both feeds on and impacts intercity networks, affecting metropolitan hierarchies, remains largely overlooked. Using a novel data set of 12,147 intersectoral, cross-border and domestic merger and acquisition deals involving finance and insurance firms throughout the period of 2000–20, this article unpacks the sectoral dynamics that underpin the intersection of GFNs with GPNs at the city level in India, the fifth largest economy in the world.
-subtitle: Julien Migozzi, Michael Urban, Dariusz Wójcik  <br>  Published in *Economic Geography*. 
+subtitle: With Dariusz Wójcik and Michael Urban  <br>  Published in *Economic Geography*.
 title: "Urban geographies of financial convergence: situating Indian financial centres across global production and financial networks"
 image: featured.png
 title-block-style: none

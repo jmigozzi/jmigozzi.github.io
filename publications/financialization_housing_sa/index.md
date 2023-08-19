@@ -2,7 +2,7 @@
 date: "2020"
 draft: false
 description: Focusing on Cape Town, this article investigates how financialization unfolds in the South African housing market. I use a mixed method that combines in-depth field research conducted among key market players with an analysis of georeferenced residential transactions.
-subtitle: Julien Migozzi  <br> Published in *Housing Policy Debate*
+subtitle: Published in *Housing Policy Debate*
 title: "Selecting Spaces, Classifying People: The Financialization of Housing in the South African City"
 image: feature.jpeg
 title-block-style: none

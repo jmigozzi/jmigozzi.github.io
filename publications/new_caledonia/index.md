@@ -2,7 +2,7 @@
 date: "2017-06-09"
 draft: false
 description: This paper is the output of my work as a Research Assistant for the Marsden Fund research project on aid and sovereignty across the Pacific island nations, led by Professor John Overton (Wellington's Victoria University, New Zealand).
-subtitle: Gerard Prinsen, Yves Lafoy, Julien Migozzi <br> Published in *Asia Pacific Viewpoint*
+subtitle: With Gerard Prinsen and Yves Lafoy <br> Published in *Asia Pacific Viewpoint*
 title: "Showcasing the sovereignty of non-self-governing islands: New Caledonia"
 image: featured.png
 title-block-style: none
