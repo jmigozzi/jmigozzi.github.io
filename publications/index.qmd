@@ -14,6 +14,8 @@ listing:
     - apartheid_algorithm
     - india_fintech
     - india_ma
+    - metropolitics
+    - rental_platforms
   type: default
   categories: true
   image-align: left
