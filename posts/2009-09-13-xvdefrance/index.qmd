@@ -13,9 +13,9 @@ With the 2023 Rugby World Cup that just started, I decided to combine two passio
 
 Sourcing data from [Wikipedia](https://fr.wikipedia.org/wiki/Liste_des_s%C3%A9lectionn%C3%A9s_en_%C3%A9quipe_de_France_de_rugby_%C3%A0_XV), I collected the list of the 1165 players that represented France at the international level since 1906, then looped through each page to collect, when available, their place and date of birth.
 
-With a bit of geocoding and some attenmpts at mastering ObservableHQ, I was able to build a simple [interactive website](https://jmigozzi.github.io/xvdefrance/) (in French, but thinking about a translation soon...).
+With a bit of geocoding and some attempts at mastering ObservableHQ, I was able to build a simple [interactive website](https://jmigozzi.github.io/xvdefrance/) (in French, but thinking about a translation soon...).
 
-One can explore the global circulations and local patterns that preside over the making of the French national rugby team across time.
+Using the time slider, you can explore the global circulations and local patterns that preside over the making of the French national rugby team across time.
 
 Several key trends emerge:
 
