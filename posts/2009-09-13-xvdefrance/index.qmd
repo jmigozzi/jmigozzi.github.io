@@ -1,6 +1,6 @@
 ---
 title: "An interactive map of the French rugby team"
-description: "Towards a global geography of rugby"
+description: "Rugby, but with a computational twist"
 author:
   - name: Julien Migozzi
 date: "09-13-2023"
