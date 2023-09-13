@@ -16,6 +16,8 @@ website:
         text: About
       - href: publications/index.qmd
         text: Research
+      - href: posts.qmd
+        text: Blog
       # - href: Dissertation.qmd
       #   text: Dissertation
       - href: CV.qmd

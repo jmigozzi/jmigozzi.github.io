@@ -6,10 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2017-06-09">
+<meta name="author" content="Julien Migozzi">
+<meta name="dcterms.date" content="2023-09-13">
 <meta name="description" content="Julien Migozzi’s personal website.">
 
-<title>Julien Migozzi - Showcasing the sovereignty of non-self-governing islands: New Caledonia</title>
+<title>Julien Migozzi - An interactive map of the French rugby team</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,7 +72,7 @@ gtag('config', 'G-DM8RWDZ57L', { 'anonymize_ip': true});
 <link rel="stylesheet" href="../../academicons.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -110,30 +111,71 @@ gtag('config', 'G-DM8RWDZ57L', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">An interactive map of the French rugby team</h1>
+                  <div>
+        <div class="description">
+          Towards a global geography of rugby
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Rugby</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Julien Migozzi </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">September 13, 2023</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header">
-<h1 class="title display-7">Showcasing the sovereignty of non-self-governing islands: New Caledonia</h1>
-<p class="subtitle lead">With Gerard Prinsen and Yves Lafoy <br> Published in <em>Asia Pacific Viewpoint</em></p>
-
-<p class="date">2017-06-09</p>
-</header>
-
-<button type="button" class="btn btn-outline-success">
-<p><a href="https://doi.org/10.1111/apv.12151">paper</a></p>
-</button>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Since 1983, no non-self-governing island connected to a (neo-) colonial European or American metropole has acquired full Westphalian sovereignty and these islands continue to operate within constitutional frameworks that connect them to these metropoles. Large majorities in referendums on several of these islands have rejected full sovereignty. This paper opens with a review of the essential elements of the concept of sovereignty in a historical and global context, before studying how sovereignty is unfolding in new forms in non-self-governing islands in the Pacific and the Caribbean. As a case study, an analysis is presented of how pro-France (loyaliste) and pro-independence (indépendantiste) parties in New Caledonia are negotiating sovereignty with France. Evidence is given of how these New Caledonian parties are creatively using classic Westphalian signifiers of sovereignty normally reserved for sovereign states such as flags, diplomatic representations and international treaties, while still negotiating New Caledonia’s sovereignty with France. This suggests that in contrast to Westphalian sovereignty, a unique ‘Islandian’ concept of sovereignty is emerging. Islands that are not sovereign in a Westphalian sense can creatively disassemble and reassemble signifiers of Westphalian sovereignty to strengthen their continuous negotiations with their metropoles and their neighbours.</p>
-<p>Published in <em>Asia Pacific Viewpoint</em>.</p>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
-</section>
+
+
+<p>With the 2023 Rugby World Cup that just started, I decided to combine two passions of mine: geography and rugby - with a bit of a computational twist.</p>
+<p>Sourcing data from <a href="https://fr.wikipedia.org/wiki/Liste_des_s%C3%A9lectionn%C3%A9s_en_%C3%A9quipe_de_France_de_rugby_%C3%A0_XV">Wikipedia</a>, I collected the list of the 1165 players that represented France at the international level since 1906, then looped through each page to collect, when available, their place and date of birth.</p>
+<p>With a bit of geocoding and some attenmpts at mastering ObservableHQ, I was able to build a simple <a href="https://jmigozzi.github.io/xvdefrance/">interactive website</a> (in French, but thinking about a translation soon…).</p>
+<p>One can explore the global circulations and local patterns that preside over the making of the French national rugby team across time.</p>
+<p>Several key trends emerge:</p>
+<ul>
+<li>an international recruitment from the very beginnings of the French national team (Russia, England, Argentina, <em>etc.</em>) ;</li>
+<li>the prominent role of small towns and villages in France, especially from 1945 to 1975;</li>
+<li>the historical weight of the South-West, a region commonly depicted as the stronghold of rugby in France - despite the fact that Paris is the 2nd largest provider of international rugby players after Toulouse;</li>
+<li>the legacies of the French colonial empire, with many players born in Africa (Algeria, Cameroon, Ivory Coast <em>etc.</em>) and Oceania (New Caledonia, Wallis and Futuna - still French territories to this day);</li>
+<li>a pronounced process of urbanization, with more and more players born in large cities over the last 20 years, while the geographical footprint of players extends across the entire country, towards the North and the West, where the game is historically less developed;</li>
+<li>the transformation of rugby into a professional, globalized industry, with foreign players coming from South Africa (2nd most represented country), New Zealand or Fiji, to have a professional career in the French domestic league, prior becoming eligible and selected for the French national team.</li>
+</ul>
+<p>This is just a little exploration for now, but if time allows, I will improve this analysis, and replicate the process for other teams.</p>
+<p>The script and the data can be accessed in this <a href="https://github.com/jmigozzi/xvdefrance">repository</a>.</p>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -18,6 +18,12 @@
     ]
   },
   {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2009-09-13-xvdefrance/index.html"
+    ]
+  },
+  {
     "listing": "/publications/CopyOfindex.html",
     "items": [
       "/publications/index.html"
