@@ -10,7 +10,7 @@ My ongoing research investigates how digital technologies transform the real est
 
 My work combines in-depth fieldwork based on expert interviews and participant-observation with computational and spatial analysis, using R and QGIS.
 
-I also occasionally write and talk about the geography and sociology of rugby, a real passion of mine.
+I also occasionally [write](https://jmigozzi.github.io/posts.html#category=Rugby) and talk about rugby.
 
 
 **Appointments and Education**
