@@ -1,0 +1,22 @@
+---
+title: "Mapping the 2023 rugby World Cup"
+description: "675 players, 20 teams, 33 countries"
+author:
+  - name: Julien Migozzi
+date: "09-15-2023"
+categories: [Rugby] # self-defined categories
+image: preview.png
+draft: false # 
+---
+
+With the 2023 Rugby World Cup that just started, I decided to combine two passions of mine: geography and rugby - with a bit of a computational twist.
+
+Sourcing data from [this Wikipedia page](https://en.wikipedia.org/wiki/2023_Rugby_World_Cup_squads), I collected the list of all players participating in the world cup, representing a total of 20 teams. Replicating what I did for the French team in a [previous post](https://jmigozzi.github.io/posts/2009-09-13-xvdefrance/), I extracted - when available - the place and country of birth.
+
+The result is this simple [interactive website](https://jmigozzi.github.io/rwcsquads2023/), showing how deeply transnational the making of international teams is now, since rugby became a professional sport in the late 1990s.  
+
+You can explore the composition of each team or identify which country is the most represented across the 20 teams.
+
+
+The script and the data can be accessed in this [repository](https://github.com/jmigozzi/rwcsquads2023).
+

@@ -1,6 +1,6 @@
 ---
-title: "An interactive map of the French rugby team"
-description: "Rugby, but with a computational twist"
+title: "117 years of French rugby on a map"
+description: "Les Bleus, a worldwide team"
 author:
   - name: Julien Migozzi
 date: "09-13-2023"
