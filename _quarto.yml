@@ -20,7 +20,7 @@ website:
         text: Blog
       # - href: Dissertation.qmd
       #   text: Dissertation
-      - href: CV.qmd
+      - href: cv/index.qmd
     title: false
   page-footer:
     left: "© 2022 Julien Migozzi"
