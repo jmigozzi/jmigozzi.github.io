@@ -14,7 +14,7 @@ categories:
 
 <button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1080/00130095.2023.2205584">journal</a>
 </button>
-<button type="button" class="btn btn-outline-success"><a href="tatic/files/Migozzi_et_a_2023_Urban_Geographies_Financial_Convergence.pdf" target="_blank">PDF</a>
+<button type="button" class="btn btn-outline-success"><a href="static/files/Migozzi_et_a_2023_Urban_Geographies_Financial_Convergence.pdf" target="_blank">PDF</a>
 </button>
 
 
