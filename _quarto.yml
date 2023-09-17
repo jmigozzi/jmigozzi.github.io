@@ -21,6 +21,7 @@ website:
       # - href: Dissertation.qmd
       #   text: Dissertation
       - href: cv/index.qmd
+        text: CV
     title: false
   page-footer:
     left: "© 2022 Julien Migozzi"
