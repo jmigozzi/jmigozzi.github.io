@@ -14,7 +14,7 @@ categories:
   - South Africa
 ---
 
-<button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1177/02637758231195962">journal</a>
+<button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1177/02637758231195962">paper</a>
 </button>
 
 
