@@ -2,7 +2,7 @@
 date: "2023-08-25"
 draft: false
 description: This article examines how racial capitalism intersects with platform capitalism in post-apartheid South Africa. I argue that rental platforms, built upon technologies of credit scoring, extend the extractive logic of racial capitalism through two joint rentier mechanisms. the transformation of rental housing into a new asset class; the extraction and assetization of rental data.
-subtitle: "Accepted at *Environment and Planning D: Society and Space*"
+subtitle: "Published in *Environment and Planning D: Society and Space*"
 title: "The good, the bad and the tenant: rental platforms renewing racial capitalism in the post-apartheid housing market"
 image: featured.png
 title-block-style: none
@@ -13,6 +13,10 @@ categories:
   - Digital Technologies
   - South Africa
 ---
+
+<button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1177/02637758231195962">journal</a>
+</button>
+
 
 
 ## Abstract
