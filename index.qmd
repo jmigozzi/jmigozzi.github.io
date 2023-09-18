@@ -47,6 +47,6 @@ I combine qualitative research with computational tools.
 :::
 
 ::: {.column .col-v-center width="90%"}
-![Cape Town. © J. Migozzi, 2018.](static/img/CT_banner.jpg){fig-align="center"}
+![Cape Town and Table Mountain, seen from Parklands. © J. Migozzi, 2018.](static/img/CT_banner.jpg){fig-align="center"}
 :::
 :::
