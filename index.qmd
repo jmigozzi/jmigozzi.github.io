@@ -31,6 +31,7 @@ shortcodes:
 {{< github jmigozzi >}} 
 {{< scholar TOQMW10AAAAJ >}} 
 {{< orcid 0000-0001-6896-8809 >}}
+{{< bluesky https://bsky.app/profile/jmigozzi.bsky.social >}}
 :::
 
 I am an [Urban Studies Foundation Postdoctoral Research Fellow](https://www.urbanstudiesfoundation.org/) at the University of Oxford.

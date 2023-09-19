@@ -17,3 +17,10 @@ function orcid(handle)
   local output = '<a href="https://orcid.org/' .. pandoc.utils.stringify(handle) .. '"><i class="ai ai-orcid" ></i></a>'
   return pandoc.RawBlock('html', output)
 end
+
+
+function bluesky(url)
+  local output = '<a rel="me" href="' .. pandoc.utils.stringify(url) ..'"><i class="bi bi-square-fill"></i></a>'
+  return pandoc.RawBlock('html', output)
+end
+
