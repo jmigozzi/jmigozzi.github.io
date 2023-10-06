@@ -28,6 +28,23 @@ listing:
 :::{#main-listing}
 :::
 
+## Dissertation
+
+
+My [PhD dissertation](https://www.theses.fr/en/2020GRALH007), "*A city to sell. Digitalization and financialization of the housing market in Cape Town: stratification & segregation in the emerging global city*", was awarded two national prizes: 
+
+- the 2021 [Doctoral Prize in Urban Studies](http://www.urbanisme-puca.gouv.fr/prix-de-these-sur-la-ville-2021-a2141.html) by the PUCA-APERAU-Caisse des Dépôts;
+
+- the 2021 [Dissertation Award in Geography](https://www.cnfg.fr/vie-du-comite/prix-de-these-du-cnfg/) by the French National Committee of Geography (CNFG). 
+
+The thesis also received a Special mention of the jury for the 2021 [Humanities and social sciences PSL Dissertation Prize](https://psl.eu/en/news/winners-2021-humanities-and-social-sciences-shs-psl-dissertation-prize).
+
+
+In this work, I demonstrated how the digitalization of the real estate industry structured around the implementation of credit scoring and the rise of real estate platforms reshaped the functioning of the housing market, enabling a selective financialization of housing across the mortgage market and the private rental sector. These market reconfigurations have renewed mechanisms and patterns of social stratification and urban segregation in Cape Town, a post-apartheid and emerging city of the Global South.
+
+To investigate the housing market, I conducted 18 months of fieldwork among the real estate industry, from real estate agents to mortgage lenders, from corporate investors to ordinary households. I used expert interviews and ethnographic methods. In parallel, In order to analyze how the spatial dynamics of price and credit influence the evolution of income-based and racial segregation, I sourced raw deeds data to build a database of 900,000 geolocated sales, covering the metro area from 1984 to 2017, and digitally reconstructed the zoning of apartheid. This database was cross-analysed with longitudinal census data. I used open source tools such as R and QGIS to perform computational and spatial analysis.
+
+
 ## Public scholarship
 
 
