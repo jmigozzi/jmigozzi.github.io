@@ -17,14 +17,14 @@ website:
       - href: publications/index.qmd
         text: Research
       - href: posts.qmd
-        text: Blog
+        text: Notes
       # - href: Dissertation.qmd
       #   text: Dissertation
       - href: cv/index.qmd
         text: CV
     title: false
   page-footer:
-    left: "© 2022 Julien Migozzi"
+    left: "© 2023 Julien Migozzi"
     center: "Made with [quarto](https://quarto.org)"
   google-analytics: 
     tracking-id: "G-DM8RWDZ57L"
@@ -34,7 +34,7 @@ website:
 format:
   html:
     theme: 
-      - cosmo
+      - sandstone
       - custom.scss
     css: 
       - styles.css

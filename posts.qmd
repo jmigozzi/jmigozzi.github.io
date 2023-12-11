@@ -1,8 +1,10 @@
 ---
-title: "Blog"
+title: "Notes"
 listing: 
   contents: posts 
   type: default # or grid `default` or `table
   sort: "date desc" # can also sort on more than one field
   categories: true 
 ---
+
+No intention or commitment for a regular blog: this is just a random collection of side projects and unfinished stuff.

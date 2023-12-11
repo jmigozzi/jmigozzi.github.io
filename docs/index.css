@@ -1,6 +1,6 @@
 h1 {
   font-size: 2em;
-  color: #51AA75;
+  color: #5D5B5A;
   font-weight: 400;
 }
 
@@ -64,4 +64,14 @@ div.quarto-post .thumbnail img {
   margin: 0 auto;
   border-radius: 50%;
   object-fit: cover;
+}
+
+.column-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.column-content > div {
+  flex-grow: 1;
 }
