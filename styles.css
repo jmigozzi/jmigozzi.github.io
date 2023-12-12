@@ -169,3 +169,8 @@ div.column.col-v-center{
   color: #5D5B5A;
   margin-left: 0.5em;
 }
+
+.br { 
+      display: block; 
+      margin-bottom:0.2em; 
+  } 

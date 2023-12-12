@@ -12,8 +12,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About me
       - href: publications/index.qmd
         text: Research
       - href: posts.qmd
