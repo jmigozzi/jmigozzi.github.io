@@ -51,7 +51,7 @@ My research interests lie at the intersection of economic geography and urban st
 
 My ongoing research analyses how financial and housing markets, as mediated by digital technologies, intersect with social and spatial inequalities, focusing on South Africa and Cape Town, a post-apartheid and emerging global city dubbed as the "Silicon Cape" of Africa. I explore how financial capital and property technologies shape urban space and social change, by interrogating the performative effects of data, algorithms and platforms over people and places.
 
-My current project, funded by the [Urban Studies Foundation](https://www.urbanstudiesfoundation.org/), investigates how digital ecosystems across the PropTech, FinTech and InsurTech industries reconfigure value chains and transform urban housing markets in South Africa. 
+My current project, funded by the [Urban Studies Foundation](https://www.urbanstudiesfoundation.org/), investigates how digital ecosystems across the PropTech and InsurTech industries reconfigure value chains and transform urban housing markets in South Africa. 
 
 My work combines qualitative and quantitative research to explain and map processes of market-making, urban change and economic transformations. I use long-term ethnographic fieldwork (expert interviews, participant-observation) and spatial data science, leveraging computational tools, spatial analysis, and data vizualisation.
 
