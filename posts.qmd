@@ -7,4 +7,4 @@ listing:
   categories: true 
 ---
 
-No intention or commitment for a regular blog: this is just a random collection of side projects and unfinished stuff.
+A space where I share some little, ongoing and unfinished personal side projects.
