@@ -6,9 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-05-10">
 <meta name="description" content="Julien Migozzi’s personal website.">
 
-<title>Julien Migozzi - Listing Example</title>
+<title>Julien Migozzi - Maps, Apps and Race: The Market as a Theoretical Machine</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,20 +25,18 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -52,35 +51,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DM8RWDZ57L"></script>
 
 <script type="text/javascript">
@@ -96,14 +66,12 @@ gtag('js', new Date());
 gtag('config', 'G-DM8RWDZ57L', { 'anonymize_ip': true});
 </script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../styles.css">
-<link rel="stylesheet" href="../academicons.css">
+<link rel="stylesheet" href="../../styles.css">
+<link rel="stylesheet" href="../../academicons.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -115,19 +83,19 @@ gtag('config', 'G-DM8RWDZ57L', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html" rel="" target="">
+    <a class="nav-link" href="../../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publications/index.html" rel="" target="">
+    <a class="nav-link" href="../../publications/index.html" rel="" target="">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../posts.html" rel="" target="">
+    <a class="nav-link" href="../../posts.html" rel="" target="">
  <span class="menu-text">Notes</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../cv/index.html" rel="" target="">
+    <a class="nav-link" href="../../cv/index.html" rel="" target="">
  <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -141,86 +109,29 @@ gtag('config', 'G-DM8RWDZ57L', { 'anonymize_ip': true});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Listing Example</h1>
-</div>
+<header id="title-block-header">
+<h1 class="title display-7">Maps, Apps and Race: The Market as a Theoretical Machine</h1>
+<p class="subtitle lead">Published in <em>Tijdschrift voor Economische en Sociale Geografie</em></p>
 
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
+<p class="date">2024-05-10</p>
 </header>
 
+<button type="button" class="btn btn-outline-success">
+<p><a href="https://doi.org/10.1111/tesg.12631">journal</a></p>
+</button>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>My commentary situates Desiree Fields’ lecture within a long-standing movement that, paying attention to real estate data and techniques of property, turned the housing market into a theoretical machine. I understand her intervention as a fourth and pivotal conceptual moment in the study of housing markets and inequalities for the discipline of geography, for it brings racial capitalism and settler colonialism as theoretical starting points to analyse the political economy of housing in the era of digital property technologies. As such, her lecture opens up a welcome, ambitious, yet also uncertain terrain to advance global urban theory under platform capitalism and stimulate relational approaches in housing studies. Discussing the regularities through which race, technology and property shape housing and wealth inequalities across variegated sites of market-making provides a conceptual horizontality that acknowledges the United States as a testing ground, rather than a ground truth, for the production of geographical knowledge.</p>
+<p>Published in <em>Tijdschrift voor Economische en Sociale Geografie</em>.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1715858843899" data-listing-reading-time-sort="2">
-<div class="thumbnail">
-<p><a href="../publications/index.html"> <p class="card-img-top"><img src="maps_apps_race\featured.jpg"  class="thumbnail-image card-img"/></p> </a></p>
-</div>
-<div class="body">
-<a href="../publications/index.html">
-<h3 class="no-anchor listing-title">
-Research
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-  
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../publications/index.html"> </a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Finance,Digital Technologies" data-listing-date-sort="1684969200000" data-listing-file-modified-sort="1694960999746" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<div class="thumbnail">
-<p><a href="../publications/india_ma/index.html"> <img src="../publications/india_ma/featured.png" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="../publications/india_ma/index.html">
-<h3 class="no-anchor listing-title">
-Urban geographies of financial convergence: situating Indian financial centres across global production and financial networks
-</h3>
-<div class="listing-subtitle">
-With Dariusz Wójcik and Michael Urban <br> Published in <em>Economic Geography</em>.
-</div>
-<div class="listing-description">
-<p>How does finance transform global production networks and affect the hierarchy of financial centres? Recent advancements in the global production networks (GPNs) literature seek to better emphasize the role of finance by identifying where and how global financial networks (GFNs) intersect with GPNs. Financial centers (FCs) operate as key sites for articulating financial convergence, understood as the merging of financial and nonfinancial sectors enacted by cross-sectoral investments. Yet, how such entanglement both feeds on and impacts intercity networks, affecting metropolitan hierarchies, remains largely overlooked. Using a novel data set of 12,147 intersectoral, cross-border and domestic merger and acquisition deals involving finance and insurance firms throughout the period of 2000–20, this article unpacks the sectoral dynamics that underpin the intersection of GFNs with GPNs at the city level in India, the fifth largest economy in the world.</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../publications/india_ma/index.html">
-<div class="listing-date">
-May 25, 2023
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

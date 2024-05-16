@@ -11,7 +11,7 @@ listing:
     - new_caledonia
     - rugby_schools
     - rugby_sa
-    
+    - maps_apps_race
     - apartheid_algorithm
     - india_fintech
     - india_ma
@@ -27,6 +27,39 @@ listing:
 
 :::{#main-listing}
 :::
+
+## Books
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](atlas/atlas.jpg){width=200}
+
+:::
+
+::: {.column width="10%"}
+
+
+:::
+
+::: {.column width="60%"}
+
+I am a coauthor of the *[Atlas of Finance](https://yalebooks.yale.edu/book/9780300253054/atlas-of-finance/)*, published by Yale University Press, coordinated by Professor [Dariusz Wójcik](https://fass.nus.edu.sg/geog/people/dariusz-wojcik/)  (NUS), in collaboration with [Oliver Uberti](https://www.oliveruberti.com/) and Professor [James Cheshire](https://jcheshire.com/) (UCL).
+
+Praises:
+
+*This volume gives readers a real, intrinsic view of how, where, and when financial markets do their work. It follows the history of money from cuneiform tablets to Bitcoins, showing how the essence of finance is in the networks that it both creates and destroys; and each page bursts with stunning and illuminating illustrations. Everyone from students to seasoned professionals to armchair experts will learn something from this unique and fun book.*
+
+-- Robert J. Shiller, Nobel laureate in Economic Sciences and author.
+
+*Erudite, spectacular, and revealing, the Atlas of Finance sheds a bright light on the history and geography of finance--its contribution to unleashing human potential but also its darker side. A tremendous accomplishment!*
+
+-- Gabriel Zucman, professor at the Paris School of Economics and University of California, Berkeley.
+
+:::
+
+::::
+
 
 ## Dissertation
 
