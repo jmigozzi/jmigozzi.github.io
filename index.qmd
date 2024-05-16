@@ -45,18 +45,20 @@ shortcodes:
 ::: {.column .col-v-center width="60%"}
 ---
 
-I am an economic and urban geographer. Currently, I am an [Urban Studies Foundation Postdoctoral Research Fellow](https://www.urbanstudiesfoundation.org/) at the [School of Geography and the Environment](https://www.geog.ox.ac.uk/staff/jmigozzi.html/) at the University of Oxford. In 2024-2025, I will be a Visiting Scholar at the Department of Sociology and at the [Berkeley Economy and Society Initiative](https://besi.berkeley.edu/) at UC Berkeley, invited by Professor Marion Fourcade.
+Welcome! I am an economic and urban geographer. I am an [Urban Studies Foundation Postdoctoral Research Fellow](https://www.urbanstudiesfoundation.org/) at the [School of Geography and the Environment](https://www.geog.ox.ac.uk/staff/jmigozzi.html/) at the University of Oxford. 
 
-My research interests lie at the intersection of economic sociology and urban studies. I examine how digital capitalism reshapes cities and markets, questioning theoretical boundaries and empirical connections between the Global North and the Global South.
+In 2024-2025, I will be a Visiting Scholar at the Department of Sociology and the [Berkeley Economy and Society Initiative](https://besi.berkeley.edu/) at UC Berkeley, invited by Professor Marion Fourcade.
 
-My current research project investigates how the rise of platform capitalism reshapes housing markets and inequalities in South Africa. More specifically, I examine how the PropTech industry, through the entanglement of financial capital with digital property technologies, affect patterns of social stratification and urban segregation in an emerging economy.
+My research interests lie at the intersection of financial geography, urban studies, and economic sociology. I examine how digital capitalism reshapes cities and markets, questioning theoretical boundaries and empirical connections between the Global North and the Global South.
+
+My current research project investigates how the rise of platform capitalism reshapes housing markets and inequalities in South Africa. More specifically, I examine how the PropTech industry, through the entanglement of financial capital with digital property technologies, reconfigure value chains, affects patterns of  stratification and urban segregation in an emerging economy profoundly shaped by racial capitalism.
 
 I use mixed-methods that combine long-term ethnographic fieldwork with spatial data science, leveraging computational tools, spatial analysis, and data vizualisation.
 
-At Oxford, I was previously a Research Associate in Finance and Geography on the ERC-funded project "[Cities in Global Financial Network](https://cordis.europa.eu/project/id/681337)". I am a coauthor of the forthcoming *[Atlas of Finance](https://yalebooks.yale.edu/book/9780300253054/atlas-of-finance/)*, published by Yale University Press. Prior to joining Oxford, I was a Lecturer in Geography at [the Ecole Normale Supérieure](https://www.ens.psl.eu/en) in Paris.
+At Oxford, I was previously a Research Associate in Finance and Geography on the ERC-funded project "[Cities in Global Financial Network](https://cordis.europa.eu/project/id/681337)". I am a coauthor of the forthcoming *[Atlas of Finance](https://yalebooks.yale.edu/book/9780300253054/atlas-of-finance/)*, published by Yale University Press. From 2017-2021 I was a Lecturer in the Departmebt of Geography at [the Ecole Normale Supérieure](https://www.ens.psl.eu/en) in Paris.
 
 
-I am a former student of the [Ecole Normale Supérieure de Lyon](https://www.ens-lyon.fr/en/), where I completed my MA and was received at the *[agrégation](https://en.wikipedia.org/wiki/Agr%C3%A9gation)* of Geography. I hold my PhD from the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/). My [dissertation](https://www.theses.fr/en/2020GRALH007) was awarded both the national [Doctoral Prize in Urban Studies](http://www.urbanisme-puca.gouv.fr/prix-de-these-sur-la-ville-2021-a2141.html) and the national [Dissertation Award in Geography](https://www.cnfg.fr/vie-du-comite/prix-de-these-du-cnfg/).
+I am a former student of the [Ecole Normale Supérieure de Lyon](https://www.ens-lyon.fr/en/), where I completed my MA and was received at the *[agrégation](https://en.wikipedia.org/wiki/Agr%C3%A9gation)* of Geography. I earned my PhD from the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/). My [dissertation](https://www.theses.fr/en/2020GRALH007) was awarded both the national [Doctoral Prize in Urban Studies](http://www.urbanisme-puca.gouv.fr/prix-de-these-sur-la-ville-2021-a2141.html) and the national [Dissertation Award in Geography](https://www.cnfg.fr/vie-du-comite/prix-de-these-du-cnfg/).
 
 
 I am an Associate Member of [St Peter's College](https://www.spc.ox.ac.uk/), a regular Visiting Scholar at the [African Centre for Cities](https://www.africancentreforcities.net/) at the University of Cape Town, and a Research Associate at the CNRS Research Lab [Géographie-cités](https://geographie-cites.cnrs.fr/en/geographie-cites/).
