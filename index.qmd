@@ -51,7 +51,7 @@ My research interests lie at the intersection of financial geography, urban stud
 
 My current research project investigates how the rise of platform capitalism reshapes housing markets and inequalities in South Africa. More specifically, I examine how the PropTech industry, through the entanglement of financial capital with digital property technologies, reconfigures value chains and patterns of urban segregation in emerging cities profoundly shaped by racial capitalism.
 
-I use mixed-methods that combine long-term ethnographic fieldwork with spatial data science, leveraging computational tools, spatial analysis, and data vizualisation.
+I use mixed-methods that combine long-term ethnographic fieldwork with spatial data science, leveraging computational tools, spatial analysis, and data vizualisation to measure and locate how financial capital anchors in space, while conducting expert interviews to capture the social construction of markets and data.
 
 At Oxford, I was previously a Research Associate in Finance and Geography on the ERC-funded project "[Cities in Global Financial Network](https://cordis.europa.eu/project/id/681337)". I am a coauthor of the forthcoming *[Atlas of Finance](https://yalebooks.yale.edu/book/9780300253054/atlas-of-finance/)*, published by Yale University Press. From 2017-2021 I was a Lecturer in the Departmentt of Geography at [the Ecole Normale Supérieure](https://www.ens.psl.eu/en).
 
