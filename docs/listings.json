@@ -1,5 +1,19 @@
 [
   {
+    "listing": "/publications/CopyOfindex.html",
+    "items": [
+      "/publications/index.html",
+      "/publications/india_ma/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2009-09-15-worldcupsquads/index.html",
+      "/posts/2009-09-13-xvdefrance/index.html"
+    ]
+  },
+  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/bipartitate_agencies/index.html",
@@ -17,20 +31,6 @@
       "/publications/new_caledonia/index.html",
       "/publications/rugby_schools/index.html",
       "/publications/rugby_sa/index.html"
-    ]
-  },
-  {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/2009-09-15-worldcupsquads/index.html",
-      "/posts/2009-09-13-xvdefrance/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/CopyOfindex.html",
-    "items": [
-      "/publications/index.html",
-      "/publications/india_ma/index.html"
     ]
   }
 ]
