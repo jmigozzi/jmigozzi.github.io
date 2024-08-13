@@ -5,7 +5,7 @@ title-block-banner: "#9EEBCF"
 published-title: CV last updated
 engine: knitr 
 cv:
-  pdf: "Julien_CV_09_2023.pdf"
+  pdf: "Julien_CV_2024.pdf"
 ---
 
 <!-- <iframe src="static/files/Julien_CV_October2022.pdf" height="2000" width="1000"></iframe> -->
