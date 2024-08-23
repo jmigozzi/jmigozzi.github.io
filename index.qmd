@@ -47,9 +47,9 @@ shortcodes:
 
 Hi, I am Julien, an economic and urban geographer. I am currently an [Urban Studies Foundation Postdoctoral Research Fellow](https://www.urbanstudiesfoundation.org/) at the [University of Oxford](https://www.geog.ox.ac.uk/staff/jmigozzi.html), and a Visiting Scholar at the Department of Sociology and the [Berkeley Economy and Society Initiative](https://besi.berkeley.edu/) at UC Berkeley.
 
-At the intersection of financial geography, urban studies, and economic sociology, my research examines how digital and rentier capitalism reshape cities and markets, questioning theoretical boundaries and empirical connections between the Global North and the Global South.  
+At the intersection of financial geography, urban studies, and economic sociology, my research examines how digital capitalism reshapes cities and markets, questioning theoretical boundaries and empirical connections between the Global North and the Global South.  
 
-Focusing on South Africa, my current project investigates how housing is coded into a new asset class by financial capital and digital property technologies, and how this data-driven transformation of the market shapes urban segregation and wealth inequalities. From Cape Town, a post-apartheid city rebranded as the "Silicon Cape" over the last decade, I examine how real estate platforms, as part of the rising PropTech industry, reconfigure value chains, organizational practices, and social inequalities across urban housing markets profoundly shaped by racial capitalism.
+Focusing on South Africa, my current project investigates how housing is coded into a new asset class by financial capital and digital technologies, and how this transformation of the market by real estate platforms shapes urban segregation and wealth inequalities. From Cape Town, a post-apartheid  city rebranded as the "Silicon Cape" over the last decade, I examine how digital property technologies, as part of a new PropTech industry, reconfigure value chains, organizational practices, and social inequalities across urban housing markets profoundly shaped by racial capitalism.
 
 I use mixed-methods that combine long-term ethnographic fieldwork with spatial data science, leveraging computational social science, spatial analysis, data visualization, and expert interviews. 
 
