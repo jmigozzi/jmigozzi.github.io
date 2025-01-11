@@ -1,8 +1,3 @@
-function twitter(handle)
-  local output = '<a href="https://twitter.com/' .. pandoc.utils.stringify(handle) .. '"><i class="bi bi-twitter" ></i></a>'
-  return pandoc.RawBlock('html', output)
-end
-
 function github(handle)
   local output = '<a href="https://github.com/' .. pandoc.utils.stringify(handle) .. '"><i class="bi bi-github" ></i></a>'
   return pandoc.RawBlock('html', output)
@@ -20,7 +15,7 @@ end
 
 
 function bluesky(url)
-  local output = '<a rel="me" href="' .. pandoc.utils.stringify(url) ..'"><i class="bi bi-square-fill"></i></a>'
+  local output = '<a rel="me" href="' .. pandoc.utils.stringify(url) ..'"><i class="fa-brands fa-bluesky"></i></a>'
   return pandoc.RawBlock('html', output)
 end
 

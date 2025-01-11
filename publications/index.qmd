@@ -18,6 +18,8 @@ listing:
     - metropolitics
     - rental_platforms
     - bipartitate_agencies
+    - pouvoirs_afs
+    - follow_data
   type: default
   categories: true
   image-align: left
@@ -45,7 +47,7 @@ listing:
 
 ::: {.column width="60%"}
 
-I am a coauthor of the *[Atlas of Finance](https://yalebooks.yale.edu/book/9780300253054/atlas-of-finance/)*, published by Yale University Press, coordinated by Professor [Dariusz Wójcik](https://fass.nus.edu.sg/geog/people/dariusz-wojcik/)  (NUS), in collaboration with [Oliver Uberti](https://www.oliveruberti.com/) and Professor [James Cheshire](https://jcheshire.com/) (UCL).
+I am a coauthor of the *[Atlas of Finance](https://yalebooks.yale.edu/book/9780300253054/atlas-of-finance/)* at Yale University Press, led by Professor [Dariusz Wójcik](https://fass.nus.edu.sg/geog/people/dariusz-wojcik/)  (NUS), in collaboration with [Oliver Uberti](https://www.oliveruberti.com/) and Professor [James Cheshire](https://jcheshire.com/) (UCL).
 
 Praises:
 
@@ -56,6 +58,11 @@ Praises:
 *Erudite, spectacular, and revealing, the Atlas of Finance sheds a bright light on the history and geography of finance--its contribution to unleashing human potential but also its darker side. A tremendous accomplishment!*
 
 -- Gabriel Zucman, professor at the Paris School of Economics and University of California, Berkeley.
+
+*The book is a lot of fun. Data-fixated readers will enjoy unpicking its main content: a series of elegantly produced maps, graphs and other visualisations. These are eclectic in scope and ambitious in intent.*
+
+-- *Financial Times*, "[Atlas of Finance — a visual aid to the global money maze](https://www.ft.com/content/7895de9b-20dc-43c5-b20d-1f105bb42d55)"
+
 
 :::
 

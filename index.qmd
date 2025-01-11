@@ -29,7 +29,6 @@ shortcodes:
 
 ::: julien-intro
 ::: socials
-{{< twitter JulienMigozzi >}}
 {{< github jmigozzi >}} 
 {{< scholar TOQMW10AAAAJ >}} 
 {{< orcid 0000-0001-6896-8809 >}}
@@ -45,15 +44,15 @@ shortcodes:
 ::: {.column .col-v-center width="60%"}
 ---
 
-Hi, I am Julien, an economic and urban geographer. I am currently an [Urban Studies Foundation Postdoctoral Research Fellow](https://www.urbanstudiesfoundation.org/) at the [University of Oxford](https://www.geog.ox.ac.uk/staff/jmigozzi.html), and a Visiting Scholar at the Department of Sociology and the [Berkeley Economy and Society Initiative](https://besi.berkeley.edu/) at UC Berkeley.
+I am an economic and urban geographer. I am currently an [Urban Studies Foundation Postdoctoral Research Fellow](https://www.urbanstudiesfoundation.org/) at the [University of Oxford](https://www.geog.ox.ac.uk/staff/jmigozzi.html), and a Visiting Scholar at the Department of Sociology and the [Berkeley Economy and Society Initiative](https://besi.berkeley.edu/) at UC Berkeley.
 
-At the intersection of financial geography, urban studies, and economic sociology, my research examines how digital capitalism reshapes cities and markets, questioning theoretical boundaries and empirical connections between the Global North and the Global South.  
+At the intersection of financial geography, urban studies, and economic sociology, my research examines the geography of digital capitalism, questioning theoretical boundaries and empirical connections between the Global North and the Global South to understand how digital technologies reshape value chains, organizational practices, and socio-spatial spatial inequalities.
 
-Focusing on South Africa, my current project investigates how housing is coded into a new asset class by financial capital and digital technologies, and how this transformation of the market by real estate platforms shapes urban segregation and wealth inequalities. From Cape Town, a post-apartheid  city rebranded as the "Silicon Cape" over the last decade, I examine how digital property technologies, as part of a new PropTech industry, reconfigure value chains, organizational practices, and social inequalities across urban housing markets profoundly shaped by racial capitalism.
+Focusing on South Africa, my current project investigates how housing markets are transformed by the platform economy, and what this recoding of housing into a new asset class through the convergence between financial capital and digital technologies entails for urban segregation and wealth inequalities. From Cape Town, a post-apartheid and emerging global city, I examine how the PropTech industry reconfigures housing markets profoundly shaped by racial capitalism.
 
 I use mixed-methods that combine long-term ethnographic fieldwork with spatial data science, leveraging computational social science, spatial analysis, data visualization, and expert interviews. 
 
-I am a coauthor of the forthcoming *[Atlas of Finance](https://yalebooks.yale.edu/book/9780300253054/atlas-of-finance/)*, published by Yale University Press. At Oxford, I was previously a Research Associate in Finance and Geography on the ERC-funded project "[Cities in Global Financial Network](https://cordis.europa.eu/project/id/681337)". From 2017 to 2021 I was a Lecturer in the Department of Geography at [the Ecole Normale Supérieure](https://www.ens.psl.eu/en).
+I am a coauthor of the *[Atlas of Finance](https://yalebooks.yale.edu/book/9780300253054/atlas-of-finance/)*, published by Yale University Press. At Oxford, I was previously a Research Associate in Finance and Geography on the ERC-funded project "[Cities in Global Financial Network](https://cordis.europa.eu/project/id/681337)". From 2017 to 2021 I was a Lecturer in the Department of Geography at [the Ecole Normale Supérieure](https://www.ens.psl.eu/en).
 
 
 I am a former student (*élève normalien*) of the [Ecole Normale Supérieure de Lyon](https://www.ens-lyon.fr/en/), where I completed my MA. After passing  the *[agrégation](https://en.wikipedia.org/wiki/Agr%C3%A9gation)* in Geography, I earned my PhD from the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/). My [dissertation](https://www.theses.fr/en/2020GRALH007) received two national awards: the [Doctoral Prize in Urban Studies](http://www.urbanisme-puca.gouv.fr/prix-de-these-sur-la-ville-2021-a2141.html) and the [Dissertation Award in Geography](https://www.cnfg.fr/vie-du-comite/prix-de-these-du-cnfg/).

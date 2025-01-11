@@ -1,21 +1,9 @@
 [
   {
-    "listing": "/publications/CopyOfindex.html",
-    "items": [
-      "/publications/index.html",
-      "/publications/india_ma/index.html"
-    ]
-  },
-  {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/2009-09-15-worldcupsquads/index.html",
-      "/posts/2009-09-13-xvdefrance/index.html"
-    ]
-  },
-  {
     "listing": "/publications/index.html",
     "items": [
+      "/publications/follow_data/index.html",
+      "/publications/pouvoirs_afs/index.html",
       "/publications/bipartitate_agencies/index.html",
       "/publications/maps_apps_race/index.html",
       "/publications/rental_platforms/index.html",
@@ -31,6 +19,20 @@
       "/publications/new_caledonia/index.html",
       "/publications/rugby_schools/index.html",
       "/publications/rugby_sa/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/CopyOfindex.html",
+    "items": [
+      "/publications/index.html",
+      "/publications/india_ma/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2009-09-15-worldcupsquads/index.html",
+      "/posts/2009-09-13-xvdefrance/index.html"
     ]
   }
 ]
