@@ -14,8 +14,8 @@ function orcid(handle)
 end
 
 
-function bluesky(url)
-  local output = '<a rel="me" href="' .. pandoc.utils.stringify(url) ..'"><i class="fa-brands fa-bluesky"></i></a>'
+function bluesky(handle)
+  local output = '<a href="https://bsky.app/profile/' .. pandoc.utils.stringify(handle) ..'"><i class="fa-brands fa-bluesky" ></i></a>'
   return pandoc.RawBlock('html', output)
 end
 

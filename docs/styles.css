@@ -91,6 +91,11 @@ h1.f3{
   color: #9EEBCF;
 }
 
+a:link {
+    color: #006600;
+    text-decoration: none;
+}
+
 .active {
   border-bottom: 1px solid #ffd700;
 }
@@ -171,6 +176,6 @@ div.column.col-v-center{
 }
 
 .br { 
-      display: block; 
+      display: block;
       margin-bottom:0.2em; 
   } 

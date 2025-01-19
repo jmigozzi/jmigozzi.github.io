@@ -8,7 +8,7 @@ image: featured.jpg
 title-block-style: none
 toc: false
 categories: 
-  - Digital technologies
+  - Digital Technologies
   - South Africa
   - Segregation
 ---
