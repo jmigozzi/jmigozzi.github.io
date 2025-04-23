@@ -1,8 +1,8 @@
 ---
-date: "2025-01-01"
+date: "2025-03-01"
 draft: false
 description: A method to analyse the political economy and stratifying effects of data flows.
-subtitle: Chapter forthcoming in A. Datta and F. Hoefsloot (Eds), *Informational Peripheries. Rethinking the urban in a digital age*, UCL Press.
+subtitle: Forthcoming in A. Datta and F. Hoefsloot (Eds), *Informational Peripheries. Rethinking the urban in a digital age*, UCL Press.
 title: "Follow the data: Computing the algorithmic periphery with credit scores and property values"
 image: featured.jpg
 title-block-style: none

@@ -2,9 +2,11 @@
   {
     "listing": "/publications/index.html",
     "items": [
+      "/publications/scoring_high/index.html",
       "/publications/follow_data/index.html",
-      "/publications/pouvoirs_afs/index.html",
       "/publications/bipartitate_agencies/index.html",
+      "/publications/pouvoirs_afs_eng/index.html",
+      "/publications/pouvoirs_afs/index.html",
       "/publications/maps_apps_race/index.html",
       "/publications/rental_platforms/index.html",
       "/publications/metropolitics/index.html",

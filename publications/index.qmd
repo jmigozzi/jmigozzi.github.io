@@ -19,7 +19,9 @@ listing:
     - rental_platforms
     - bipartitate_agencies
     - pouvoirs_afs
+    - pouvoirs_afs_eng
     - follow_data
+    - scoring_high
   type: default
   categories: true
   image-align: left
