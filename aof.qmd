@@ -1,0 +1,48 @@
+---
+title: "Atlas of Finance"
+---
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](static/files/atlas.jpg){width=200}
+
+:::
+
+::: {.column width="10%"}
+
+
+:::
+
+::: {.column width="60%"}
+
+I am a coauthor of the *[Atlas of Finance](https://yalebooks.yale.edu/book/9780300253054/atlas-of-finance/)*. Our fantastic team was led by Professor [Dariusz Wójcik](https://fass.nus.edu.sg/geog/people/dariusz-wojcik/) (NUS), and included Takis Iliopoulos, Stefanos Ioannou, Liam Keenan, Timothy Monteath, Vladimir Pažitka, Morag Torrance and Michael Urban, in collaboration with [Oliver Uberti](https://www.oliveruberti.com/) and Professor [James Cheshire](https://jcheshire.com/) (UCL).
+
+The Atlas was published at Yale University Press in 2024, and translated in Dutch, French, German, Greek, Polish, Slovak, Japanese, Korean,Mandarin, Taipei, Thai, and Vietnamese.
+
+
+**Awards**
+
+- Best Book of the Year in Economics & Best Single Volume, Professional and Scholarly Excellence (PROSE) Awards, Association of American Publishers, 2025.
+- Gold Prize, Axiom Business Book Award.
+
+
+**Praises**
+
+*This volume gives readers a real, intrinsic view of how, where, and when financial markets do their work. It follows the history of money from cuneiform tablets to Bitcoins, showing how the essence of finance is in the networks that it both creates and destroys; and each page bursts with stunning and illuminating illustrations. Everyone from students to seasoned professionals to armchair experts will learn something from this unique and fun book.*
+
+-- Robert J. Shiller, Nobel laureate in Economic Sciences and author.
+
+*Erudite, spectacular, and revealing, the Atlas of Finance sheds a bright light on the history and geography of finance--its contribution to unleashing human potential but also its darker side. A tremendous accomplishment!*
+
+-- Gabriel Zucman, professor at the Paris School of Economics and University of California, Berkeley.
+
+*The book is a lot of fun. Data-fixated readers will enjoy unpicking its main content: a series of elegantly produced maps, graphs and other visualisations. These are eclectic in scope and ambitious in intent.*
+
+-- *Financial Times*, "[Atlas of Finance — a visual aid to the global money maze](https://www.ft.com/content/7895de9b-20dc-43c5-b20d-1f105bb42d55)"
+
+The Atlas was reviewed in the Financial Times, Nature, the Irish Times, and the Wall Street Journal.
+
+:::
+
+::::

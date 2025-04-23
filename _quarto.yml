@@ -16,8 +16,8 @@ website:
         text: Research
       - href: posts.qmd
         text: Notes
-      # - href: Dissertation.qmd
-      #   text: Dissertation
+      - href: aof.qmd
+        text: Atlas of Finance
       - href: cv/index.qmd
         text: CV
     title: false

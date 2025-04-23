@@ -3,7 +3,7 @@ date: "2025-01-01"
 draft: false
 description: After thirty years of democracy during which South Africa became an emerging economy, these dividing lines of electoral geography confirm that apartheid, as a multiscalar system of racial and ethnic segregation, remains key to understanding South African society spaces.
 title: "Apartheid: Still present in the South African landscape?"
-subtitle: Published in *Pouvoirs*. Translation of original French version by the editor.
+subtitle: Published in *Pouvoirs*. Translation of the original French version by the editor.
 image: featured.jpg
 title-block-style: none
 toc: false
