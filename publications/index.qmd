@@ -1,5 +1,6 @@
 ---
-title: "Research"
+title: ""
+page-layout: full
 listing:
   id: main-listing
   contents: 
