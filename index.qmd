@@ -29,11 +29,7 @@ css: custom2.scss
 
   <div class="landing-text">
     <p>
-      I am an economic geographer. My research explores how digital capitalism reshapes markets and inequalities. <br> I work as an
-      <a href="https://www.urbanstudiesfoundation.org/">Urban Studies Foundation Postdoctoral Research Fellow</a>
-      at the University of Oxford. I am currently a Visiting Scholar at the Department of Sociology at UC Berkeley and the
-      <a href="https://besi.berkeley.edu/">Berkeley Economy and Society Initiative</a>. <br> In January 2026, I will be joining the University of Cambridge as an Assistant Professor in Development Studies
-      at the <a href="https://www.polis.cam.ac.uk/">Department of Politics and International Studies</a>.
+      I am an economic geographer. My research explores how digital capitalism reshapes markets and inequalities. <br> I am a Research Fellow at the <a href="https://www.geog.ox.ac.uk/staff/jmigozzi.html">University of Oxford</a>, and  currently a Visiting Scholar in the Department of Sociology at <a href="https://besi.berkeley.edu/">UC Berkeley</a>. <br> In January 2026, I will be joining the University of Cambridge as an Assistant Professor in Development Studies at the <a href="https://www.polis.cam.ac.uk/">Department of Politics and International Studies</a>.
     </p>
   </div>
 

@@ -1,5 +1,5 @@
 ---
-title: "Notes"
+title: ""
 listing: 
   contents: posts 
   type: default # or grid `default` or `table
@@ -7,4 +7,4 @@ listing:
   categories: true 
 ---
 
-A space where I share some little, ongoing and unfinished personal side projects.
+A modest section where I share some personal, ongoing and unfinished side projects.
