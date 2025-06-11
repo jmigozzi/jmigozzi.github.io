@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  
+
 description-meta: "Julien Migozzi's personal website."
 
 website:
@@ -39,4 +39,5 @@ format:
     include-in-header: fontawesome.html
     fontsize: 1em
     toc: true
+    freeze: auto   
 

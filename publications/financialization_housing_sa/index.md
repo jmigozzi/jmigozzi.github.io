@@ -1,6 +1,7 @@
 ---
 date: "2020"
 draft: false
+format: html
 description: Focusing on Cape Town, this article investigates how financialization unfolds in the South African housing market. I use a mixed method that combines in-depth field research conducted among key market players with an analysis of georeferenced residential transactions.
 subtitle: Published in *Housing Policy Debate*.
 title: "Selecting Spaces, Classifying People: The Financialization of Housing in the South African City"

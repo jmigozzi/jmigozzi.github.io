@@ -1,6 +1,7 @@
 ---
 date: "2025-02-01"
 draft: false
+format: html
 description: Real estate agencies unevenly operate and specialize across space, price and type of properties, thereby segmenting the housing market into submarkets. We introduce a new methodology based on multipartite networks to detect spatial segmentation using online listings. 
 title: "Exploring the spatial segmentation of housing markets from online listings"
 subtitle: David Abella, Johann H. Martínez, Mattia Mazzoli, Julien Migozzi, Thibault Le Corre, Eduard Alonso-Paulí, Rafel Crespí-Cladera, Thomas Louail, José J. Ramasco. <br> Accepted in *EPJ Data Science*.

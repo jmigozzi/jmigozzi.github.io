@@ -1,6 +1,7 @@
 ---
 date: "2023-03-03"
 draft: false
+format: html
 description: This paper explores the potential of FinTech to change the geography of finance and financial centres through a longitudinal and multiscalar analysis of FinTech in India. Using a financial ecology approach and a mixed-method framework, we document Bangalore’s emergence as India’s FinTech capital and the rise of New Delhi, demonstrate how Mumbai and Bangalore structure India’s financial geography as complementary ecosystemsm, and conceptualize FinTech in India as a “Tech-Fin-State” ecosystem.
 subtitle: With Dariusz Wójcik and Michael Urban <br>  Published in *Geoforum*.
 title: " “You should do what India does”: FinTech ecosystems in India reshaping the geography of finance"

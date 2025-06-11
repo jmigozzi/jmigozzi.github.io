@@ -1,6 +1,7 @@
 ---
 date: "2022-08-22"
 draft: false
+format: html
 description: A report for the magazine Logic on computer-assisted housing discrimination in South Africa.
 title: "Apartheid by Algorithm"
 image: featured.jpeg
