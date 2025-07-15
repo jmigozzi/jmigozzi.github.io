@@ -14,9 +14,9 @@ website:
         href: index.qmd   # or "/" if deploying to GitHub Pages
     right:
       - href: about.qmd
-        text: Research  
+        text: About me  
       - href: publications/index.qmd
-        text: Publications
+        text: Research
       - href: aof.qmd
         text: Atlas of Finance
       - href: posts.qmd

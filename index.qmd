@@ -18,7 +18,7 @@ css: custom2.scss
       <a href="https://github.com/jmigozzi" aria-label="GitHub">
         <i class="fab fa-github"></i>
       </a>
-      <a href="https://scholar.google.com/citations?user=TOQMW10AAAAJ" aria-label="Google Scholar">
+      <a href="https://scholar.google.com/citations?hl=en&user=TOQMW10AAAAJ&view_op=list_works&sortby=pubdate" aria-label="Google Scholar">
         <i class="fas fa-graduation-cap"></i>
       </a>
       <a href="https://orcid.org/0000-0001-6896-8809" aria-label="ORCID">
@@ -29,7 +29,7 @@ css: custom2.scss
 
   <div class="landing-text">
     <p>
-      I am an economic geographer. My research explores how digital capitalism reshapes markets and inequalities, combining qualitative and computational methods. <br> I am a Research Fellow at the <a href="https://www.geog.ox.ac.uk/staff/jmigozzi.html">University of Oxford</a>, and  currently a Visiting Scholar in the Department of Sociology at <a href="https://besi.berkeley.edu/">UC Berkeley</a>. <br> In January 2026, I will be joining the University of Cambridge as an Assistant Professor in Development Studies at the <a href="https://www.polis.cam.ac.uk/">Department of Politics and International Studies</a>.
+      I am an economic geographer. My research explores how digital capitalism reshapes markets and inequalities, combining qualitative and computational methods. <br> I am a Research Fellow at the <a href="https://www.geog.ox.ac.uk/staff/jmigozzi.html">University of Oxford</a>, and currently a Visiting Scholar in the Department of Sociology at <a href="https://besi.berkeley.edu/">UC Berkeley</a>. <br> In January 2026, I will be joining the University of Cambridge as an Assistant Professor in Development Studies at the <a href="https://www.polis.cam.ac.uk/">Department of Politics and International Studies</a>.
     </p>
   </div>
 

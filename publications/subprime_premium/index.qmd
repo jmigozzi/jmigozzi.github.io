@@ -1,0 +1,54 @@
+---
+date: "2025-07-06"
+draft: false
+description: A review of Marion Fourcade and Kieran Healy's *The Ordinal Society*.
+title: "From the subprime to the premium, from California to fascism?"
+subtitle: Published in *Journal of Cultural Economy*.
+title-block-style: none
+toc: false
+categories: 
+  - Finance
+  - Digital Technologies
+  - Segregation
+engine: knitr 
+paper:
+  pdf: "subprime_premium.pdf"
+---
+
+<button type="button" class="btn btn-outline-success">
+
+<a href="https://doi.org/10.1080/17530350.2025.2523771">Journal</a>
+
+</button>
+
+## Abstract
+
+An invited review of Marion Fourcade and Kieran Healy (2024) *The Ordinal Society*, Harvard University Press.
+
+## PDF
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+```{=html}
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$paper$pdf`" style="border: 0.5px"></iframe>
+</div>
+```

@@ -1,0 +1,42 @@
+.language-toggle {
+  text-align: right;
+  margin-bottom: 1.5rem;
+  padding-top: 0.5rem;
+}
+
+.language-btn {
+  font-family: 'Baskervville', Baskerville, 'Times New Roman', serif;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #6b4e3d;
+  text-decoration: none;
+  padding: 0.25rem 0.5rem;
+  margin: 0 0.2rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  transition: all 0.2s ease;
+  display: inline-block;
+  background: transparent;
+  line-height: 1.2;
+}
+
+.language-btn:hover {
+  color: #553b2b;
+  text-decoration: underline;
+  background-color: rgba(107, 78, 61, 0.05);
+  border-color: rgba(107, 78, 61, 0.1);
+}
+
+.language-btn-active {
+  color: #2a2a2a;
+  font-weight: 500;
+  background-color: rgba(107, 78, 61, 0.1);
+  border-color: rgba(107, 78, 61, 0.2);
+}
+
+.language-btn-active:hover {
+  color: #2a2a2a;
+  text-decoration: underline;
+  background-color: rgba(107, 78, 61, 0.15);
+  border-color: rgba(107, 78, 61, 0.25);
+}

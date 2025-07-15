@@ -1,9 +1,9 @@
 ---
-date: "2025-08-15"
+date: "2025-07-09"
 draft: false
 description: This paper examines how modern class dynamics become intertwined with automated classifications and data-driven regimes of value creation under digital capitalism. I demonstrate how housing markets and sorting algorithms shape asset inequalities and middle-class formation in South Africa.
 title: "Scoring high, paying up, gating in: middle-class formation and asset inequalities under digital capitalism in South Africa"
-subtitle: Accepted in *International Journal of Urban and Regional Research*
+subtitle: Published in *International Journal of Urban and Regional Research*.
 image: featured.png
 title-block-style: none
 toc: false
@@ -17,7 +17,7 @@ categories:
 
 <button type="button" class="btn btn-outline-success">
 
-<a href="https://onlinelibrary.wiley.com/journal/14682427">Journal</a>
+<a href="https://doi.org/10.1111/1468-2427.70004">Journal</a>
 
 </button>
 

@@ -23,6 +23,7 @@ listing:
     - pouvoirs_afs_eng
     - follow_data
     - scoring_high
+    - subprime_premium
   type: default
   categories: true
   image-align: left

@@ -1,10 +1,10 @@
 ---
-date: "2025-02-01"
+date: "2025-05-02"
 draft: false
 format: html
 description: Real estate agencies unevenly operate and specialize across space, price and type of properties, thereby segmenting the housing market into submarkets. We introduce a new methodology based on multipartite networks to detect spatial segmentation using online listings. 
 title: "Exploring the spatial segmentation of housing markets from online listings"
-subtitle: David Abella, Johann H. Martínez, Mattia Mazzoli, Julien Migozzi, Thibault Le Corre, Eduard Alonso-Paulí, Rafel Crespí-Cladera, Thomas Louail, José J. Ramasco. <br> Accepted in *EPJ Data Science*.
+subtitle: David Abella, Johann H. Martínez, Mattia Mazzoli, Julien Migozzi, Thibault Le Corre, Eduard Alonso-Paulí, Rafel Crespí-Cladera, Thomas Louail, José J. Ramasco. <br> Published in *EPJ Data Science*.
 image: featured.jpg
 title-block-style: none
 toc: false
@@ -15,7 +15,7 @@ categories:
 
 <button type="button" class="btn btn-outline-success">
 
-<a href="https://arxiv.org/abs/2405.08398">arxiv</a>
+<a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00551-z">Journal</a>
 
 </button>
 

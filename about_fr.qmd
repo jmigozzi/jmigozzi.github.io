@@ -1,0 +1,24 @@
+---
+title: ""
+page-layout: article
+format:
+  html:
+    css: language-toggle.css
+---
+
+<div class="language-toggle">
+  <a href="about.html" class="language-btn">EN</a>
+  <a href="about_fr.html" class="language-btn language-btn-active">FR</a>
+</div>
+
+A la croisée de la géographie économique, des études urbaines et de la sociologie, mes recherches portent sur le capitalisme numérique, la finance, et les inégalités socio-spatiales. J'emploie des méthodes mixtes, associant l'enquête ethnographique à l'analyse spatiale et aux sciences sociales computationnelles.
+
+Mon principal axe de recherche analyse comment les technologies numériques de l'immobilier, communément appelées PropTech, transforment les marchés du logement et renouvellent les formes et processus de stratification sociale et de ségrégation urbaine. 
+
+Mon deuxieme axe de recherche porte sur la géograhie de la finance, et plus particulièrement sur le rôle du numérique et du capital-risque dans la formation des écosystemes financiers, notamment dans les économies émergentes. Je suis co-auteur de l'[Atlas de la Finance](https://atlasoffinance.com/), publié aux Presses Universitaires de Yale et traduit aux Éditions du Seuil. 
+
+L’Afrique du Sud et la ville du Cap, où je mène des recherches approfondies depuis 2015, constituent mon principal cas d'étude et terrain d'enquête. 
+
+Je suis ancien élève de l'École Normale Supérieure de Lyon et agrégé de géographie. J'ai réalisé mon doctorat à l'Université Grenoble Alpes et à l'UMR Géographie-cités (Paris). Ma thèse a reçu deux prix nationaux : le [Grand Prix de Thése sur la ville ](https://www.urbanisme-puca.gouv.fr/prix-de-these-sur-la-ville-2021-a2141.html?lang=en) et le [Prix de Thèse](https://www.cnfg.fr/vie-du-comite/prix-dethese-du-cnfg/) du Comité National Français de Géographie.
+
+J'ai précédemment été postdoctorant (*Research Fellow*) en Finance et Géographie sur le projet ERC  [Cities in Global Financial Networks](https://cordis.europa.eu/project/id/681337) à l'Université d'Oxford (2021-2022). Auparavant, j'ai occupé les fonctions d'Agrégé-Préparateur et d'ATER au Département de Géographie de l'École Normale Supérieure (2017-2021). J'ai été également chercheur invité à l'African Centre for Cities (Université du Cap, 2016 et 2023) et au Département de sociologie de UC Berkeley (2024-2025).
