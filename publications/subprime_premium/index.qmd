@@ -5,6 +5,7 @@ description: A review of Marion Fourcade and Kieran Healy's *The Ordinal Society
 title: "From the subprime to the premium, from California to fascism?"
 subtitle: Published in *Journal of Cultural Economy*.
 title-block-style: none
+image: featured.jpeg
 toc: false
 categories: 
   - Finance
@@ -23,7 +24,7 @@ paper:
 
 ## Abstract
 
-An invited review of Marion Fourcade and Kieran Healy (2024) *The Ordinal Society*, Harvard University Press.
+An invited review of Marion Fourcade and Kieran Healy's *The Ordinal Society*, published by Harvard University Press in 2024. See the book's [website](https://theordinalsociety.com/).
 
 ## PDF
 
