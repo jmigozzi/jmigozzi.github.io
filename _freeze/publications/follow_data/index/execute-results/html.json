@@ -1,0 +1,15 @@
+{
+  "hash": "fbb52f8b78a9082b2afc4bcc0d6ea036",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ndate: \"2025-08-04\"\ndraft: false\ndescription: A method to analyse the political economy and stratifying effects of data flows.\ntitle: \"Follow the data: Computing the algorithmic periphery with credit scores and property values\"\nsubtitle: A chapter in A. Datta and F. Hoefsloot, 2025, *Informational Peripheries. Rethinking the urban in a digital age*, UCL Press.\ntitle-block-style: none\nimage: featured.jpg\ntoc: false\ncategories: \n  - Digital Technologies\n  - Segregation\n  - South Africa\nengine: knitr \npaper:\n  pdf: \"chapter_migozzi.pdf\"\n---\n\n\n\n<button type=\"button\" class=\"btn btn-outline-success\"><a href=\"https://uclpress.co.uk/book/informational-peripheries/\">book</a>\n\n</button>\n\n## Abstract\n\nLike many economic sectors, such as financial services, transport and logistics, the housing market has been profoundly reconfigured by the centrality of data and the rise of the platform economy. Yet how this deployment of digital technologies affects the reconfiguration of urban spaces remains little understood. How do the transformation of land, housing and individuals into digital traces affect urban inequalities? How do informational flows reconfigure the urban fabric by networking material and digital worlds? To answer these questions, this chapter proposes “follow the data” as a method to examine the infrastructural anatomy, value-creation regimes and differentiation mechanisms that characterize the urban process in the age of digital capitalism.\nFollowing the data flows generated on the one hand by credit consumption, and on the other by the digitization of real estate transactions, this chapter examines the functioning of the South African real estate market, and its consequences for the evolution of urban peripheries. Although integrated into the digital architecture of the market, the populations and territories of urban marginality become recategorized in what I call the “algorithmic periphery”, classified as “incalculable”, “invisible” or “disqualified”, thus introducing a problematic equation between digital invisibility, economic informality and political illegitimacy.\n\n## PDF\n\n\n\n::: {.cell}\n<style type=\"text/css\">\n.embed-container {\n    position: relative;\n    padding-bottom: 129%;\n    height: 0;\n    overflow: hidden;\n    max-width: 100%;\n}\n\n.embed-container iframe,\n.embed-container object,\n.embed-container embed {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n</style>\n:::\n\n```{=html}\n<div class=\"embed-container\">\n  <iframe src=\"chapter_migozzi.pdf\" style=\"border: 0.5px\"></iframe>\n</div>\n```\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
