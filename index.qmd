@@ -29,7 +29,7 @@ css: custom2.scss
 
   <div class="landing-text">
     <p>
-      Welcome! I am an economic geographer and an <a href="https://www.devstudies.cam.ac.uk/staff/dr-julien-migozzi">Assistant Professor in Development Studies</a> at the University of Cambridge.<br><br> My research explores how digital capitalism reshapes markets, cities, and inequalities, combining qualitative and computational methods, and focusing on South Africa.
+      <br> Welcome! <br><br> I am an economic geographer and an <a href="https://www.devstudies.cam.ac.uk/staff/dr-julien-migozzi">Assistant Professor</a> in the <a href="https://www.polis.cam.ac.uk/">Department of Politics and International Studies</a> at the University of Cambridge.<br><br> My research explores how digital capitalism reshapes markets, cities, and inequalities, combining qualitative and computational methods, and focusing on South Africa.
     </p>
   </div>
 

@@ -1,0 +1,52 @@
+---
+title: ""
+page-layout: full
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+<br><br>
+
+At Cambridge, I teach a class on "Digital capitalism" for the [MPhil in
+Development
+Studies](https://www.postgraduate.study.cam.ac.uk/courses/directory/podvmpmdv).
+
+In the past, I have taught or designed the following courses:
+
+**Ecole Normale Supérieure, Paris**
+
+-   Economic and urban geography \[graduate level\]
+
+-   Mapping and spatial analysis with R \[graduate level, Master in
+    Quantitative Social Sciences\]
+
+-   Statistics and mapping with R \[undergraduate level\]
+
+-   Introduction to urban fieldwork \[undergraduate and graduate level\]
+
+-   Masterclass "[Digital Technologies in the African
+    city](https://jmigozzi.github.io/masterclass/)" \[graduate level\]
+
+    *A 10-day graduate masterclass in partnership with the Ecole Normale
+    Supérieure and the African Center for Cities, with participants from
+    Nigeria, France and South Africa. The program featured guest
+    speakers, collective workshops, site visits, and participant-led
+    research projects.*
+
+-   Masterclass "Researching urban public spaces" \[graduate level\]
+
+    *A 10-day graduate masterclass organized by the Ecole Normale
+    Supérieure (France), the Universities of Lagos (Nigeria) and the
+    French Institute for Research in Africa (Nigeria). The program
+    featured guest speakers, collective workshops, site visits, and
+    participant-led research projects.*
+
+**University Grenoble Alpes**
+
+-   Urban geographies of globalisation \[undergraduate level\]
+
+-   Mainstream policies and grassroot initiatives for local development
+    \[graduate level\]
+
+-   Geographic Information Systems \[undergraduate level\]

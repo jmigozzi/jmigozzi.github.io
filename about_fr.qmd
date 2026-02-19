@@ -7,8 +7,8 @@ format:
 ---
 
 <div class="language-toggle">
-  <a href="about.html" class="language-btn">EN</a>
-  <a href="about_fr.html" class="language-btn language-btn-active">FR</a>
+  <a href="about.html" class="language-btn">ENGLISH</a>
+  <a href="about_fr.html" class="language-btn language-btn-active">FRENCH</a>
 </div>
 
 

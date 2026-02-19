@@ -17,6 +17,8 @@ website:
         text: About me  
       - href: publications/index.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
       - href: aof.qmd
         text: Atlas of Finance
       - href: posts.qmd
