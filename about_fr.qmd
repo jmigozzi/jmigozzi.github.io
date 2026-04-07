@@ -1,6 +1,6 @@
 ---
 title: ""
-page-layout: article
+page-layout: full
 format:
   html:
     css: language-toggle.css

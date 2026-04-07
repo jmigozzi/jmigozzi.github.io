@@ -11,16 +11,20 @@ website:
   navbar:
     left:
       - text: "Julien Migozzi, PhD"
-        href: index.qmd   # or "/" if deploying to GitHub Pages
+        href: /
     right:
+      - href: index.qmd
+        text: Home
       - href: about.qmd
-        text: About me  
-      - href: publications/index.qmd
-        text: Research
+        text: About me
+      - href: publications.qmd
+        text: Publications
       - href: teaching.qmd
         text: Teaching
       - href: aof.qmd
         text: Atlas of Finance
+      - href: media.qmd
+        text: Media
       - href: posts.qmd
         text: Notes
       - href: cv/index.qmd
@@ -28,18 +32,17 @@ website:
     title: false
   page-footer:
     center: "Made with [quarto](https://quarto.org)"
-  google-analytics: 
+  google-analytics:
     tracking-id: "G-DM8RWDZ57L"
     storage: none
     anonymize-ip: true
 
+execute:
+  freeze: auto
+
 format:
   html:
-    theme: 
-      - sandstone
+    theme:
       - custom2.scss
     include-in-header: fontawesome.html
-    fontsize: 1em
-    toc: true
-    freeze: auto   
-
+    fontsize: 1rem

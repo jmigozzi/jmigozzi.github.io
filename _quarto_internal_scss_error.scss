@@ -1040,17 +1040,27 @@ $theme-name: null !default;
 // quarto-scss-analysis-annotation { "origin": "Defaults from user-defined SCSS" }
 
 
-$body-bg: #fdf6f0; // warm beige background
-$body-color: #2a2a2a;
-$link-color: #6b4e3d; 
+// ─── Colour tokens ───────────────────────────────────────────────
+$cream:        #faf7f4;
+$ink:          #1e1e1e;
+$ink-muted:    #6b6560;
+$ink-faint:    #a09890;
+$accent:       #3d3530;
+$link:         #5a4a42;
+$border:       #e8e2dc;
 
-$font-family-sans-serif: 'Baskervville', Baskerville, 'Times New Roman', serif;
-$font-family-base: $font-family-sans-serif;
-$font-family-monospace: 'Courier New', monospace;
-
-$navbar-bg: #fdf6f0;
-$navbar-fg: #333333;
-$navbar-hl: #1a0dab;
+// ─── Quarto bootstrap overrides ──────────────────────────────────
+$body-bg:                  $cream;
+$body-color:               $ink;
+$link-color:               $link;
+$font-family-sans-serif:   'DM Sans', system-ui, sans-serif;
+$font-family-base:         $font-family-sans-serif;
+$font-family-monospace:    'IBM Plex Mono', 'Courier New', monospace;
+$navbar-bg:                $cream;
+$navbar-fg:                $ink-muted;
+$navbar-hl:                $ink;
+$font-size-base:           1rem;
+$line-height-base:         1.8;
 
 
 // Heading font size customization
@@ -1071,143 +1081,6 @@ $font-size-root: 17px !default;
 
 // Disable smooth scrolling
 $enable-smooth-scroll: false !default;
-
-// quarto-scss-analysis-annotation { "origin": "sandstone (builtin theme)" }
-
-$theme: "sandstone" !default;
-
-//
-// Color system
-//
-
-$white:    #fff !default;
-$gray-100: #f8f9fa !default;
-$gray-200: #f8f5f0 !default;
-$gray-300: #dfd7ca !default;
-$gray-400: #ced4da !default;
-$gray-500: #98978b !default;
-$gray-600: #8e8c84 !default;
-$gray-700: #495057 !default;
-$gray-800: #3e3f3a !default;
-$gray-900: #212529 !default;
-$black:    #000 !default;
-
-$blue:    #325d88 !default;
-$indigo:  #6610f2 !default;
-$purple:  #6f42c1 !default;
-$pink:    #e83e8c !default;
-$red:     #d9534f !default;
-$orange:  #f47c3c !default;
-$yellow:  #ffc107 !default;
-$green:   #93c54b !default;
-$teal:    #20c997 !default;
-$cyan:    #29abe0 !default;
-
-$primary:       $blue !default;
-$secondary:     $gray-600 !default;
-$success:       $green !default;
-$info:          $cyan !default;
-$warning:       $orange !default;
-$danger:        $red !default;
-$light:         $gray-200 !default;
-$dark:          $gray-800 !default;
-
-$min-contrast-ratio:   2 !default;
-
-// Body
-
-$body-color:                $gray-800 !default;
-
-// Links
-
-$link-color:                $success !default;
-
-// Fonts
-
-// stylelint-disable-next-line value-keyword-case
-$font-family-sans-serif:      Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$headings-font-weight:        400 !default;
-
-// Dropdowns
-
-$dropdown-link-color:               $gray-600 !default;
-$dropdown-link-hover-color:         $dropdown-link-color !default;
-$dropdown-link-hover-bg:            $gray-200 !default;
-$dropdown-link-active-color:        $dropdown-link-color !default;
-$dropdown-link-active-bg:           $dropdown-link-hover-bg !default;
-
-// Navs
-
-$nav-link-padding-x:                .9rem !default;
-$nav-link-disabled-color:           $gray-300 !default;
-$nav-tabs-border-color:             $gray-300 !default;
-$nav-tabs-link-hover-border-color:  $gray-300 !default;
-$nav-tabs-link-active-bg:           $white !default;
-$nav-pills-link-active-color:       $gray-600 !default;
-$nav-pills-link-active-bg:          $gray-200 !default;
-
-// Navbar
-
-// Pagination
-
-$pagination-color:                  $gray-600 !default;
-$pagination-bg:                     $gray-200 !default;
-$pagination-border-color:           $gray-300 !default;
-$pagination-hover-color:            $pagination-color !default;
-$pagination-active-color:           $pagination-color !default;
-$pagination-active-bg:              $gray-300 !default;
-$pagination-active-border-color:    $gray-300 !default;
-$pagination-disabled-color:         $gray-300 !default;
-$pagination-disabled-bg:            $gray-200 !default;
-$pagination-disabled-border-color:  $pagination-border-color !default;
-
-// Cards
-
-$card-border-color:                 rgba($gray-300, .75) !default;
-$card-cap-bg:                       rgba($gray-200, .25) !default;
-
-// Popovers
-
-$popover-header-bg:                 $gray-200 !default;
-
-// Modals
-
-$modal-content-border-color:        $gray-300 !default;
-$modal-header-border-color:         $modal-content-border-color !default;
-
-// Progress bars
-
-$progress-bg:                       $gray-300 !default;
-$progress-border-radius:            10px !default;
-$progress-bar-color:                $primary !default;
-
-// List group
-
-$list-group-border-color:           $gray-300 !default;
-$list-group-hover-bg:               $gray-200 !default;
-$list-group-active-color:           $body-color !default;
-$list-group-active-bg:              $gray-200 !default;
-$list-group-active-border-color:    $gray-300 !default;
-$list-group-disabled-color:         $gray-500 !default;
-$list-group-disabled-bg:            $white !default;
-$list-group-action-color:           $list-group-active-color !default;
-$list-group-action-active-color:    $list-group-active-color !default;
-$list-group-action-active-bg:       $gray-300 !default;
-
-// Breadcrumbs
-
-$breadcrumb-padding-y:              .375rem !default;
-$breadcrumb-padding-x:              .75rem !default;
-$breadcrumb-bg:                     $pagination-bg !default;
-$breadcrumb-border-radius:          .25rem !default;
-
-// Close
-
-$btn-close-color:            $white !default;
-$btn-close-opacity:          .8 !default;
-$btn-close-hover-opacity:    1 !default;
-
-
 
 /*-- scss: functions --*/
 
@@ -3366,7 +3239,7 @@ $nested-kbd-font-weight:            null !default; // Deprecated in v5.2.0, remo
 $pre-bg:                            $code-bg  !default;
 $pre-color:                         $body-emphasis-color !default;
 $pre-line-height:                   $line-height-base !default;
-$font-size-root: 1em;
+$font-size-root: 1rem;
 
 
 
@@ -12968,425 +12841,750 @@ main.quarto-banner-title-block > section:first-child > h4 {
 }
 
 
+// ─── Google Fonts ────────────────────────────────────────────────
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=DM+Sans:wght@300;400;500&display=swap');
 
-// Variables
-
-$web-font-path: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" !default;
-@if $web-font-path {
-  @import url($web-font-path);
-}
-
-// Navbar
-
-.sandstone {
-  font-size: 13px;
-  font-weight: 500;
-  line-height: 22px;
-  text-transform: uppercase;
-}
-
-.navbar {
-  .nav-link {
-    @extend .sandstone;
-  }
-
-  &-form input,
-  &-form .form-control {
-    border: none;
-  }
-}
-
-// Buttons
-
-.btn {
-  @extend .sandstone;
-
-  &:hover {
-    border-color: transparent;
-  }
-
-  &-success,
-  &-warning {
-    color: $white;
-  }
-}
-
-// Tables
-
-.table {
-  .thead-dark th {
-    background-color: $dark;
-  }
-}
-
-// Forms
-
-input,
-.form-control {
-  @include box-shadow(none);
-
-  &:focus {
-    @include box-shadow(none);
-  }
-}
-
-// Navs
-
-.nav-tabs {
-  .nav-link {
-    @extend .sandstone;
-    background-color: $gray-200;
-    border-color: $gray-300;
-  }
-
-  .nav-link,
-  .nav-link:hover,
-  .nav-link:focus {
-    color: $gray-600;
-  }
-
-  .nav-link.disabled,
-  .nav-link.disabled:hover,
-  .nav-link.disabled:focus {
-    color: $nav-link-disabled-color;
-    background-color: $gray-200;
-    border-color: $gray-300;
-  }
-}
-
-.nav-pills {
-  .nav-link {
-    @extend .sandstone;
-    color: $gray-600;
-    border: 1px solid transparent;
-  }
-
-  .nav-link.active,
-  .nav-link:hover,
-  .nav-link:focus {
-    background-color: $gray-200;
-    border-color: $gray-300;
-  }
-
-  .nav-link.disabled,
-  .nav-link.disabled:hover {
-    color: $gray-300;
-    background-color: transparent;
-    border-color: transparent;
-  }
-}
-
-
-.breadcrumb {
-  @extend .sandstone;
-  border: 1px solid $gray-300;
-}
-
-.pagination {
-  @extend .sandstone;
-
-  a:hover {
-    text-decoration: none;
-  }
-}
-
-.dropdown-menu {
-  .dropdown-item {
-    @extend .sandstone;
-  }
-}
-
-// Indicators
-
-.alert {
-  color: $white;
-
-  a,
-  .alert-link {
-    color: $white;
-    text-decoration: underline;
-  }
-
-  &-primary {
-    &,
-    > th,
-    > td {
-      background-color: $primary;
-    }
-  }
-
-  &-secondary {
-    &,
-    > th,
-    > td {
-      background-color: $secondary;
-    }
-  }
-
-  &-success {
-    &,
-    > th,
-    > td {
-      background-color: $success;
-    }
-  }
-
-  &-info {
-    &,
-    > th,
-    > td {
-      background-color: $info;
-    }
-  }
-
-  &-danger {
-    &,
-    > th,
-    > td {
-      background-color: $danger;
-    }
-  }
-
-  &-warning {
-    &,
-    > th,
-    > td {
-      background-color: $warning;
-    }
-  }
-
-  &-dark {
-    &,
-    > th,
-    > td {
-      background-color: $dark;
-    }
-  }
-
-  &-light {
-    &,
-    > th,
-    > td {
-      background-color: $light;
-    }
-
-    &,
-    a:not(.btn),
-    .alert-link {
-      color: $body-color;
-    }
-  }
-}
-
-.badge {
-  &.bg-light {
-    color: $dark;
-  }
-}
-
-.tooltip {
-  @extend .sandstone;
-}
-
-// Containers
-
-.modal,
-.toast,
-.offcanvas {
-  .btn-close {
-    background-image: escape-svg(url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='#{$gray-300}'><path d='M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z'/></svg>"));
-  }
-}
-
-
-// quarto-scss-analysis-annotation { "origin": null }
-
-
-@import url('https://fonts.googleapis.com/css2?family=Baskervville&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap');
+// ─── Base ─────────────────────────────────────────────────────────
+*, *::before, *::after { box-sizing: border-box; }
 
 body {
   font-family: $font-family-base;
-  font-size: 1.1rem;
-  color: $body-color;
-  background-color: $body-bg;
-  line-height: 1.5;
-  margin: 0;
+  font-size: $font-size-base;
+  font-weight: 400;
+  color: $ink;
+  background-color: $cream;
+  line-height: $line-height-base;
+  -webkit-font-smoothing: antialiased;
+}
+
+// ─── Layout ───────────────────────────────────────────────────────
+main {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 3rem 0 5rem;
+}
+
+#quarto-content.page-layout-full {
+  padding: 0 4rem;
+}
+
+#quarto-document-content {
+  width: 100%;
+  max-width: 100%;
   padding: 0;
 }
 
-main {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 3rem 2rem;
+.quarto-container {
+  max-width: 100% !important;
+  width: 100% !important;
 }
 
-a:hover {
-  color: darken($link-color, 15%); // automatically darkens the link on hover
-  text-decoration: underline;
+#quarto-content {
+  max-width: 100% !important;
+  width: 100% !important;
 }
 
-/* Navbar */
-.navbar {
-  background-color: $navbar-bg;
-  border-bottom: 1px solid #e0e0e0;
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  width: 100%;
-  padding: 1rem 2rem;
+.page-columns {
+  max-width: 100% !important;
+  width: 100% !important;
 }
 
-.navbar > .container,
-.navbar > .container-fluid {
+.page-layout-article .column-body,
+.page-layout-full .column-body {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+.page-layout-full #quarto-document-content {
+  width: 100% !important;
   max-width: 100% !important;
   padding: 0 !important;
-  margin: 0 !important;
 }
 
-.navbar-nav {
-  display: flex;
- # flex-direction: row;
-#  justify-content: flex-end;
-  gap: 1rem;
-#   width: 100%;
-}
+// ─── Navbar ───────────────────────────────────────────────────────
+.navbar {
+  background-color: $cream;
+  border-bottom: 1px solid $border;
+  padding: 1rem 2rem;
 
-.navbar-nav .nav-item {
-  display: inline-block;
-}
+  .navbar-brand-container {
+    margin-left: 0 !important;
+    margin-right: auto !important;
+  }
 
-.navbar-nav .nav-link {
-  font-family: $font-family-base;
-  font-size: 1rem;
-  font-weight: 400;
-  text-transform: none; 
-  color: $navbar-fg;
-  letter-spacing: normal;
-  text-decoration: none;
+  .navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: $ink !important;
+    letter-spacing: 0.01em;
+  }
 
-  &:hover {
-    color: $navbar-hl;
+  .nav-link {
+    font-family: $font-family-base;
+    font-size: 1.1rem;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: $ink-muted !important;
+    padding: 0.25rem 0.6rem;
+    transition: color 0.15s ease;
+  
+    &:hover, &.active {
+      color: $ink !important;
+    }
   }
 }
 
-.navbar-nav .nav-link:first-child {
-  font-weight: 600;
-  font-size: 1.25rem;
-  color: $navbar-fg;
-}
-
-/* Headings */
-h1, h2, h4, h5, h6 {
-  font-family: 'Barlow', sans-serif;
-  font-weight: 700;
-  color: #111;
-  margin-top: 2rem;
+// ─── Typography ───────────────────────────────────────────────────
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  line-height: 1.2;
+  color: $ink;
+  margin-top: 2.5rem;
   margin-bottom: 1rem;
 }
 
-h2, h3, h4, h5, h6 {
-  font-family: 'Baskervville', sans-serif;
+h1 { font-size: 1.8rem; }
+
+h2 {
   font-size: 1.2rem;
-  font-weight: 600;
-  color: #111;
-  margin-top: 1.5rem;
+  border-bottom: 1px solid $border;
+  padding-bottom: 0.5rem;
+}
+
+h3 {
+  font-family: $font-family-base;
+  font-size: 1.2rem;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $ink-muted;
+  margin-top: 2.5rem;
   margin-bottom: 1rem;
 }
 
-h1.title {
-  font-family: 'Baskervville', sans-serif;
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #2a2a2a;
-  text-align: left;
+h4, h5, h6 {
+  font-family: $font-family-base;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: $ink-muted;
 }
 
-/* Footer */
-footer {
-  margin-top: 4rem;
-  padding-top: 2rem;
-  border-top: 1px solid #e0e0e0;
-  color: #888888;
-  font-size: 0.9rem;
-  text-align: center;
+p {
+  font-family: 'DM Sans', system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.75;
+  color: $ink;
+  margin-bottom: 1.25rem;
 }
 
-/* Landing layout */
+li, td, th {
+  font-family: 'DM Sans', system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.75;
+  color: $ink;
+  margin-bottom: 0.4rem;
+}
+
+a {
+  color: $link;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: color 0.15s ease;
+
+  &:hover {
+    color: $accent;
+    text-decoration: underline;
+  }
+}
+
+// ─── Publications ─────────────────────────────────────────────────
+
+// Section headings (Dissertation, Early work)
+.publications h2,
+#quarto-document-content h2 {
+  font-family: 'DM Sans', system-ui, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $ink-faint;
+  border-bottom: 1px solid $border;
+  padding-bottom: 0.4rem;
+  margin-top: 3rem;
+}
+
+// Listing items
+.quarto-listing-default .list-item {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid $border;
+  border-top: none;
+}
+
+// Title
+.quarto-listing-default .listing-title,
+.quarto-listing-default .listing-title a {
+  font-family: 'Playfair Display', serif !important;
+  font-size: 1.1rem !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  line-height: 1.4 !important;
+  color: $ink !important;
+  text-transform: none !important;
+  letter-spacing: normal !important;
+  text-decoration: none !important;
+  margin-bottom: 0.25rem;
+
+  &:hover { color: $link !important; }
+}
+
+// Subtitle (journal / book info)
+.quarto-listing-default .listing-subtitle {
+  font-family: $font-family-base !important;
+  font-size: 0.9rem !important;
+  font-style: normal !important;
+  color: $ink-muted !important;
+  text-transform: none !important;
+  letter-spacing: normal !important;
+  margin-bottom: 0.4rem;
+}
+
+// Date
+.quarto-listing-default .listing-date {
+  font-family: $font-family-base;
+  font-size: 0.75rem;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  color: $ink-faint;
+}
+
+// Description
+.quarto-listing-default .listing-description {
+  font-family: $font-family-base !important;
+  font-size: 0.85rem !important;
+  color: $ink-muted !important;
+  line-height: 1.6 !important;
+  margin-top: 0.4rem;
+}
+
+
+// Image
+.quarto-listing-default .listing-image {
+  border-radius: 2px;
+  object-fit: contain !important;
+  width: 220px !important;
+  height: auto !important;
+  flex-shrink: 0;
+}
+
+// Hide categories everywhere
+.quarto-listing-default .listing-category,
+.quarto-listing-category,
+.quarto-listing-category-title {
+  display: none !important;
+}
+
+// ─── Language toggle (about page) ─────────────────────────────────
+.lang-toggle {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+
+  a {
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: $ink-muted;
+    text-decoration: none;
+    padding: 4px 12px;
+    border: 1px solid $border;
+    border-radius: 2px;
+    transition: all 0.15s ease;
+
+    &:hover, &.active {
+      color: $ink;
+      border-color: $ink-muted;
+      text-decoration: none;
+    }
+  }
+}
+
+// ─── Landing page ─────────────────────────────────────────────────
 .landing-container {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  justify-content: center;
-  gap: 3rem;
-  padding: 3rem 1rem;
+  gap: 4rem;
+  padding: 4rem 0 3rem;
   flex-wrap: wrap;
-  background-color: #fdf6f0;
+  width: 100%;
+  max-width: 100%;
 }
 
 .landing-left {
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 250px;
   flex-shrink: 0;
-}
+  width: 210px;
 
-.landing-left img {
-  width: 100%;
-  max-width: 220px;
-  height: auto;
-  border-radius: 6px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  img {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 2px;
+    filter: grayscale(15%);
+  }
 }
 
 .landing-socials {
-  margin-top: 1.5rem;
+  margin-top: 1.25rem;
   display: flex;
-  gap: 1.2rem;
+  gap: 1rem;
   justify-content: center;
-  flex-wrap: wrap;
-  font-size: 1.2rem;
+  font-size: 1rem;
+
+  a {
+    color: $ink-muted;
+    text-decoration: none;
+    transition: color 0.15s ease;
+    &:hover { color: $ink; }
+  }
 }
 
-.landing-socials a {
-  color: #6b4e3d;
+.landing-text { flex: 1; min-width: 280px; }
+
+.landing-tag {
+  font-size: 0.7rem;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: $ink-faint;
+  margin-bottom: 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  &::before {
+    content: '';
+    display: inline-block;
+    width: 22px;
+    height: 1px;
+    background: $ink-faint;
+  }
+}
+
+.landing-headline {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.12;
+  letter-spacing: -0.01em;
+  margin: 0 0 1.5rem;
+  color: $ink;
+
+  em {
+    font-style: italic;
+    color: $ink-muted;
+  }
+}
+
+.landing-bio {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: $ink-muted;
+  margin-bottom: 2rem;
+
+  a {
+    color: $ink;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+  }
+}
+
+.landing-buttons {
+  display: flex;
+  gap: 0.875rem;
+  flex-wrap: wrap;
+}
+
+.btn-main {
+  display: inline-block;
+  font-family: $font-family-base;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 10px 22px;
+  background-color: $ink;
+  color: $cream;
   text-decoration: none;
+  border-radius: 2px;
+  transition: background-color 0.15s ease;
 
   &:hover {
-    color: #555;
-  }
-
-  i {
-    display: inline-block;
-    font-style: normal;
+    background-color: $accent;
+    color: $cream;
+    text-decoration: none;
   }
 }
 
-.landing-text {
+.btn-outline {
+  display: inline-block;
+  font-family: $font-family-base;
+  font-size: 0.75rem;
+  font-weight: 400;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 10px 22px;
+  border: 1px solid $border;
+  color: $ink-muted;
+  text-decoration: none;
+  border-radius: 2px;
+  transition: all 0.15s ease;
+
+  &:hover {
+    border-color: $ink-muted;
+    color: $ink;
+    text-decoration: none;
+  }
+}
+
+// ─── Blockquote & HR ──────────────────────────────────────────────
+blockquote {
+  border-left: 2px solid $border;
+  padding-left: 1.25rem;
+  color: $ink-muted;
+  font-style: italic;
+  margin: 2rem 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid $border;
+  margin: 2.5rem 0;
+}
+
+// ─── Table of contents ────────────────────────────────────────────
+#TOC {
+  font-size: 0.8rem;
+  padding-left: 1rem;
+
+  .nav-link {
+    font-family: $font-family-base;
+    font-size: 0.8rem;
+    color: $ink-muted;
+    text-transform: none;
+    letter-spacing: 0;
+    padding: 0.2rem 0.5rem;
+
+    &:hover, &.active { color: $ink; }
+  }
+}
+
+// ─── Footer ───────────────────────────────────────────────────────
+footer {
+  margin-top: 5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid $border;
+  color: $ink-faint;
+  font-size: 0.8rem;
+  text-align: center;
+
+  a {
+    color: $ink-faint;
+    text-decoration: none;
+    &:hover { color: $ink; }
+  }
+}
+
+// ─── Media page ───────────────────────────────────────────────────
+.media-entry {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid $border;
+
+  &:last-child { border-bottom: none; }
+}
+
+.media-type {
+  font-family: $font-family-base;
+  font-size: 0.65rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $ink-faint;
+  margin-bottom: 0.4rem;
+}
+
+.media-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: $ink;
+  margin-bottom: 0.25rem;
+}
+
+.media-meta {
+  font-size: 0.85rem;
+  color: $ink-muted;
+  margin-bottom: 0.75rem;
+}
+
+.media-embed {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin-top: 0.75rem;
+
+  iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 2px;
+  }
+}
+
+.media-audio {
+  margin-top: 0.75rem;
+
+  audio {
+    width: 100%;
+    height: 36px;
+  }
+}
+
+// ─── Publications ─────────────────────────────────────────────────
+
+.publications-list h2 {
+  font-family: $font-family-base;
+  font-size: 1.2rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $ink-faint;
+  border-bottom: 1px solid $border;
+  border-top: none;
+  padding-bottom: 0.4rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.publications-list {
+  max-width: 100%;
+  width: 100%;
+}
+
+.pub {
+  margin-bottom: 0.1rem;
+  padding-bottom: 0.1rem;
+  border-bottom: none;
+
+  &:last-child { border-bottom: none; }
+}
+
+.pub-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: $ink;
+  margin-bottom: 0.2rem;
+  white-space: normal;
+  overflow: visible;
+  hyphens: none;
+}
+
+.pub-venue {
+  font-family: $font-family-base;
+  font-size: 0.9rem;
+  color: $ink-muted;
+  margin-bottom: 0.3rem;
+}
+
+.pub-links a {
+  font-family: $font-family-base;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: $ink-muted;
+  text-decoration: none;
+  margin-right: 1rem;
+  border-bottom: 1px solid $border;
+  padding-bottom: 1px;
+
+  &:hover { color: $ink; border-color: $ink; }
+}
+
+// ─── About page ───────────────────────────────────────────────────
+.page-layout-full p {
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.page-layout-full li {
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.page-layout-article #quarto-document-content {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 !important;
+}
+
+.page-layout-article .column-body {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+
+// ─── Article layout (publications page) ───────────────────────────
+#quarto-content.page-layout-article {
+  display: grid !important;
+  grid-template-columns: 1fr 220px !important;
+  grid-template-rows: auto !important;
+  gap: 3rem !important;
+  padding: 2rem 4rem !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  align-items: start !important;
+}
+
+#quarto-content.page-layout-article #quarto-sidebar {
+  display: none !important;
+}
+
+#quarto-content.page-layout-article #quarto-margin-sidebar {
+  grid-column: 2 !important;
+  grid-row: 1 !important;
+  width: 220px !important;
+  position: sticky !important;
+  top: 4rem !important;
+  display: block !important;
+}
+
+#quarto-content.page-layout-article main {
+  grid-column: 1 !important;
+  grid-row: 1 !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  min-width: 0 !important;
+  padding: 0 !important;
+}
+
+// ─── Teaching page ────────────────────────────────────────────────
+.teaching-list {
+  width: 100%;
+  max-width: 100%;
+}
+
+.teaching-list h3 {
+  font-family: $font-family-base;
+  font-size: 1rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $ink-muted;
+  border-bottom: 1px solid $border;
+  padding-bottom: 0.4rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.teaching-list p {
+  font-size: 1rem;
+  color: $ink;
+  line-height: 1.75;
+}
+
+.teaching-list ul {
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.teaching-list li {
+  font-size: 1rem;
+  color: $ink;
+  line-height: 1.75;
+  margin-bottom: 0.25rem;
+}
+
+.teaching-list li em {
+  display: block;
+  font-size: 0.9rem;
+  color: $ink-muted;
+  margin-top: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+
+// ─── Atlas of Finance page ────────────────────────────────────────
+.aof-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 4rem;
+  width: 100%;
+  max-width: 100%;
+  padding-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.aof-image {
+  flex-shrink: 0;
+  width: 280px;
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 2px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+  }
+}
+
+.aof-text {
   flex: 1;
-  max-width: 700px;
-  align-self: flex-start;
+  min-width: 280px;
+
+  blockquote {
+    border-left: 2px solid $border;
+    padding-left: 1.25rem;
+    color: $ink-muted;
+    font-style: italic;
+    margin: 1.25rem 0;
+    font-size: 0.95rem;
+    line-height: 1.7;
+
+    p { margin-bottom: 0.25rem; }
+  }
 }
 
-.landing-text p {
-  font-size: 1.3rem;
-  line-height: 1.6;
-  margin-bottom: 2rem;
-  color: #2a2a2a;
-}
-
-/* Responsive stack */
 @media screen and (max-width: 768px) {
-  .landing-container {
+  .aof-container {
     flex-direction: column;
     align-items: center;
-    text-align: center;
-    padding: 2rem 1rem;
   }
 
-  .landing-text {
-    max-width: 100%;
+
+.aof-images {
+  flex-shrink: 0;
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 2px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.12);
   }
 }
 

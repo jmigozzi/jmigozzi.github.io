@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-768c135172f32a44277a7ca6ed00a94d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-9f2f152940be46e06d6a68ca1c9cb181.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-a40c33e94a5eebd3677e80cf01f9a0dd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-b623fa6e9d0a40154f221b450073819d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -65,9 +65,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -149,18 +149,22 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../"> 
 <span class="menu-text">Julien Migozzi, PhD</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../publications/index.html" aria-current="page"> 
-<span class="menu-text">Research</span></a>
+    <a class="nav-link" href="../publications.html"> 
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../teaching.html"> 
@@ -169,6 +173,10 @@ window.Quarto = {
   <li class="nav-item">
     <a class="nav-link" href="../aof.html"> 
 <span class="menu-text">Atlas of Finance</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../media.html"> 
+<span class="menu-text">Media</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../posts.html"> 
@@ -189,21 +197,9 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications">Publications</a></li>
-  <li><a href="#dissertation" id="toc-dissertation" class="nav-link" data-scroll-target="#dissertation">Dissertation</a></li>
-  <li><a href="#public-scholarship" id="toc-public-scholarship" class="nav-link" data-scroll-target="#public-scholarship">Public scholarship</a></li>
-  <li><a href="#media" id="toc-media" class="nav-link" data-scroll-target="#media">Media</a></li>
-  <li><a href="#early-work" id="toc-early-work" class="nav-link" data-scroll-target="#early-work">Early work</a></li>
-  </ul>
-</nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(19)</span></div><div class="category" data-category="RGlnaXRhbCUyMFRlY2hub2xvZ2llcw==">Digital Technologies <span class="quarto-category-count">(10)</span></div><div class="category" data-category="RWFybHklMjB3b3Jr">Early work <span class="quarto-category-count">(3)</span></div><div class="category" data-category="RmluYW5jZQ==">Finance <span class="quarto-category-count">(5)</span></div><div class="category" data-category="SG91c2luZyUyMG1hcmtldA==">Housing market <span class="quarto-category-count">(11)</span></div><div class="category" data-category="U2VncmVnYXRpb24=">Segregation <span class="quarto-category-count">(11)</span></div><div class="category" data-category="U291dGglMjBBZnJpY2E=">South Africa <span class="quarto-category-count">(9)</span></div></div></div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
@@ -224,15 +220,6 @@ window.Quarto = {
 </h3>
 <div class="listing-subtitle">
 <a href="../publications/follow_data/index.html" class="no-external">A chapter in A. Datta and F. Hoefsloot, 2025, <em>Informational Peripheries. Rethinking the urban in a digital age</em>, UCL Press.</a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGlnaXRhbCUyMFRlY2hub2xvZ2llcw=='); return false;">Digital Technologies</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VncmVnYXRpb24='); return false;">Segregation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U291dGglMjBBZnJpY2E='); return false;">South Africa</div>
-
 </div>
 <div class="delink listing-description"><a href="../publications/follow_data/index.html" class="no-external">
 <p>A method to analyse the political economy and stratifying effects of data flows.</p>
@@ -259,19 +246,6 @@ Aug 4, 2025
 <div class="listing-subtitle">
 <a href="../publications/scoring_high/index.html" class="no-external">Published in <em>International Journal of Urban and Regional Research</em>.</a>
 </div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('U291dGglMjBBZnJpY2E='); return false;">South Africa</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SG91c2luZyUyMG1hcmtldA=='); return false;">Housing market</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RmluYW5jZQ=='); return false;">Finance</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGlnaXRhbCUyMFRlY2hub2xvZ2llcw=='); return false;">Digital Technologies</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VncmVnYXRpb24='); return false;">Segregation</div>
-
-</div>
 <div class="delink listing-description"><a href="../publications/scoring_high/index.html" class="no-external">
 <p>This paper examines how modern class dynamics become intertwined with automated classifications and data-driven regimes of value creation under digital capitalism. I demonstrate how housing markets and sorting algorithms shape asset inequalities and middle-class formation in South Africa.</p>
 </a></div>
@@ -296,15 +270,6 @@ Jul 9, 2025
 </h3>
 <div class="listing-subtitle">
 <a href="../publications/subprime_premium/index.html" class="no-external">Published in <em>Journal of Cultural Economy</em>.</a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RmluYW5jZQ=='); return false;">Finance</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGlnaXRhbCUyMFRlY2hub2xvZ2llcw=='); return false;">Digital Technologies</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VncmVnYXRpb24='); return false;">Segregation</div>
-
 </div>
 <div class="delink listing-description"><a href="../publications/subprime_premium/index.html" class="no-external">
 <p>A review of Marion Fourcade and Kieran Healy’s <em>The Ordinal Society</em>.</p>
@@ -331,13 +296,6 @@ Jul 6, 2025
 <div class="listing-subtitle">
 <a href="../publications/bipartitate_agencies/index.html" class="no-external">David Abella, Johann H. Martínez, Mattia Mazzoli, Julien Migozzi, Thibault Le Corre, Eduard Alonso-Paulí, Rafel Crespí-Cladera, Thomas Louail, José J. Ramasco. <br> Published in <em>EPJ Data Science</em>.</a>
 </div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('SG91c2luZyUyMG1hcmtldA=='); return false;">Housing market</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGlnaXRhbCUyMFRlY2hub2xvZ2llcw=='); return false;">Digital Technologies</div>
-
-</div>
 <div class="delink listing-description"><a href="../publications/bipartitate_agencies/index.html" class="no-external">
 <p>Real estate agencies unevenly operate and specialize across space, price and type of properties, thereby segmenting the housing market into submarkets. We introduce a new methodology based on multipartite networks to detect spatial segmentation using online listings.</p>
 </a></div>
@@ -362,11 +320,6 @@ May 2, 2025
 </h3>
 <div class="listing-subtitle">
 <a href="../publications/pouvoirs_afs_eng/index.html" class="no-external">Published in <em>Pouvoirs</em>. Translation of the original French version by the editor.</a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('U291dGglMjBBZnJpY2E='); return false;">South Africa</div>
-
 </div>
 <div class="delink listing-description"><a href="../publications/pouvoirs_afs_eng/index.html" class="no-external">
 <p>After thirty years of democracy during which South Africa became an emerging economy, these dividing lines of electoral geography confirm that apartheid, as a multiscalar system of racial and ethnic segregation, remains key to understanding South African society spaces.</p>
@@ -393,15 +346,6 @@ Jan 1, 2025
 <div class="listing-subtitle">
 <a href="../publications/pouvoirs_afs/index.html" class="no-external">Published in <em>Pouvoirs</em></a>
 </div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('U291dGglMjBBZnJpY2E='); return false;">South Africa</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SG91c2luZyUyMG1hcmtldA=='); return false;">Housing market</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VncmVnYXRpb24='); return false;">Segregation</div>
-
-</div>
 <div class="delink listing-description"><a href="../publications/pouvoirs_afs/index.html" class="no-external">
 <p>L’apartheid demeure une clé de lecture indispensable de la société sud-africaine et de ses espaces toutefois insuffsante pour en comprendre les mutations</p>
 </a></div>
@@ -426,13 +370,6 @@ Dec 31, 2024
 </h3>
 <div class="listing-subtitle">
 <a href="../publications/maps_apps_race/index.html" class="no-external">Published in <em>Tijdschrift voor Economische en Sociale Geografie</em></a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('SG91c2luZyUyMG1hcmtldA=='); return false;">Housing market</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VncmVnYXRpb24='); return false;">Segregation</div>
-
 </div>
 <div class="delink listing-description"><a href="../publications/maps_apps_race/index.html" class="no-external">
 <p>Commentary for the <em>Tijdschrift voor Economische en Sociale Geografie</em>’ annual lecture delivered at the 2023 AAG in Denver. I suggest to understand Desiree Fields’ intervention as a fourth conceptual moment in the study of housing markets and inequalities, for it brings racial capitalism and settler colonialism as theoretical starting points to analyse the political economy of housing in the era of digital property technologies.</p>
@@ -459,17 +396,6 @@ May 10, 2024
 <div class="listing-subtitle">
 <a href="../publications/rental_platforms/index.html" class="no-external">Published in <em>Environment and Planning D: Society and Space</em>.</a>
 </div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('SG91c2luZyUyMG1hcmtldA=='); return false;">Housing market</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VncmVnYXRpb24='); return false;">Segregation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGlnaXRhbCUyMFRlY2hub2xvZ2llcw=='); return false;">Digital Technologies</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U291dGglMjBBZnJpY2E='); return false;">South Africa</div>
-
-</div>
 <div class="delink listing-description"><a href="../publications/rental_platforms/index.html" class="no-external">
 <p>This article examines how racial capitalism intersects with platform capitalism in post-apartheid South Africa. I argue that rental platforms, built upon technologies of credit scoring, extend the extractive logic of racial capitalism through two joint rentier mechanisms. the transformation of rental housing into a new asset class; the extraction and assetization of rental data.</p>
 </a></div>
@@ -494,17 +420,6 @@ Aug 25, 2023
 </h3>
 <div class="listing-subtitle">
 <a href="../publications/metropolitics/index.html" class="no-external">Published in <em>Metropolitics</em>.</a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('SG91c2luZyUyMG1hcmtldA=='); return false;">Housing market</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VncmVnYXRpb24='); return false;">Segregation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGlnaXRhbCUyMFRlY2hub2xvZ2llcw=='); return false;">Digital Technologies</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U291dGglMjBBZnJpY2E='); return false;">South Africa</div>
-
 </div>
 <div class="delink listing-description"><a href="../publications/metropolitics/index.html" class="no-external">
 <p>In the age of platform capitalism, how is digital technology reconfiguring real-estate markets and access to housing? In Cape Town, South Africa, credit scoring—a form of selection based on financial behavior—has become the norm in this regard, contributing to the reappearance of apartheid-era segregation.</p>
@@ -531,13 +446,6 @@ Jun 30, 2023
 <div class="listing-subtitle">
 <a href="../publications/india_ma/index.html" class="no-external">With Dariusz Wójcik and Michael Urban <br> Published in <em>Economic Geography</em>.</a>
 </div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RmluYW5jZQ=='); return false;">Finance</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGlnaXRhbCUyMFRlY2hub2xvZ2llcw=='); return false;">Digital Technologies</div>
-
-</div>
 <div class="delink listing-description"><a href="../publications/india_ma/index.html" class="no-external">
 <p>How does finance transform global production networks and affect the hierarchy of financial centres? Recent advancements in the global production networks (GPNs) literature seek to better emphasize the role of finance by identifying where and how global financial networks (GFNs) intersect with GPNs. Financial centers (FCs) operate as key sites for articulating financial convergence, understood as the merging of financial and nonfinancial sectors enacted by cross-sectoral investments. Yet, how such entanglement both feeds on and impacts intercity networks, affecting metropolitan hierarchies, remains largely overlooked. Using a novel data set of 12,147 intersectoral, cross-border and domestic merger and acquisition deals involving finance and insurance firms throughout the period of 2000–20, this article unpacks the sectoral dynamics that underpin the intersection of GFNs with GPNs at the city level in India, the fifth largest economy in the world.</p>
 </a></div>
@@ -562,13 +470,6 @@ May 25, 2023
 </h3>
 <div class="listing-subtitle">
 <a href="../publications/india_fintech/index.html" class="no-external">With Dariusz Wójcik and Michael Urban <br> Published in <em>Geoforum</em>.</a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RmluYW5jZQ=='); return false;">Finance</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGlnaXRhbCUyMFRlY2hub2xvZ2llcw=='); return false;">Digital Technologies</div>
-
 </div>
 <div class="delink listing-description"><a href="../publications/india_fintech/index.html" class="no-external">
 <p>This paper explores the potential of FinTech to change the geography of finance and financial centres through a longitudinal and multiscalar analysis of FinTech in India. Using a financial ecology approach and a mixed-method framework, we document Bangalore’s emergence as India’s FinTech capital and the rise of New Delhi, demonstrate how Mumbai and Bangalore structure India’s financial geography as complementary ecosystemsm, and conceptualize FinTech in India as a “Tech-Fin-State” ecosystem.</p>
@@ -595,17 +496,6 @@ Mar 3, 2023
 <div class="listing-subtitle">
 <a href="../publications/ville_et_numerique/index.html" class="no-external">Published in <em>Metropolitiques</em>.</a>
 </div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('U291dGglMjBBZnJpY2E='); return false;">South Africa</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SG91c2luZyUyMG1hcmtldA=='); return false;">Housing market</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGlnaXRhbCUyMFRlY2hub2xvZ2llcw=='); return false;">Digital Technologies</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VncmVnYXRpb24='); return false;">Segregation</div>
-
-</div>
 <div class="delink listing-description"><a href="../publications/ville_et_numerique/index.html" class="no-external">
 <p>À l’heure du capitalisme de plateforme, comment le numérique reconfigure-t-il les marchés immobiliers et l’accès au logement ? En Afrique du Sud, au Cap, la pratique du credit scoring est devenue la règle. Fondée sur une sélection par les comportements financiers, elle contribue à renouveler la ségrégation héritée de l’apartheid.</p>
 </a></div>
@@ -630,13 +520,6 @@ Mar 7, 2022
 </h3>
 <div class="listing-subtitle">
 <a href="../publications/housing_inequity/index.html" class="no-external">Renaud Le Goix, Laure Casanova Enault, Loïc Bonneval, Thibault Le Corre, Eliza Benites‐Gambirazio, Guilhem Boulay, William Kutz, Natacha Aveline‐Dubach, Julien Migozzi, Ronan Ysebaert <br> Published in <em>Tijdschrift voor Economische en Sociale Geografie</em>.</a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('SG91c2luZyUyMG1hcmtldA=='); return false;">Housing market</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VncmVnYXRpb24='); return false;">Segregation</div>
-
 </div>
 <div class="delink listing-description"><a href="../publications/housing_inequity/index.html" class="no-external">
 <p>This paper advances a research agenda on how asset-based welfare policies, residential market volatility, stratified accumulation and vulnerability impinge upon the geography of inequality in property markets.</p>
@@ -663,19 +546,6 @@ Aug 11, 2020
 <div class="listing-subtitle">
 <a href="../publications/financialization_housing_sa/index.html" class="no-external">Published in <em>Housing Policy Debate</em>.</a>
 </div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('U291dGglMjBBZnJpY2E='); return false;">South Africa</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SG91c2luZyUyMG1hcmtldA=='); return false;">Housing market</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RmluYW5jZQ=='); return false;">Finance</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGlnaXRhbCUyMFRlY2hub2xvZ2llcw=='); return false;">Digital Technologies</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VncmVnYXRpb24='); return false;">Segregation</div>
-
-</div>
 <div class="delink listing-description"><a href="../publications/financialization_housing_sa/index.html" class="no-external">
 <p>Focusing on Cape Town, this article investigates how financialization unfolds in the South African housing market. I use a mixed method that combines in-depth field research conducted among key market players with an analysis of georeferenced residential transactions.</p>
 </a></div>
@@ -700,13 +570,6 @@ Jan 1, 2020
 </h3>
 <div class="listing-subtitle">
 <a href="../publications/who_sells_whom/index.html" class="no-external">With Renaud Le Goix, Timothée Giraud, Robin Cura and Thibault Le Corre <br> Published in <em>PLOS One</em></a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('SG91c2luZyUyMG1hcmtldA=='); return false;">Housing market</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VncmVnYXRpb24='); return false;">Segregation</div>
-
 </div>
 <div class="delink listing-description"><a href="../publications/who_sells_whom/index.html" class="no-external">
 <p>In a context of a housing inflation in the greater Paris Region, this paper develops new computational methods to understand how housing price dynamics affect socioeconomic segregation.</p>
@@ -733,13 +596,6 @@ Mar 21, 2019
 <div class="listing-subtitle">
 <a href="../publications/national_parks_market/index.html" class="no-external">With Abdul Shaban and Rafael Soares Gonçalves <br> Book chapter</a>
 </div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('U291dGglMjBBZnJpY2E='); return false;">South Africa</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SG91c2luZyUyMG1hcmtldA=='); return false;">Housing market</div>
-
-</div>
 <div class="delink listing-description"><a href="../publications/national_parks_market/index.html" class="no-external">
 <p>As emerging Global South Cities, Cape Town, Mumbai and Rio de Janeiro have experienced the a spectacular increase of housing prices, turning land around urban national parks into places of exclusiveness and opportunities. This chapter is the outcome of my participation in the research project “Urban National Parks in Emerging Countries” led by Professor Frédéric Landy (University of Paris Nanterre).</p>
 </a></div>
@@ -764,11 +620,6 @@ Jul 18, 2018
 </h3>
 <div class="listing-subtitle">
 <a href="../publications/new_caledonia/index.html" class="no-external">With Gerard Prinsen and Yves Lafoy <br> Published in <em>Asia Pacific Viewpoint</em></a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RWFybHklMjB3b3Jr'); return false;">Early work</div>
-
 </div>
 <div class="delink listing-description"><a href="../publications/new_caledonia/index.html" class="no-external">
 <p>This paper is the output of my work as a Research Assistant for the Marsden Fund research project on aid and sovereignty across the Pacific island nations, led by Professor John Overton (Wellington’s Victoria University, New Zealand).</p>
@@ -795,11 +646,6 @@ Jun 9, 2017
 <div class="listing-subtitle">
 <a href="../publications/rugby_schools/index.html" class="no-external">Published in <em>M@ppemonde</em></a>
 </div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RWFybHklMjB3b3Jr'); return false;">Early work</div>
-
-</div>
 <div class="delink listing-description"><a href="../publications/rugby_schools/index.html" class="no-external">
 <p>A research paper presenting the findings of my Master dissertation on school rugby and urban segregation in post-apartheid Cape Town.</p>
 </a></div>
@@ -824,11 +670,6 @@ Jan 1, 2012
 </h3>
 <div class="listing-subtitle">
 <a href="../publications/rugby_sa/index.html" class="no-external">Published in <em>Les Cahiers d’Outre-Mer</em></a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RWFybHklMjB3b3Jr'); return false;">Early work</div>
-
 </div>
 <div class="delink listing-description"><a href="../publications/rugby_sa/index.html" class="no-external">
 <p>A research paper presenting the findings of my Master dissertation on school rugby and urban segregation in post-apartheid Cape Town.</p>
@@ -856,22 +697,6 @@ Apr 1, 2010
 <p>My <a href="https://www.theses.fr/en/2020GRALH007">PhD dissertation</a> was entitled “<em>A city to sell. Digitalization and financialization of the housing market in Cape Town: stratification &amp; segregation in the emerging global city</em>”.</p>
 <p>The thesis demonstrates how the digitalization of the real estate industry, structured around the implementation of credit scoring and the rise of real estate platforms, profoundly reshaped the functioning of the housing market in post-apartheid South Africa. This re-mediation of the market enabled a selective financialization of housing, enacted by restrictive lending policies and by the consolidation of the private rental sector, characterized by the emergence of institutional investors. This evolution of the market renewed mechanisms of social stratification and patterns of urban change in Cape Town.</p>
 <p>I used a mixed-method framework combining expert interviews, participant-observation, and spatial data science. I conducted 18 months of in-depth fieldwork across the real estate industry (real estate agents, mortgage lenders, institutional investors, buyers and tenants). In parallel, I source Deeds data and longitudinal census data to analyze how the spatial dynamics of price and credit influence the evolution of urban segregation, building a new database of 900,000 residential transactions, while reconstructing the zoning of apartheid with GIS and archival maps. I used open source tools such as R and QGIS.</p>
-</section>
-<section id="public-scholarship" class="level2">
-<h2 class="anchored" data-anchor-id="public-scholarship">Public scholarship</h2>
-<ul>
-<li>Migozzi J, 2022, “<a href="https://logicmag.io/home/apartheid-by-algorithm/">Apartheid by Algorithm</a>”, <em>Logic Magazine</em>.</li>
-<li><em>Diagonal</em>, 2022, “<a href="https://www.openedition.org/23454">An interview with Julien Migozzi, recipient of the Doctoral Prize in Urban Studies</a>”, Issue 215.</li>
-<li>Migozzi, J., 2019, “<a href="https://ideas4development.org/en/financialization-real-estate-filter/">When real estate financialization filters people out</a>”, ideas4development.</li>
-<li>Migozzi, J., 2019, “<a href="https://www.lhistoire.fr/afrique-du-sud-le-rugby-un-sport-de-blancs%C2%A0">L’Afrique du Sud : le rugby, un sport de blancs ?</a>”, <em>L’Histoire</em>, n°8.</li>
-</ul>
-</section>
-<section id="media" class="level2">
-<h2 class="anchored" data-anchor-id="media">Media</h2>
-<ul>
-<li>Interview for <em>France Culture</em>, “<a href="https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/afrique-du-sud-sortir-des-townships-2105499">”L’Afrique du Sud : sortir des townships?</a>. Cultures Monde, série”Crises du logement”, Radio France.</li>
-<li>Interview for <em>Libération</em>, “<a href="https://www.liberation.fr/sports/rugby/coupe-du-monde-de-rugby-2023-en-afrique-du-sud-les-rugbymen-noirs-gagnent-du-terrain-20230908_OZM4MCGIEFE7NFWWOTBFPSYSIY/">Coupe du monde de rugby 2023 : en Afrique du Sud, les rugbymen noirs gagnent du terrain</a>”.</li>
-</ul>
 </section>
 <section id="early-work" class="level2">
 <h2 class="anchored" data-anchor-id="early-work">Early work</h2>

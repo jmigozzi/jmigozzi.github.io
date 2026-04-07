@@ -5,7 +5,6 @@ page-layout: full
 toc: false
 css: custom2.scss
 ---
-
 ```{=html}
 <div class="landing-container">
 
@@ -28,9 +27,50 @@ css: custom2.scss
   </div>
 
   <div class="landing-text">
-    <p>
-      <br> Welcome! <br><br> I am an economic geographer and an <a href="https://www.devstudies.cam.ac.uk/staff/dr-julien-migozzi">Assistant Professor</a> in the <a href="https://www.polis.cam.ac.uk/">Department of Politics and International Studies</a> at the University of Cambridge.<br><br> My research explores how digital capitalism reshapes markets, cities, and inequalities, combining qualitative and computational methods, and focusing on South Africa.
+    <p class="landing-tag">Economic Geographer · University of Cambridge</p>
+    <h1 class="landing-headline">Digital capitalism,<br><em>cities &amp; inequality</em></h1>
+    <p class="landing-bio">
+      I am an <a href="https://www.devstudies.cam.ac.uk/staff/dr-julien-migozzi">Assistant Professor</a> in Development Studies in the <a href="https://www.polis.cam.ac.uk/">Department of Politics and International Studies</a>
+      at the University of Cambridge. My research explores how digital platforms and financial capital reshape  markets, property, and inequalities — with a focus on South Africa.
     </p>
+    <div class="landing-buttons">
+      <a href="publications.html" class="btn-main">Publications</a>
+      <a href="about.html" class="btn-outline">About me</a>
+    </div>
+  </div>
+
+</div>
+
+<div class="landing-sections">
+
+  <div class="landing-section">
+    <p class="landing-section-label">Appointments</p>
+    <div class="landing-position">
+      <span class="landing-position-year">2026—</span>
+      <span class="landing-position-title">Assistant Professor, University of Cambridge</span>
+    </div>
+    <div class="landing-position">
+      <span class="landing-position-year">2024—25</span>
+      <span class="landing-position-title">Visiting Scholar, UC Berkeley</span>
+    </div>
+    <div class="landing-position">
+      <span class="landing-position-year">2022—25</span>
+      <span class="landing-position-title">Urban Studies Foundation Postdoctoral Fellow, University of Oxford</span>
+    </div>
+  </div>
+
+  <div class="landing-section">
+    <p class="landing-section-label">Recent publications</p>
+    <div class="landing-pub">
+      <p class="landing-pub-title">Scoring high, paying up, gating in: middle-class formation and asset inequalities under digital capitalism in South Africa</p>
+      <p class="landing-pub-venue"><em>International Journal of Urban and Regional Research</em>, 2026</p>
+      <p class="landing-pub-links"><a href="https://doi.org/10.1111/1468-2427.70004">Journal</a></p>
+    </div>
+    <div class="landing-pub">
+      <p class="landing-pub-title">From the subprime to the premium, from California to fascism?</p>
+      <p class="landing-pub-venue"><em>Journal of Cultural Economy</em>, 2026</p>
+      <p class="landing-pub-links"><a href="https://www.tandfonline.com/doi/full/10.1080/17530350.2025.2523771">Journal</a></p>
+    </div>
   </div>
 
 </div>

@@ -1,6 +1,7 @@
 ---
 title: ""
 page-layout: full
+toc: false
 listing:
   id: main-listing
   contents: 
@@ -13,7 +14,6 @@ listing:
     - rugby_schools
     - rugby_sa
     - maps_apps_race
-   # - apartheid_algorithm
     - india_fintech
     - india_ma
     - metropolitics
@@ -25,10 +25,10 @@ listing:
     - scoring_high
     - subprime_premium
   type: default
-  categories: true
   image-align: left
   sort: "date desc"
----
+  fields: [image, date, title, subtitle, description]
+---  
 
 ## Publications
 
@@ -51,17 +51,7 @@ The thesis demonstrates how the digitalization of the real estate industry, stru
 
 I used a mixed-method framework combining expert interviews, participant-observation, and spatial data science. I conducted 18 months of in-depth fieldwork across the real estate industry (real estate agents, mortgage lenders, institutional investors, buyers and tenants). In parallel, I source Deeds data and longitudinal census data to analyze how the spatial dynamics of price and credit influence the evolution of urban segregation, building a new database of 900,000 residential transactions, while  reconstructing the zoning of apartheid with GIS and archival maps. I used open source tools such as R and QGIS.
 
-## Public scholarship
 
-- Migozzi J, 2022, "[Apartheid by Algorithm](https://logicmag.io/home/apartheid-by-algorithm/)", *Logic Magazine*.
-- *Diagonal*, 2022,  "[An interview with Julien Migozzi, recipient of the Doctoral Prize in Urban Studies](https://www.openedition.org/23454)", Issue 215.
-- Migozzi, J., 2019, "[When real estate financialization filters people out](https://ideas4development.org/en/financialization-real-estate-filter/)", ideas4development.
-- Migozzi, J., 2019, "[L’Afrique du Sud : le rugby, un sport de blancs ?](https://www.lhistoire.fr/afrique-du-sud-le-rugby-un-sport-de-blancs%C2%A0)", *L’Histoire*, n°8.
-
-## Media
-
-- Interview for *France Culture*, "["L'Afrique du Sud : sortir des townships?](https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/afrique-du-sud-sortir-des-townships-2105499). Cultures Monde,  série "Crises du logement", Radio France.
-- Interview for *Libération*, "[Coupe du monde de rugby 2023 : en Afrique du Sud, les rugbymen noirs gagnent du terrain](https://www.liberation.fr/sports/rugby/coupe-du-monde-de-rugby-2023-en-afrique-du-sud-les-rugbymen-noirs-gagnent-du-terrain-20230908_OZM4MCGIEFE7NFWWOTBFPSYSIY/)".
 
 ## Early work
 

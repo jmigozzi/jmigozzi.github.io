@@ -1,0 +1,199 @@
+---
+title: ""
+page-layout: article
+toc: true
+toc-location: right
+toc-depth: 2
+---
+
+## Peer-reviewed articles
+
+
+
+<div class="pub">
+<p class="pub-title">Scoring high, paying up, gating in: middle-class formation and asset inequalities under digital capitalism in South Africa</p>
+<p class="pub-venue"><em>International Journal of Urban and Regional Research</em>, 50: 410-429, 2026</p>
+<p class="pub-links"><a href="https://doi.org/10.1111/1468-2427.70004">Journal</a></p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Who sells to whom in the suburbs? Home price inflation and the dynamics of sellers and buyers in the metropolitan region of Paris, 1996–2012</p>
+<p class="pub-venue">With Abella D., Martínez JH., Mazzoli M., Le Corre T., Alonso-Paulí E., Crespí-Cladera R., Louail T. & Ramasco J. <em>EPJ Data Science</em>, 14(34), 2025</p>
+<p class="pub-links"><a href="https://doi.org/10.1140/epjds/s13688-025-00551-z">Journal</a></p>
+</div>
+
+
+<div class="pub">
+<p class="pub-title">The good, the bad and the tenant: Rental platforms renewing racial capitalism in the post-apartheid housing market</p>
+<p class="pub-venue"><em>Environment and Planning D: Society and Space</em>, 42(4), 534–558, 2024</p>
+<p class="pub-links"><a href="https://journals.sagepub.com/doi/10.1177/02637758231195962">Journal</a></p>
+</div>
+
+
+<div class="pub">
+<p class="pub-title">'You should do what India does': FinTech ecosystems in India reshaping the geography of finance</p>
+<p class="pub-venue">With Urban M. & Wójcik D. <em>Geoforum</em>, vol. 151, 2024</p>
+<p class="pub-links"><a href="https://www.sciencedirect.com/science/article/pii/S0016718523000465">Journal</a></p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Is Apartheid Still Inscribed in South Africa's Spatial Reality?</p>
+<p class="pub-venue"><em>Pouvoirs</em>, 191, 73–94, 2024</p>
+<p class="pub-links"><a href="https://droit.cairn.info/journal-pouvoirs-2024-4-page-73?lang=en&tab=resume">Journal</a></p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Digital Technology and the City: New Forms of Urban Segregation in Cape Town?</p>
+<p class="pub-venue"><em>Metropolitics</em>, 2023</p>
+<p class="pub-links"><a href="https://metropolitics.org/Digital-Technology-and-the-City-New-Forms-of-Urban-Segregation-in-Cape-Town.html">Journal</a></p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Urban geographies of financial convergence: situating Indian financial centres across global production and financial networks</p>
+<p class="pub-venue">With Urban M. & Wójcik D. <em>Economic Geography</em>, 99(5), 499–525, 2023</p>
+<p class="pub-links"><a href="https://www.tandfonline.com/doi/full/10.1080/00130095.2023.2205584">Journal</a></p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Ville et numérique : vers un renouveau de la ségrégation urbaine au Cap ?</p>
+<p class="pub-venue"><em>Métropolitiques</em>, 2022</p>
+<p class="pub-links"><a href="https://metropolitics.org/Ville-et-numerique-vers-un-renouveau-de-la-segregation-urbaine-au-Cap.html">Journal</a></p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Selecting Spaces, Classifying People: The Financialization of Housing in the South African City</p>
+<p class="pub-venue"><em>Housing Policy Debate</em>, 30(4), 640–660, 2020</p>
+<p class="pub-links"><a href="https://www.tandfonline.com/doi/full/10.1080/10511482.2019.1684335">Journal</a></p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Housing (In)Equity and the Spatial Dynamics of Homeownership in France: A Research Agenda</p>
+<p class="pub-venue">With Le Goix R., Casanova Enault L., Bonneval L., Le Corre T., Benites-Gambirazio E., Boulay G., Kutz W., Aveline-Dubach N. & Ysebaert R. <em>Tijdschrift voor economische en sociale geografie</em>, 112(1), 62–80, 2020</p>
+<p class="pub-links"><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/tesg.12460">Journal</a></p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Who sells to whom in the suburbs? Home price inflation and the dynamics of sellers and buyers in the metropolitan region of Paris, 1996–2012</p>
+<p class="pub-venue">With Le Goix R., Giraud T., Cura R. & Le Corre T. <em>PLoS ONE</em>, 14(3), 2019</p>
+<p class="pub-links"><a href="https://doi.org/10.1371/journal.pone.0213169">Journal</a></p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Showcasing the sovereignty of non-self-governing islands: New Caledonia</p>
+<p class="pub-venue">With Prinsen G. & Lafoy Y. <em>Asia Pacific Viewpoint</em>, 58, 331–346, 2017</p>
+<p class="pub-links"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/apv.12151">Journal</a></p>
+</div>
+
+
+
+## Forum & commentary
+
+
+
+<div class="pub">
+<p class="pub-title">From the subprime to the premium, from California to fascism?</p>
+<p class="pub-venue"><em>Journal of Cultural Economy</em>, 2026. Invited commentary on Fourcade & Healy, <em>The Ordinal Society</em></p>
+<p class="pub-links"><a href="https://www.tandfonline.com/doi/full/10.1080/17530350.2025.2523771">Journal</a></p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Maps, Apps and Race: The Market as a Theoretical Machine</p>
+<p class="pub-venue"><em>Tijdschrift voor economische en sociale geografie</em>, 115(3), 346–352, 2024</p>
+<p class="pub-links"><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/tesg.12631">Journal</a></p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Apartheid by Algorithm</p>
+<p class="pub-venue"><em>Logic Magazine</em>, 2022</p>
+<p class="pub-links"><a href="https://logicmag.io/home/apartheid-by-algorithm/">Journal</a></p>
+</div>
+
+
+## Book
+
+
+<div class="pub">
+<p class="pub-title"><a href="https://jmigozzi.github.io/aof.html">Atlas of Finance</a></p>
+<p class="pub-venue">With Wójcik D., Iliopoulos P., Ioannou S., Keenan L., Monteath T., Pažitka V., Torrance M., Urban M., Cheshire J. & Uberti O. Yale University Press, 2024</p>
+<p class="pub-links"><a href="https://atlasoffinance.com/">Website of the book</a></p>
+<ul class="pub-awards">
+  <li>Best Book of the Year in Economics and Best Single Volume, Association of American Publishers, 2025</li>
+  <li>Gold Medal, Axiom Business Book Award, Category International Business and Globalization</li>
+  <li>Translated into 12 languages</li>
+</ul>
+</div>
+
+## Book chapters
+
+<div class="pub">
+<p class="pub-title">From Location to Attention: recoding housing markets for digital capitalism</p>
+<p class="pub-venue">In Hynes D., Kitchin R. & Mutter S. (eds.), <em>The Data Politics of Housing, Property and Planning</em>, Bristol University Press [forthcoming, 2026]</p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Placing race in planetary financialization</p>
+<p class="pub-venue">In Halbert L. et al. & Hoefsloot F. (eds.), <em>Financialization and Space</em>, Edward Elgar Publishing [forthcoming, 2026]</p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Follow the data: computing the algorithmic periphery with credit scores and property values</p>
+<p class="pub-venue">In Datta A. & Hoefsloot F. (eds.), <em>Informational Peripheries: Rethinking the urban in a digital age</em>, UCL Press, 2025</p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Le township · Le stade</p>
+<p class="pub-venue">In Bussi M., Drozdz M. & Argounès F. (eds.), <em>Nos Lieux communs</em>, Editions Fayard, 2024</p>
+</div>
+
+<div class="pub">
+<p class="pub-title">L'investissement immobilier à l'heure du numérique : création d'un marché locatif et renouvellement des inégalités urbaines au Cap</p>
+<p class="pub-venue">In Drozdz M. & Souami T. (eds.), <em>Financement de l'aménagement urbain</em>, Éditions du Moniteur, 2022</p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Urban national parks and housing markets in emerging cities: places of exclusiveness, places of opportunities</p>
+<p class="pub-venue">With Shaban A. & Soares Gonçalves R. In Landy F. (ed.), <em>Whose Naturbanity? Urban National Parks in emerging cities</em>, Springer, 2018</p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Le quartier Tuband</p>
+<p class="pub-venue">In Bonvallot J., Gay J.-C. & Habert E. (eds.), <em>Atlas de la Nouvelle-Calédonie</em>, IRD-Congrès de la Nouvelle-Calédonie, 2012</p>
+</div>
+
+
+## Dissertation
+
+<div class="pub">
+<p class="pub-title">A city to sell. Digitalization and financialization of the housing market in Cape Town: stratification and segregation in the emerging global city</p>
+<p class="pub-venue">PhD in Geography, <em>summa cum laude</em>, University Grenoble Alpes, 2020</p>
+<p class="pub-links"><a href="https://www.theses.fr/en/2020GRALH007">Full text</a></p>
+<ul class="pub-awards">
+  <li>National Doctoral Prize in Urban Studies, PUCA (2021)</li>
+  <li>National Prize for Best Dissertation in Geography, French National Committee of Geography (2021)</li>
+  <li>Special Mention of the Jury, PSL Humanities & Social Sciences Dissertation Prize (2021)</li>
+</ul>
+</div>
+
+## Early work
+
+
+<div class="pub">
+<p class="pub-title">L'école des Springboks : le rugby scolaire au Cap entre ségrégation et déségrégation</p>
+<p class="pub-venue"><em>M@ppemonde</em>, 2012</p>
+<p class="pub-links"><a href="#">Journal</a></p>
+</div>
+
+<div class="pub">
+<p class="pub-title">Le rugby en Afrique du Sud face au défi de transformation : jeu de pouvoir, outil de développement et force symbolique</p>
+<p class="pub-venue"><em>Les Cahiers d'Outre-Mer</em>, 250, 253–274, 2010</p>
+<p class="pub-links"><a href="#">Journal</a></p>
+</div>
+
+
+<div class="pub">
+<p class="pub-title">Spatial Justice in Postcolonial Noumea: The Tuband project</p>
+<p class="pub-venue">MA Thesis, École Normale Supérieure de Lyon, 2012</p>
+<p class="pub-links"><a href="https://drive.google.com/file/d/1LwY_xNEt5eXi0etEcvWDtzOrKxNVY9is/view?usp=sharing">PDF</a></p>
+</div>
+
+</div>

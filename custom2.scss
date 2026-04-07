@@ -1,203 +1,803 @@
 /*-- scss:defaults --*/
 
-$body-bg: #fdf6f0; // warm beige background
-$body-color: #2a2a2a;
-$link-color: #6b4e3d; 
+// ─── Colour tokens ───────────────────────────────────────────────
+$cream:        #faf7f4;
+$ink:          #1e1e1e;
+$ink-muted:    #6b6560;
+$ink-faint:    #a09890;
+$accent:       #3d3530;
+$link:         #5a4a42;
+$border:       #e8e2dc;
 
-$font-family-sans-serif: 'Baskervville', Baskerville, 'Times New Roman', serif;
-$font-family-base: $font-family-sans-serif;
-$font-family-monospace: 'Courier New', monospace;
-
-$navbar-bg: #fdf6f0;
-$navbar-fg: #333333;
-$navbar-hl: #1a0dab;
+// ─── Quarto bootstrap overrides ──────────────────────────────────
+$body-bg:                  $cream;
+$body-color:               $ink;
+$link-color:               $link;
+$font-family-sans-serif:   'DM Sans', system-ui, sans-serif;
+$font-family-base:         $font-family-sans-serif;
+$font-family-monospace:    'IBM Plex Mono', 'Courier New', monospace;
+$navbar-bg:                $cream;
+$navbar-fg:                $ink-muted;
+$navbar-hl:                $ink;
+$font-size-base:           1rem;
+$line-height-base:         1.8;
 
 /*-- scss:rules --*/
 
-@import url('https://fonts.googleapis.com/css2?family=Baskervville&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap');
+// ─── Google Fonts ────────────────────────────────────────────────
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=DM+Sans:wght@300;400;500&display=swap');
+
+// ─── Base ─────────────────────────────────────────────────────────
+*, *::before, *::after { box-sizing: border-box; }
 
 body {
   font-family: $font-family-base;
-  font-size: 1.1rem;
-  color: $body-color;
-  background-color: $body-bg;
-  line-height: 1.5;
-  margin: 0;
+  font-size: $font-size-base;
+  font-weight: 400;
+  color: $ink;
+  background-color: $cream;
+  line-height: $line-height-base;
+  -webkit-font-smoothing: antialiased;
+}
+
+// ─── Layout ───────────────────────────────────────────────────────
+main {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 3rem 0 5rem;
+}
+
+// Full layout pages (home, about, teaching, media, aof)
+#quarto-content.page-layout-full {
+  padding: 0 6rem;
+  max-width: 100%;
+  width: 100%;
+}
+
+#quarto-content.page-layout-full #quarto-document-content {
+  width: 100%;
+  max-width: 100%;
   padding: 0;
 }
 
-main {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 3rem 2rem;
-}
-
-a:hover {
-  color: darken($link-color, 15%); // automatically darkens the link on hover
-  text-decoration: underline;
-}
-
-/* Navbar */
-.navbar {
-  background-color: $navbar-bg;
-  border-bottom: 1px solid #e0e0e0;
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
+#quarto-content.page-layout-full .page-columns {
+  max-width: 100%;
   width: 100%;
-  padding: 1rem 2rem;
 }
 
-.navbar > .container,
-.navbar > .container-fluid {
+#quarto-content.page-layout-full .column-body {
+  max-width: 100%;
+  width: 100%;
+}
+
+// Article layout pages (publications)
+#quarto-content.page-layout-article {
+  display: grid !important;
+  grid-template-columns: 1fr 160px !important;
+  grid-template-rows: auto !important;
+  gap: 3rem !important;
+  padding: 2rem 6rem !important;
+  max-width: 1400px !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+  align-items: start !important;
+}
+
+#quarto-content.page-layout-article #quarto-sidebar {
+  display: none !important;
+}
+
+#quarto-content.page-layout-article #quarto-margin-sidebar {
+  grid-column: 2 !important;
+  grid-row: 1 !important;
+  width: 160px !important;
+  position: sticky !important;
+  top: 4rem !important;
+  display: block !important;
+}
+
+#quarto-content.page-layout-article main {
+  grid-column: 1 !important;
+  grid-row: 1 !important;
   max-width: 100% !important;
+  width: 100% !important;
+  min-width: 0 !important;
   padding: 0 !important;
-  margin: 0 !important;
 }
 
-.navbar-nav {
-  display: flex;
- # flex-direction: row;
-#  justify-content: flex-end;
-  gap: 1rem;
-#   width: 100%;
-}
+// ─── Navbar ───────────────────────────────────────────────────────
+.navbar {
+  background-color: $cream;
+  border-bottom: 1px solid $border;
+  padding: 1rem 2rem;
 
-.navbar-nav .nav-item {
-  display: inline-block;
-}
+  .navbar-brand-container {
+    margin-left: 0 !important;
+    margin-right: auto !important;
+  }
 
-.navbar-nav .nav-link {
-  font-family: $font-family-base;
-  font-size: 1rem;
-  font-weight: 400;
-  text-transform: none; 
-  color: $navbar-fg;
-  letter-spacing: normal;
-  text-decoration: none;
+  .navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: $ink !important;
+    letter-spacing: 0.01em;
+  }
 
-  &:hover {
-    color: $navbar-hl;
+  .nav-link {
+    font-family: $font-family-base;
+    font-size: 1.1rem;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: $ink-muted !important;
+    padding: 0.25rem 0.6rem;
+    transition: color 0.15s ease;
+
+    &:hover, &.active {
+      color: $ink !important;
+    }
   }
 }
 
-.navbar-nav .nav-link:first-child {
-  font-weight: 600;
-  font-size: 1.25rem;
-  color: $navbar-fg;
-}
-
-/* Headings */
-h1, h2, h4, h5, h6 {
-  font-family: 'Barlow', sans-serif;
-  font-weight: 700;
-  color: #111;
-  margin-top: 2rem;
+// ─── Typography ───────────────────────────────────────────────────
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  line-height: 1.2;
+  color: $ink;
+  margin-top: 2.5rem;
   margin-bottom: 1rem;
 }
 
-h2, h3, h4, h5, h6 {
-  font-family: 'Baskervville', sans-serif;
+h1 { font-size: 1.8rem; }
+
+h2 {
   font-size: 1.2rem;
-  font-weight: 600;
-  color: #111;
-  margin-top: 1.5rem;
+  border-bottom: 1px solid $border;
+  padding-bottom: 0.5rem;
+}
+
+h3 {
+  font-family: $font-family-base;
+  font-size: 1.2rem;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $ink-muted;
+  margin-top: 2.5rem;
   margin-bottom: 1rem;
 }
 
-h1.title {
-  font-family: 'Baskervville', sans-serif;
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #2a2a2a;
-  text-align: left;
+h4, h5, h6 {
+  font-family: $font-family-base;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: $ink-muted;
 }
 
-/* Footer */
+p {
+  font-family: 'DM Sans', system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.75;
+  color: $ink;
+  margin-bottom: 1.25rem;
+}
+
+li, td, th {
+  font-family: 'DM Sans', system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.75;
+  color: $ink;
+  margin-bottom: 0.4rem;
+}
+
+a {
+  color: $link;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: color 0.15s ease;
+
+  &:hover {
+    color: $accent;
+    text-decoration: underline;
+  }
+}
+
+blockquote {
+  border-left: 2px solid $border;
+  padding-left: 1.25rem;
+  color: $ink-muted;
+  font-style: italic;
+  margin: 2rem 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid $border;
+  margin: 2.5rem 0;
+}
+
+// ─── Navbar ───────────────────────────────────────────────────────
+#TOC {
+  font-size: 0.8rem;
+  padding-left: 1rem;
+
+  .nav-link {
+    font-family: $font-family-base;
+    font-size: 0.8rem;
+    color: $ink-muted;
+    text-transform: none;
+    letter-spacing: 0;
+    padding: 0.2rem 0.5rem;
+
+    &:hover, &.active { color: $ink; }
+  }
+}
+
+// ─── Footer ───────────────────────────────────────────────────────
 footer {
-  margin-top: 4rem;
-  padding-top: 2rem;
-  border-top: 1px solid #e0e0e0;
-  color: #888888;
-  font-size: 0.9rem;
+  margin-top: 5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid $border;
+  color: $ink-faint;
+  font-size: 0.8rem;
   text-align: center;
+
+  a {
+    color: $ink-faint;
+    text-decoration: none;
+    &:hover { color: $ink; }
+  }
 }
 
-/* Landing layout */
+// ─── Landing page ─────────────────────────────────────────────────
 .landing-container {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  justify-content: center;
-  gap: 3rem;
-  padding: 3rem 1rem;
+  gap: 4rem;
+  padding: 4rem 0 3rem;
   flex-wrap: wrap;
-  background-color: #fdf6f0;
+  width: 100%;
+  max-width: 100%;
 }
 
 .landing-left {
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 250px;
   flex-shrink: 0;
-}
+  width: 210px;
 
-.landing-left img {
-  width: 100%;
-  max-width: 220px;
-  height: auto;
-  border-radius: 6px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  img {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 2px;
+    filter: grayscale(15%);
+  }
 }
 
 .landing-socials {
-  margin-top: 1.5rem;
+  margin-top: 1.25rem;
   display: flex;
-  gap: 1.2rem;
+  gap: 1rem;
   justify-content: center;
-  flex-wrap: wrap;
-  font-size: 1.2rem;
+  font-size: 1rem;
+
+  a {
+    color: $ink-muted;
+    text-decoration: none;
+    transition: color 0.15s ease;
+    &:hover { color: $ink; }
+  }
 }
 
-.landing-socials a {
-  color: #6b4e3d;
+.landing-text { flex: 1; min-width: 280px; }
+
+.landing-tag {
+  font-size: 0.7rem;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: $ink-faint;
+  margin-bottom: 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  &::before {
+    content: '';
+    display: inline-block;
+    width: 22px;
+    height: 1px;
+    background: $ink-faint;
+  }
+}
+
+.landing-headline {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.12;
+  letter-spacing: -0.01em;
+  margin: 0 0 1.5rem;
+  color: $ink;
+
+  em {
+    font-style: italic;
+    color: $ink-muted;
+  }
+}
+
+.landing-bio {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: $ink-muted;
+  margin-bottom: 2rem;
+
+  a {
+    color: $ink;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+  }
+}
+
+.landing-buttons {
+  display: flex;
+  gap: 0.875rem;
+  flex-wrap: wrap;
+}
+
+.btn-main {
+  display: inline-block;
+  font-family: $font-family-base;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 10px 22px;
+  background-color: $ink;
+  color: $cream;
   text-decoration: none;
+  border-radius: 2px;
+  transition: background-color 0.15s ease;
 
   &:hover {
-    color: #555;
-  }
-
-  i {
-    display: inline-block;
-    font-style: normal;
+    background-color: $accent;
+    color: $cream;
+    text-decoration: none;
   }
 }
 
-.landing-text {
-  flex: 1;
-  max-width: 700px;
-  align-self: flex-start;
+.btn-outline {
+  display: inline-block;
+  font-family: $font-family-base;
+  font-size: 0.75rem;
+  font-weight: 400;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 10px 22px;
+  border: 1px solid $border;
+  color: $ink-muted;
+  text-decoration: none;
+  border-radius: 2px;
+  transition: all 0.15s ease;
+
+  &:hover {
+    border-color: $ink-muted;
+    color: $ink;
+    text-decoration: none;
+  }
 }
 
-.landing-text p {
-  font-size: 1.3rem;
-  line-height: 1.6;
+// ─── Language toggle (about page) ─────────────────────────────────
+.lang-toggle {
+  display: flex;
+  gap: 0.75rem;
   margin-bottom: 2rem;
-  color: #2a2a2a;
+
+  a {
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: $ink-muted;
+    text-decoration: none;
+    padding: 4px 12px;
+    border: 1px solid $border;
+    border-radius: 2px;
+    transition: all 0.15s ease;
+
+    &:hover, &.active {
+      color: $ink;
+      border-color: $ink-muted;
+      text-decoration: none;
+    }
+  }
 }
 
-/* Responsive stack */
+// ─── Publications page ────────────────────────────────────────────
+.pub {
+  margin-bottom: 0.1rem;
+  padding-bottom: 0.1rem;
+  border-bottom: none;
+
+  &:last-child { border-bottom: none; }
+}
+
+.pub-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: $ink;
+  margin-bottom: 0.2rem;
+  hyphens: none;
+}
+
+.pub-venue {
+  font-family: $font-family-base;
+  font-size: 0.9rem;
+  color: $ink-muted;
+  margin-bottom: 0.3rem;
+}
+
+.pub-links a {
+  font-family: $font-family-base;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: $ink-muted;
+  text-decoration: none;
+  margin-right: 1rem;
+  border-bottom: 1px solid $border;
+  padding-bottom: 1px;
+
+  &:hover { color: $ink; border-color: $ink; }
+}
+
+.pub-awards {
+  list-style: none;
+  padding: 0;
+  margin: 0.4rem 0 0;
+
+  li {
+    font-family: $font-family-base;
+    font-size: 0.85rem;
+    color: $ink-muted;
+    padding-left: 1rem;
+    position: relative;
+    margin-bottom: 0.15rem;
+
+    &::before {
+      content: '·';
+      position: absolute;
+      left: 0;
+      color: $ink-faint;
+    }
+  }
+}
+
+// Section headings on publications page
+#quarto-document-content h2 {
+  font-family: $font-family-base;
+  font-size: 1.2rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $ink-faint;
+  border-bottom: 1px solid $border;
+  padding-bottom: 0.4rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+// ─── Teaching page ────────────────────────────────────────────────
+.teaching-list {
+  width: 100%;
+  max-width: 100%;
+}
+
+.teaching-list h3 {
+  font-family: $font-family-base;
+  font-size: 1rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $ink-muted;
+  border-bottom: 1px solid $border;
+  padding-bottom: 0.4rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.teaching-list p {
+  font-size: 1rem;
+  color: $ink;
+  line-height: 1.75;
+}
+
+.teaching-list ul {
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.teaching-list li {
+  font-size: 1rem;
+  color: $ink;
+  line-height: 1.75;
+  margin-bottom: 0.25rem;
+}
+
+.teaching-list li em {
+  display: block;
+  font-size: 0.9rem;
+  color: $ink-muted;
+  margin-top: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+
+// ─── Media page ───────────────────────────────────────────────────
+.media-entry {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid $border;
+
+  &:last-child { border-bottom: none; }
+}
+
+.media-type {
+  font-family: $font-family-base;
+  font-size: 0.65rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $ink-faint;
+  margin-bottom: 0.4rem;
+}
+
+.media-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: $ink;
+  margin-bottom: 0.25rem;
+}
+
+.media-meta {
+  font-size: 0.85rem;
+  color: $ink-muted;
+  margin-bottom: 0.75rem;
+}
+
+.media-embed {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin-top: 0.75rem;
+
+  iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 2px;
+  }
+}
+
+.media-audio {
+  margin-top: 0.75rem;
+
+  audio {
+    width: 100%;
+    height: 36px;
+  }
+}
+
+// ─── Atlas of Finance page ────────────────────────────────────────
+.aof-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 4rem;
+  width: 100%;
+  max-width: 100%;
+  padding-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.aof-images {
+  flex-shrink: 0 !important;
+  width: 260px !important;
+  max-width: 260px !important;
+
+  img {
+    display: block;
+    width: 260px !important;
+    max-width: 260px !important;
+    height: auto !important;
+    border-radius: 2px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+    margin-bottom: 1.5rem;
+
+    &:last-child { margin-bottom: 0; }
+  }
+}
+
+.aof-text {
+  flex: 1;
+  min-width: 280px;
+
+  blockquote {
+    border-left: 2px solid $border;
+    padding-left: 1.25rem;
+    color: $ink-muted;
+    font-style: italic;
+    margin: 1.25rem 0;
+    font-size: 0.95rem;
+    line-height: 1.7;
+
+    p { margin-bottom: 0.25rem; }
+  }
+}
+
+// ─── Responsive ───────────────────────────────────────────────────
+@media screen and (max-width: 900px) {
+  #quarto-content.page-layout-full {
+    padding: 0 2rem;
+  }
+
+  #quarto-content.page-layout-article {
+    padding: 2rem 2rem !important;
+  }
+}
+
 @media screen and (max-width: 768px) {
+  #quarto-content.page-layout-full {
+    padding: 0 1.5rem;
+  }
+
+  #quarto-content.page-layout-article {
+    grid-template-columns: 1fr !important;
+    padding: 2rem 1.5rem !important;
+  }
+
+  #quarto-content.page-layout-article #quarto-margin-sidebar {
+    display: none !important;
+  }
+
+  main {
+    padding: 2rem 0 4rem;
+    font-size: 1rem;
+  }
+
   .landing-container {
     flex-direction: column;
     align-items: center;
-    text-align: center;
-    padding: 2rem 1rem;
+    padding: 2.5rem 0;
+    gap: 2rem;
   }
 
-  .landing-text {
-    max-width: 100%;
+  .landing-left {
+    width: 150px;
+    img { height: 185px; }
+  }
+
+  .landing-text { min-width: unset; }
+
+  .landing-headline { font-size: 2rem; }
+
+  .navbar .nav-link {
+    font-size: 0.85rem;
+    padding: 0.2rem 0.4rem;
+  }
+
+  .aof-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .aof-images {
+    width: 200px !important;
+    max-width: 200px !important;
+
+    img {
+      width: 200px !important;
+      max-width: 200px !important;
+    }
+  }
+}
+
+// ─── Landing page sections (positions + publications) ─────────────
+.landing-sections {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  padding: 3rem 0 2rem;
+  border-top: 1px solid $border;
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.landing-section-label {
+  font-family: $font-family-base;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: $ink-faint;
+  margin-bottom: 1.25rem;
+}
+
+.landing-position {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 1rem;
+  margin-bottom: 0.6rem;
+  align-items: baseline;
+}
+
+.landing-position-year {
+  font-family: $font-family-base;
+  font-size: 0.8rem;
+  color: $ink-faint;
+  white-space: nowrap;
+}
+
+.landing-position-title {
+  font-family: $font-family-base;
+  font-size: 0.9rem;
+  color: $ink-muted;
+  line-height: 1.5;
+}
+
+.landing-pub {
+  margin-bottom: 1.25rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid $border;
+
+  &:last-child { border-bottom: none; }
+}
+
+.landing-pub-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 0.95rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: $ink;
+  margin-bottom: 0.2rem;
+}
+
+.landing-pub-venue {
+  font-family: $font-family-base;
+  font-size: 0.85rem;
+  color: $ink-muted;
+  margin-bottom: 0.2rem;
+}
+
+.landing-pub-links a {
+  font-family: $font-family-base;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: $ink-muted;
+  text-decoration: none;
+  border-bottom: 1px solid $border;
+  padding-bottom: 1px;
+
+  &:hover { color: $ink; border-color: $ink; }
+}
+
+// Responsive
+@media screen and (max-width: 768px) {
+  .landing-sections {
+    grid-template-columns: 1fr;
+    gap: 2rem;
   }
 }

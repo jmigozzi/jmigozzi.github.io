@@ -1,6 +1,7 @@
 ---
 title: ""
-page-layout: article
+page-layout: full
+toc: false
 format:
   html:
     css: language-toggle.css
@@ -21,8 +22,6 @@ My work primarily examines how digital technologies transform housing markets, a
 The geography of finance is my second line of research. I explore how digitization is transforming financial markets, services, and centres, with an emphasis on FinTech. I am a co-author of the [*Atlas of Finance*](https://jmigozzi.github.io/aof.html), published at Yale University Press in 2024.
 
 My work positions South Africa, where I have conducted in-depth fieldwork over the past 10 years, as a key site for understanding how 21st-century markets characterized by rapid technological change intersect with enduring, racialized patterns of social stratification and urban segregation. 
-
-You can find all my publications on [this page](https://jmigozzi.github.io/publications/).
 
 
 ### Background
