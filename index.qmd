@@ -6,10 +6,10 @@ toc: false
 css: custom2.scss
 ---
 ```{=html}
-<div class="landing-container">
+<div class="landing-container" style="gap: 6rem;">
 
-  <div class="landing-left">
-    <img src="static/img/pic2.jpeg" alt="Julien Migozzi" />
+<div class="landing-left">
+  <img src="static/img/pic2.jpeg" alt="Julien Migozzi" style="width: 300px; height: 400px; object-fit: cover; object-position: center top; border-radius: 2px; filter: grayscale(15%);" />
     <div class="landing-socials">
       <a href="https://bsky.app/profile/jmigozzi.bsky.social" aria-label="Bluesky">
         <i class="fa-solid fa-cloud"></i>
@@ -31,11 +31,11 @@ css: custom2.scss
     <h1 class="landing-headline">Digital capitalism,<br><em>cities &amp; inequality</em></h1>
     <p class="landing-bio">
       I am an <a href="https://www.devstudies.cam.ac.uk/staff/dr-julien-migozzi">Assistant Professor</a> in Development Studies in the <a href="https://www.polis.cam.ac.uk/">Department of Politics and International Studies</a>
-      at the University of Cambridge. My research explores how digital platforms and financial capital reshape  markets, property, and inequalities — with a focus on South Africa.
+      at the University of Cambridge.<br>My research explores how digital capitalism reshapes property, finance, and inequalities — with a focus on South Africa.
     </p>
     <div class="landing-buttons">
       <a href="publications.html" class="btn-main">Publications</a>
-      <a href="about.html" class="btn-outline">About me</a>
+      <a href="about.html" class="btn-outline">About</a>
     </div>
   </div>
 

@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "xvdefrance/index.qmd"
+    - "rwcsquads2023/index.qmd"
 
 description-meta: "Julien Migozzi's personal website."
 
@@ -16,7 +20,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About me
+        text: About
       - href: publications.qmd
         text: Publications
       - href: teaching.qmd
@@ -25,8 +29,6 @@ website:
         text: Atlas of Finance
       - href: media.qmd
         text: Media
-      - href: posts.qmd
-        text: Notes
       - href: cv/index.qmd
         text: CV
     title: false

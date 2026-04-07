@@ -546,10 +546,20 @@ footer {
 
 // ─── Media page ───────────────────────────────────────────────────
 .media-entry {
-  padding: 1.5rem 0;
+  padding: 0.5rem 0;
   border-bottom: 1px solid $border;
 
   &:last-child { border-bottom: none; }
+}
+
+.media-list h3 {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.media-list h2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .media-type {
@@ -676,17 +686,33 @@ footer {
     font-size: 1rem;
   }
 
-  .landing-container {
-    flex-direction: column;
-    align-items: center;
-    padding: 2.5rem 0;
-    gap: 2rem;
-  }
+.landing-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10rem;
+  padding: 4rem 0 3rem;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 100%;
+}
 
-  .landing-left {
-    width: 150px;
-    img { height: 185px; }
+.landing-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+  width: 240px;
+
+  img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 2px;
+    filter: grayscale(15%);
   }
+}
 
   .landing-text { min-width: unset; }
 
