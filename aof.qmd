@@ -13,15 +13,25 @@ toc: false
 
 <div class="aof-text">
 
-I am a coauthor of the *[Atlas of Finance](https://yalebooks.yale.edu/book/9780300253054/atlas-of-finance/)*. Our team was led by Professor [Dariusz Wójcik](https://fass.nus.edu.sg/geog/people/dariusz-wojcik/) (NUS), and included Takis Iliopoulos, Stefanos Ioannou, Liam Keenan, Timothy Monteath, Vladimir Pažitka, Morag Torrance and Michael Urban, in collaboration with [Oliver Uberti](https://www.oliveruberti.com/) and Professor [James Cheshire](https://jcheshire.com/) (UCL).
+I am a coauthor of the *[Atlas of Finance](https://yalebooks.yale.edu/book/9780300253054/atlas-of-finance/)*. 
 
-The Atlas was published at Yale University Press in 2024, and translated into 22 languages so far (Dutch, French, German, Greek, Polish, Slovak, Japanese, Korean, Mandarin, Taipei, Thai, Vietnamese, etc.)
+The Atlas was published at Yale University Press in 2024 and translated into 22 languages.
+
+Our team was led by Professor Dariusz Wójcik (NUS), and included Takis Iliopoulos, Stefanos Ioannou, Liam Keenan, Timothy Monteath, Vladimir Pažitka, Morag Torrance and Michael Urban, in collaboration with [Oliver Uberti](https://www.oliveruberti.com/) and Professor [James Cheshire](https://jcheshire.com/) (UCL).
+
 
 ### Awards
 
-- Best Book of the Year in Economics & Best Single Volume, Professional and Scholarly Excellence (PROSE) Awards, Association of American Publishers, 2025
+- Best Book of the Year in Economics, Professional and Scholarly Excellence (PROSE) Awards, Association of American Publishers, 2025
+- Best Single Volume, Professional and Scholarly Excellence (PROSE) Awards, Association of American Publishers, 2025
 - Gold Prize, Axiom Business Book Award, 2025
 - Best Design, Association of University Presses Design, 2025
+- British Cartographic Society Award, 2025
+- The Collins Bartholomew Award for thematic mapping & infographics, 2025
+- Stanfords Award for printed mapping
+- Winner of the popular vote in the atlas category at the International Cartographic Exhibition, Vancouver 2025.
+- Notable Contribution Award by the Geographical Association
+
 
 ### Reviews
 
@@ -36,6 +46,7 @@ The Atlas was published at Yale University Press in 2024, and translated into 22
 > *The book is a lot of fun. Data-fixated readers will enjoy unpicking its main content: a series of elegantly produced maps, graphs and other visualisations. These are eclectic in scope and ambitious in intent.*
 >
 > — [*Financial Times*](https://www.ft.com/content/7895de9b-20dc-43c5-b20d-1f105bb42d55)
+
 
 The Atlas was reviewed in the *Financial Times*, *Nature*, the *Irish Times*, and the *Wall Street Journal*.
 
