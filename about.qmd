@@ -15,24 +15,23 @@ format:
 
 ### Research
 
-At the intersection of econonomic geograhy, urban studies, and economic sociology, my research investigates how digital capitalism reshapes markets, cities, and inequalities. I combine ethnographic fieldwork with spatial analysis and computational social science.
+At the intersection of economic geography, urban studies, and economic sociology, my research investigates how digital capitalism reshapes markets, cities, and inequalities, combining ethnographic fieldwork with spatial analysis and computational social science.
 
-My primary focus examines how digital platforms and financial capital transform property markets, renewing inequalities of class, race, and wealth. South Africa is the central site of this work where I analyse how technology-driven markets intersect with and affect long-standing patterns of social stratification and urban segregation.
+My primary focus examines how digital platforms and financial capital transform property markets, renewing inequalities of class, race, and wealth. South Africa is the central site of this work to analyse how tech-driven markets intersect with and affect long-standing patterns of social stratification and urban segregation.
 
-
-The geography of finance is my second line of research. I explore how digitization reshapes financial markets, centres, and practices, with an emphasis on FinTech, venture capital, and retail investors. I am a co-author of the [*Atlas of Finance*](https://jmigozzi.github.io/aof.html), published at Yale University Press in 2024.
+The geography of finance is my second line of research, exploring how digitization reshapes financial markets, centres, and practices, with an emphasis on FinTech, venture capital, and retail investors. I am a co-author of the [*Atlas of Finance*](https://jmigozzi.github.io/aof.html), published at Yale University Press in 2024.
 
 
 
 ### Background
 
-Before joining Cambridge, I was an [Urban Studies Foundation Postdoctoral Research Fellowship](https://www.urbanstudiesfoundation.org/) at the University of Oxford, where I previously worked as a Research Associate in Finance and Geography on the ERC project [Cities in Global Financial Networks](https://cordis.europa.eu/project/id/681337) (2021-2022). I served as a Lecturer in the Department of Geography at the École Normale Supérieure in Paris (2017-2021).
+Before joining Cambridge, I was an [Urban Studies Foundation Postdoctoral Research Fellowship](https://www.urbanstudiesfoundation.org/) and a Research Associate in Finance and Geography at the University of Oxford. Previously, I served as a Lecturer in the Department of Geography at the École Normale Supérieure (2017-2021).
 
 I held visiting positions at the African Centre for Cities at the University of Cape Town (2016, 2023) and at the Department of Sociology at UC Berkeley (2024-2025). 
 
 I am an early-career representative at the [Global Network on Financial Geography](https://www.fingeo.net/).
 
-I completed most of my education in France, graduating from the École Normale Supérieure de Lyon as an *élève normalien* (student fellow). I earned a Master’s degree in Geography and Social Sciences and passed the [agrégation](https://en.wikipedia.org/wiki/Agr%C3%A9gation). During my studies, I spent time abroad as a visiting student at Victoria University of Wellington.
+Most of my education took place in France, graduating from the École Normale Supérieure de Lyon as an *élève normalien* (student fellow). I earned a Master’s degree in Geography and Social Sciences and passed the [agrégation](https://en.wikipedia.org/wiki/Agr%C3%A9gation). During my studies, I spent time abroad as a visiting student at Victoria University of Wellington.
 
 I completed my PhD at the University of Grenoble Alpes and at the research centre [Géographie-cités](https://geographie-cites.cnrs.fr/en/geographie-cites/) in Paris, where I remain a Research Associate. My PhD dissertation received two national awards: the [Doctoral Prize in Urban Studies](https://www.urbanisme-puca.gouv.fr/prix-de-these-sur-la-ville-2021-a2141.html?lang=en) and the [Best Dissertation Award in Geography](https://www.cnfg.fr/vie-du-comite/prix-de-these-du-cnfg/).
 

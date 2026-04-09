@@ -10,9 +10,11 @@ toc: false
 
 At Cambridge, I teach a class on "Digital capitalism" for the [MPhil in Development Studies](https://www.postgraduate.study.cam.ac.uk/courses/directory/podvmpmdv).
 
-### Other interventions
 
-I regularly teach in the [MSc in Sustainable Urban Development](https://www.ox.ac.uk/admissions/graduate/courses/msc-sustainable-urban-development) at the University of Oxford.
+### University of Oxford (2021 - 2025)
+
+I have taught in the [MSc in Sustainable Urban Development](https://www.ox.ac.uk/admissions/graduate/courses/msc-sustainable-urban-development).
+
 
 ### Ecole Normale Supérieure, Paris (2017–2021)
 
@@ -33,5 +35,6 @@ I regularly teach in the [MSc in Sustainable Urban Development](https://www.ox.a
 - Urban geographies of globalisation — undergraduate level
 - Mainstream policies and grassroot initiatives for local development — graduate level
 - Geographic Information Systems — undergraduate level
+
 
 </div>
