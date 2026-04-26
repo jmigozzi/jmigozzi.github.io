@@ -11,7 +11,7 @@ toc-depth: 2
 <div class="pub">
 <p class="pub-title">Platform freedom: Financial subjectivity at the nexus of investment and social media</p>
 <p class="pub-venue">With Desiree Fields.<br><em>Environment and Planning A: Economy and Space</em>, 2026</p>
-<p class="pub-links"><a href="https://doi.org/10.1177/0308518X26142986">Journal</a></p>
+<p class="pub-links"><a href="https://doi.org/10.1177/0308518X261429864">Journal</a></p>
 </div>
 
 <div class="pub">
