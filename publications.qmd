@@ -8,7 +8,17 @@ toc-depth: 2
 
 ## Peer-reviewed articles
 
+<div class="pub">
+<p class="pub-title">Platform freedom: Financial subjectivity at the nexus of investment and social media</p>
+<p class="pub-venue">With Desiree Fields.<br><em>Environment and Planning A: Economy and Space</em>, 2026</p>
+<p class="pub-links"><a href="https://doi.org/10.1177/0308518X26142986">Journal</a></p>
+</div>
 
+<div class="pub">
+<p class="pub-title">Situating African FinTech in Global Financial Networks</p>
+<p class="pub-venue">With Dariusz Wójcik.<br> <em>Transactions of the Institute of British Geographers</em>, 51(2), 2026</p>
+<p class="pub-links"><a href="https://doi.org/10.1111/tran.70068">Journal</a></p>
+</div>
 
 <div class="pub">
 <p class="pub-title">Scoring high, paying up, gating in: middle-class formation and asset inequalities under digital capitalism in South Africa</p>
@@ -18,7 +28,7 @@ toc-depth: 2
 
 <div class="pub">
 <p class="pub-title">Exploring the spatial segmentation of housing markets from online listings</p>
-<p class="pub-venue">With Abella D., Martínez JH., Mazzoli M., Le Corre T., Alonso-Paulí E., Crespí-Cladera R., Louail T. & Ramasco J. <em>EPJ Data Science</em>, 14(34), 2025</p>
+<p class="pub-venue">With Abella D., Martínez JH., Mazzoli M., Le Corre T., Alonso-Paulí E., Crespí-Cladera R., Louail T. & Ramasco J.<br> <em>EPJ Data Science</em>, 14(34), 2025</p>
 <p class="pub-links"><a href="https://doi.org/10.1140/epjds/s13688-025-00551-z">Journal</a></p>
 </div>
 
@@ -32,7 +42,7 @@ toc-depth: 2
 
 <div class="pub">
 <p class="pub-title">'You should do what India does': FinTech ecosystems in India reshaping the geography of finance</p>
-<p class="pub-venue">With Urban M. & Wójcik D. <em>Geoforum</em>, vol. 151, 2024</p>
+<p class="pub-venue">With Dariusz Wójcik & Michael Urban.<br> <em>Geoforum</em>, vol. 151, 2024</p>
 <p class="pub-links"><a href="https://www.sciencedirect.com/science/article/pii/S0016718523000465">Journal</a></p>
 </div>
 
@@ -50,7 +60,7 @@ toc-depth: 2
 
 <div class="pub">
 <p class="pub-title">Urban geographies of financial convergence: situating Indian financial centres across global production and financial networks</p>
-<p class="pub-venue">With Urban M. & Wójcik D. <em>Economic Geography</em>, 99(5), 499–525, 2023</p>
+<p class="pub-venue">With Dariusz Wójcik & Michael Urban.<br> <em>Economic Geography</em>, 99(5), 499–525, 2023</p>
 <p class="pub-links"><a href="https://www.tandfonline.com/doi/full/10.1080/00130095.2023.2205584">Journal</a></p>
 </div>
 
@@ -68,19 +78,19 @@ toc-depth: 2
 
 <div class="pub">
 <p class="pub-title">Housing (In)Equity and the Spatial Dynamics of Homeownership in France: A Research Agenda</p>
-<p class="pub-venue">With Le Goix R., Casanova Enault L., Bonneval L., Le Corre T., Benites-Gambirazio E., Boulay G., Kutz W., Aveline-Dubach N. & Ysebaert R. <em>Tijdschrift voor economische en sociale geografie</em>, 112(1), 62–80, 2020</p>
+<p class="pub-venue">With Le Goix R., Casanova Enault L., Bonneval L., Le Corre T., Benites-Gambirazio E., Boulay G., Kutz W., Aveline-Dubach N. & Ysebaert R.<br> <em>Tijdschrift voor economische en sociale geografie</em>, 112(1), 62–80, 2020</p>
 <p class="pub-links"><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/tesg.12460">Journal</a></p>
 </div>
 
 <div class="pub">
 <p class="pub-title">Who sells to whom in the suburbs? Home price inflation and the dynamics of sellers and buyers in the metropolitan region of Paris, 1996–2012</p>
-<p class="pub-venue">With Le Goix R., Giraud T., Cura R. & Le Corre T. <em>PLoS ONE</em>, 14(3), 2019</p>
+<p class="pub-venue">With Le Goix R., Giraud T., Cura R. & Le Corre T.<br> <em>PLoS ONE</em>, 14(3), 2019</p>
 <p class="pub-links"><a href="https://doi.org/10.1371/journal.pone.0213169">Journal</a></p>
 </div>
 
 <div class="pub">
 <p class="pub-title">Showcasing the sovereignty of non-self-governing islands: New Caledonia</p>
-<p class="pub-venue">With Prinsen G. & Lafoy Y. <em>Asia Pacific Viewpoint</em>, 58, 331–346, 2017</p>
+<p class="pub-venue">With Prinsen G. & Lafoy Y.<br> <em>Asia Pacific Viewpoint</em>, 58, 331–346, 2017</p>
 <p class="pub-links"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/apv.12151">Journal</a></p>
 </div>
 
@@ -88,11 +98,15 @@ toc-depth: 2
 
 ## Forum & commentary
 
-
+<div class="pub">
+<p class="pub-title">Atlas of Finance: Mapping the Global Story of Money</p>
+<p class="pub-venue"> With Shaina Potts, Rachel Franklin, Jamie Peck, Anthony Robinson, Matthew W Wilson, Matthew Zook, Dariusz Wójcik & James Cheshire. <br><em>The AAG Review of Books</em>, 2026.</p>
+<p class="pub-links"><a href="https://doi.org/10.1080/2325548X.2025.2539496">Journal</a></p>
+</div>
 
 <div class="pub">
 <p class="pub-title">From the subprime to the premium, from California to fascism?</p>
-<p class="pub-venue"><em>Journal of Cultural Economy</em>, 2026. Invited commentary on Fourcade & Healy, <em>The Ordinal Society</em></p>
+<p class="pub-venue">Invited commentary on Fourcade & Healy, <em>The Ordinal Society</em>. ,br><em>Journal of Cultural Economy</em>, 2026.</p>
 <p class="pub-links"><a href="https://www.tandfonline.com/doi/full/10.1080/17530350.2025.2523771">Journal</a></p>
 </div>
 
@@ -114,12 +128,12 @@ toc-depth: 2
 
 <div class="pub">
 <p class="pub-title"><a href="https://jmigozzi.github.io/aof.html">Atlas of Finance</a></p>
-<p class="pub-venue">With Wójcik D., Iliopoulos P., Ioannou S., Keenan L., Monteath T., Pažitka V., Torrance M., Urban M., Cheshire J. & Uberti O. Yale University Press, 2024</p>
+<p class="pub-venue">With Wójcik D., Iliopoulos P., Ioannou S., Keenan L., Monteath T., Pažitka V., Torrance M., Urban M., Cheshire J. & Uberti O.<br> Yale University Press, 2024</p>
 <p class="pub-links"><a href="https://atlasoffinance.com/">Website of the book</a></p>
 <ul class="pub-awards">
   <li>Best Book of the Year in Economics and Best Single Volume, Association of American Publishers, 2025</li>
   <li>Gold Medal, Axiom Business Book Award, Category International Business and Globalization</li>
-  <li>Translated into 12 languages</li>
+  <li>Translated into 22 languages</li>
 </ul>
 </div>
 
@@ -155,7 +169,7 @@ toc-depth: 2
 
 <div class="pub">
 <p class="pub-title">Urban national parks and housing markets in emerging cities: places of exclusiveness, places of opportunities</p>
-<p class="pub-venue">With Shaban A. & Soares Gonçalves R. In Landy F. (ed.), <em>Whose Naturbanity? Urban National Parks in emerging cities</em>, Springer, 2018</p>
+<p class="pub-venue">With Shaban A. & Soares Gonçalves R.<br> In Landy F. (ed.), <em>Whose Naturbanity? Urban National Parks in emerging cities</em>, Springer, 2018</p>
 <p class="pub-links"><a href="https://link.springer.com/chapter/10.1007/978-981-10-8462-1_6">Chapter</a></p>
 </div>
 
@@ -173,13 +187,14 @@ toc-depth: 2
 <p class="pub-links"><a href="https://www.theses.fr/en/2020GRALH007">Full text</a></p>
 <ul class="pub-awards">
   <li>National Doctoral Prize in Urban Studies, PUCA (2021)</li>
-  <li>National Prize for Best Dissertation in Geography, French National Committee of Geography (2021)</li>
+  <li>Best Dissertation in Geography, French National Committee of Geography (2021)</li>
   <li>Special Mention of the Jury, PSL Humanities & Social Sciences Dissertation Prize (2021)</li>
 </ul>
 </div>
 
 ## Early work
 
+Two peer-reviewed papers from my MA thesis.
 
 <div class="pub">
 <p class="pub-title">L'école des Springboks : le rugby scolaire au Cap entre ségrégation et déségrégation</p>
