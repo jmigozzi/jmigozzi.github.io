@@ -14,15 +14,11 @@ format:
 
 ### Recherche
 
-A la croisée de la géographie, des études urbaines et de la sociologie économique, mes recherches portent sur les technologies numériques, la finance, et les villes, afin de comprendre comment le capitalisme numérique affecte le fonctionnement des marchés et l'évolution des inégalités socio-spatiales. Je mobilise des méthodes mixtes, associant l'enquête ethnographique à l'analyse spatiale et aux sciences sociales computationnelles.
+A la croisée de la géographie économique et des études urbaines, mes recherches portent sur le capitalisme numérique, la finance, et les villes. Je mobilise des méthodes mixtes, associant l'enquête ethnographique à l'analyse spatiale et aux sciences sociales computationnelles.
 
-Mon premier axe de recherche analyse comment le capitalisme numérique transforme les marchés immobiliers et influence les processus de stratification sociale et de ségrégation urbaine. J'étudie notamment l'industrie de la PropTech (PropertyTechnology), soit l'ensemble des technologiques numériques appliqué au secteur de l'immobilier.
+Mon premier axe de recherche porte sur la transformation technologique et la financiarisation des marchés immobiliers. Je m'intéresse en particulier à la façon dont les technologies de plateformes reconfigurent la stratification sociale et la ségrégation urbaine. L’Afrique du Sud et la ville du Cap, où je mène des recherches approfondies depuis 2015, constituent mon principal terrain d'enquête, avec l'industrie mondiale de la PropTech comme cadre comparatif plus large.
 
-La géographie de la finance constitue mon deuxième champ de recherche. J'étudie nnotamment rôle du numérique (FinTech) et du capital-risque (*private equity*) dans la formation des écosystemes et marchés financiers aux échelles internationales, régionales et urbaines.
-
-L’Afrique du Sud et la ville du Cap, où je mène des recherches approfondies depuis 2015, constituent mon principal cas d'étude et terrain d'enquête.
-
-Je suis co-auteur de l'[Atlas de la Finance](https://atlasoffinance.com/), publié aux Presses Universitaires de Yale et traduit en français aux [Éditions du Seuil](https://www.seuil.com/ouvrage/atlas-de-la-finance-paul-lepic/9782021598308). 
+Mon second axe de recherche porte sur la géographie de la finance, et plus précisément sur la façon dont la numérisation transforme les structures institutionnelles et spatiales des marchés financiers. Ces travaux couvrent la FinTech, les centres financiers, le capital-risque et les investisseurs particuliers. Je suis co-auteur de l'[Atlas de la Finance](https://atlasoffinance.com/), publié aux Presses Universitaires de Yale et traduit en français aux [Éditions du Seuil](https://www.seuil.com/ouvrage/atlas-de-la-finance-paul-lepic/9782021598308). 
 
  
 ### Parcours

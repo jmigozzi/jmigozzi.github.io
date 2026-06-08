@@ -15,13 +15,12 @@ format:
 
 ### Research
 
-At the intersection of geography, urban studies, and economic sociology, my research explores how digital capitalism reshapes markets, cities, and inequalities. 
+I am an economic geographer. My research explores how digital capitalism reshapes markets, cities, and inequalities.
 
-My primary focus examines how digital platforms and financial capital transform property markets, renewing inequalities of class, race, and wealth. South Africa is the central site of this work to analyse how 21st century-markets intersect with and affect long-standing patterns of social stratification and urban segregation.
+My research examines the political economy of housing markets at the intersection of technological change and financialization. I focus in particular on how the platformization of real estate reconfigures social stratification and urban segregation. Drawing on in-depth fieldwork, computational social science, and spatial analysis, I study how 21st-century markets operate and reproduce inequality, with South Africa as the core fieldwork site and the global PropTech industry as a broader comparative lens.
 
-The geography of finance is my second line of research, exploring how digitization reshapes the political economy and spatial structures of financial markets, with an emphasis on FinTech, venture capital, and retail investors. I am a co-author of the [*Atlas of Finance*](https://jmigozzi.github.io/aof.html), published at Yale University Press in 2024.
+My second research strand explores the geography of finance - specifically how digitisation reshapes the institutional and spatial structures of financial markets. This work spans FinTech, financial centres, venture capital, and retail investors. I am a co-author of the [*Atlas of Finance*](https://jmigozzi.github.io/aof.html), published at Yale University Press in 2024, and an early-career representative at the [Global Network on Financial Geography](https://www.fingeo.net/).
 
-My work combines ethnographic fieldwork with spatial analysis and computational social science.
 
 ### Background
 
@@ -29,10 +28,8 @@ Before joining Cambridge, I was an [Urban Studies Foundation Postdoctoral Resear
 
 I held visiting positions at the African Centre for Cities at the University of Cape Town (2016, 2023) and at the Department of Sociology at UC Berkeley (2024-2025). 
 
-I am an early-career representative at the [Global Network on Financial Geography](https://www.fingeo.net/).
+Most of my education took place in France. I graduated from the École Normale Supérieure de Lyon as an *élève normalien* (student fellow), earning a Master’s degree in Social Sciences and Geography and passing the [agrégation](https://en.wikipedia.org/wiki/Agr%C3%A9gation). During my studies, I spent time abroad as a visiting student at Victoria University of Wellington, New Zealand.
 
-Most of my education took place in France, graduating from the École Normale Supérieure de Lyon as an *élève normalien* (student fellow). I earned a Master’s degree in Social Sciences and Geography and passed the [agrégation](https://en.wikipedia.org/wiki/Agr%C3%A9gation). During my studies, I spent time abroad as a visiting student at Victoria University of Wellington.
+I completed my PhD at the University of Grenoble Alpes in affiliation with the research centre [Géographie-cités](https://geographie-cites.cnrs.fr/en/geographie-cites/) (Paris I Sorbonne, EHESS, CNRS), funded by a national doctoral fellowship. My PhD dissertation received two national awards: the [Doctoral Prize in Urban Studies](https://www.urbanisme-puca.gouv.fr/prix-de-these-sur-la-ville-2021-a2141.html?lang=en) and the [Best Dissertation Award in Geography](https://www.cnfg.fr/vie-du-comite/prix-de-these-du-cnfg/).
 
-I completed my PhD at the University of Grenoble Alpes and at the research centre [Géographie-cités](https://geographie-cites.cnrs.fr/en/geographie-cites/) in Paris, where I remain a Research Associate. My PhD dissertation received two national awards: the [Doctoral Prize in Urban Studies](https://www.urbanisme-puca.gouv.fr/prix-de-these-sur-la-ville-2021-a2141.html?lang=en) and the [Best Dissertation Award in Geography](https://www.cnfg.fr/vie-du-comite/prix-de-these-du-cnfg/).
-
-I also write about rugby, a sport that originally led me into the world of social sciences and fieldwork. As a passionate - and now retired - amateur, I keep an eye on the sport’s transformation into a [global industry](https://jmigozzi.github.io/rwcsquads2023/).
+I also write about rugby, a sport that originally led me into the world of social sciences. As a passionate - and now retired - amateur, I keep an eye on the sport’s transformation into a [global industry](https://jmigozzi.github.io/rwcsquads2023/).
