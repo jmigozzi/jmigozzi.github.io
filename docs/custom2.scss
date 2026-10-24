@@ -20,12 +20,12 @@ $navbar-bg:                $cream;
 $navbar-fg:                $ink-muted;
 $navbar-hl:                $ink;
 $font-size-base:           1rem;
-$line-height-base:         1.8;
+$line-height-base:         1.75;
 
 /*-- scss:rules --*/
 
 // ─── Google Fonts ────────────────────────────────────────────────
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=DM+Sans:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500&display=swap');
 
 // ─── Base ─────────────────────────────────────────────────────────
 *, *::before, *::after { box-sizing: border-box; }
@@ -105,11 +105,17 @@ main {
   padding: 0 !important;
 }
 
+// ─── About page ───────────────────────────────────────────────────
+.about-content {
+  max-width: 680px;
+}
+
+
 // ─── Navbar ───────────────────────────────────────────────────────
 .navbar {
   background-color: $cream;
   border-bottom: 1px solid $border;
-  padding: 1rem 2rem;
+  padding: 0.75rem 2rem;
 
   .navbar-brand-container {
     margin-left: 0 !important;
@@ -117,21 +123,22 @@ main {
   }
 
   .navbar-brand {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.1rem;
-    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 1.05rem;
+    font-weight: 400;
+    font-style: italic;
     color: $ink !important;
-    letter-spacing: 0.01em;
+    letter-spacing: 0;
   }
 
   .nav-link {
     font-family: $font-family-base;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     font-weight: 400;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
+    letter-spacing: 0;
+    text-transform: none;
     color: $ink-muted !important;
-    padding: 0.25rem 0.6rem;
+    padding: 0.25rem 0.75rem;
     transition: color 0.15s ease;
 
     &:hover, &.active {
@@ -142,32 +149,32 @@ main {
 
 // ─── Typography ───────────────────────────────────────────────────
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Playfair Display', serif;
+  font-family: Georgia, 'Times New Roman', serif;
   font-weight: 400;
-  line-height: 1.2;
+  line-height: 1.3;
   color: $ink;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
 }
 
-h1 { font-size: 1.8rem; }
+h1 { font-size: 1.6rem; }
 
 h2 {
   font-size: 1.2rem;
   border-bottom: 1px solid $border;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.4rem;
 }
 
 h3 {
   font-family: $font-family-base;
-  font-size: 1.2rem;
+  font-size: 0.85rem;
   font-weight: 500;
   font-style: normal;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.08em;
   color: $ink-muted;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
 }
 
 h4, h5, h6 {
@@ -180,7 +187,7 @@ h4, h5, h6 {
 }
 
 p {
-  font-family: 'DM Sans', system-ui, sans-serif;
+  font-family: $font-family-base;
   font-size: 1rem;
   line-height: 1.75;
   color: $ink;
@@ -188,7 +195,7 @@ p {
 }
 
 li, td, th {
-  font-family: 'DM Sans', system-ui, sans-serif;
+  font-family: $font-family-base;
   font-size: 1rem;
   line-height: 1.75;
   color: $ink;
@@ -213,6 +220,8 @@ blockquote {
   color: $ink-muted;
   font-style: italic;
   margin: 2rem 0;
+  font-size: 0.95rem;
+  line-height: 1.7;
 }
 
 hr {
@@ -221,7 +230,7 @@ hr {
   margin: 2.5rem 0;
 }
 
-// ─── Navbar ───────────────────────────────────────────────────────
+// ─── Table of contents ────────────────────────────────────────────
 #TOC {
   font-size: 0.8rem;
   padding-left: 1rem;
@@ -254,12 +263,37 @@ footer {
   }
 }
 
+// ─── Language toggle (about page) ─────────────────────────────────
+.lang-toggle {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+
+  a {
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: $ink-muted;
+    text-decoration: none;
+    padding: 4px 12px;
+    border: 1px solid $border;
+    border-radius: 2px;
+    transition: all 0.15s ease;
+
+    &:hover, &.active {
+      color: $ink;
+      border-color: $ink-muted;
+      text-decoration: none;
+    }
+  }
+}
+
 // ─── Landing page ─────────────────────────────────────────────────
 .landing-container {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  gap: 4rem;
   padding: 4rem 0 3rem;
   flex-wrap: wrap;
   width: 100%;
@@ -271,16 +305,7 @@ footer {
   flex-direction: column;
   align-items: center;
   flex-shrink: 0;
-  width: 210px;
-
-  img {
-    width: 100%;
-    height: 260px;
-    object-fit: cover;
-    object-position: center top;
-    border-radius: 2px;
-    filter: grayscale(15%);
-  }
+  width: 240px;
 }
 
 .landing-socials {
@@ -301,32 +326,23 @@ footer {
 .landing-text { flex: 1; min-width: 280px; }
 
 .landing-tag {
-  font-size: 0.7rem;
+  font-family: $font-family-base;
+  font-size: 0.85rem;
   font-weight: 400;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: $ink-faint;
-  margin-bottom: 1.25rem;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-
-  &::before {
-    content: '';
-    display: inline-block;
-    width: 22px;
-    height: 1px;
-    background: $ink-faint;
-  }
+  letter-spacing: 0;
+  text-transform: none;
+  color: $ink-muted;
+  margin-bottom: 0.75rem;
+  display: block;
 }
 
 .landing-headline {
-  font-family: 'Playfair Display', serif;
-  font-size: 2.8rem;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 2rem;
   font-weight: 400;
-  line-height: 1.12;
-  letter-spacing: -0.01em;
-  margin: 0 0 1.5rem;
+  line-height: 1.2;
+  letter-spacing: 0;
+  margin: 0 0 1.25rem;
   color: $ink;
 
   em {
@@ -336,13 +352,14 @@ footer {
 }
 
 .landing-bio {
-  font-size: 1.05rem;
-  line-height: 1.8;
-  color: $ink-muted;
-  margin-bottom: 2rem;
+  font-family: $font-family-base;
+  font-size: 1rem;
+  line-height: 1.75;
+  color: $ink;
+  margin-bottom: 1.75rem;
 
   a {
-    color: $ink;
+    color: $link;
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
   }
@@ -350,18 +367,17 @@ footer {
 
 .landing-buttons {
   display: flex;
-  gap: 0.875rem;
+  gap: 0.75rem;
   flex-wrap: wrap;
 }
 
 .btn-main {
   display: inline-block;
   font-family: $font-family-base;
-  font-size: 0.75rem;
-  font-weight: 500;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  padding: 10px 22px;
+  font-size: 0.8rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  padding: 6px 16px;
   background-color: $ink;
   color: $cream;
   text-decoration: none;
@@ -378,11 +394,10 @@ footer {
 .btn-outline {
   display: inline-block;
   font-family: $font-family-base;
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   font-weight: 400;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  padding: 10px 22px;
+  letter-spacing: 0;
+  padding: 6px 16px;
   border: 1px solid $border;
   color: $ink-muted;
   text-decoration: none;
@@ -396,44 +411,109 @@ footer {
   }
 }
 
-// ─── Language toggle (about page) ─────────────────────────────────
-.lang-toggle {
-  display: flex;
-  gap: 0.75rem;
-  margin-bottom: 2rem;
-
-  a {
-    font-size: 0.75rem;
-    font-weight: 500;
-    letter-spacing: 0.07em;
-    text-transform: uppercase;
-    color: $ink-muted;
-    text-decoration: none;
-    padding: 4px 12px;
-    border: 1px solid $border;
-    border-radius: 2px;
-    transition: all 0.15s ease;
-
-    &:hover, &.active {
-      color: $ink;
-      border-color: $ink-muted;
-      text-decoration: none;
-    }
-  }
+// ─── Landing sections (appointments + publications) ───────────────
+.landing-sections {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  padding: 2.5rem 0 2rem;
+  border-top: 1px solid $border;
+  margin-top: 0.5rem;
+  width: 100%;
 }
 
-// ─── Publications page ────────────────────────────────────────────
-.pub {
-  margin-bottom: 0.1rem;
-  padding-bottom: 0.1rem;
-  border-bottom: none;
+.landing-section-label {
+  font-family: $font-family-base;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $ink-faint;
+  margin-bottom: 1rem;
+}
+
+.landing-position {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+  align-items: baseline;
+}
+
+.landing-position-year {
+  font-family: $font-family-base;
+  font-size: 0.8rem;
+  color: $ink-faint;
+  white-space: nowrap;
+}
+
+.landing-position-title {
+  font-family: $font-family-base;
+  font-size: 0.9rem;
+  color: $ink-muted;
+  line-height: 1.5;
+}
+
+.landing-pub {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid $border;
 
   &:last-child { border-bottom: none; }
 }
 
+.landing-pub-title {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 0.88rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: $ink;
+  margin-bottom: 0.2rem;
+}
+
+.landing-pub-venue {
+  font-family: $font-family-base;
+  font-size: 0.78rem;
+  color: $ink-muted;
+  margin-bottom: 0.2rem;
+}
+
+.landing-pub-links a {
+  font-family: $font-family-base;
+  font-size: 0.75rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: $ink-muted;
+  text-decoration: none;
+  border-bottom: 1px solid $border;
+  padding-bottom: 1px;
+
+  &:hover { color: $ink; border-color: $ink; }
+}
+
+// ─── Publications page ────────────────────────────────────────────
+#quarto-document-content h2 {
+  font-family: $font-family-base;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: $ink-faint;
+  border-bottom: 1px solid $border;
+  padding-bottom: 0.4rem;
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+}
+
+.pub {
+  margin-bottom: 0.1rem;
+  padding-bottom: 0.1rem;
+  border-bottom: none;
+}
+
 .pub-title {
-  font-family: 'Playfair Display', serif;
-  font-size: 1.05rem;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   font-weight: 400;
   line-height: 1.4;
   color: $ink;
@@ -443,20 +523,18 @@ footer {
 
 .pub-venue {
   font-family: $font-family-base;
-  font-size: 0.9rem;
+  font-size: 0.875rem;
   color: $ink-muted;
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.25rem;
 }
 
 .pub-links a {
   font-family: $font-family-base;
   font-size: 0.75rem;
-  font-weight: 500;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
+  font-weight: 400;
   color: $ink-muted;
   text-decoration: none;
-  margin-right: 1rem;
+  margin-right: 0.75rem;
   border-bottom: 1px solid $border;
   padding-bottom: 1px;
 
@@ -485,20 +563,6 @@ footer {
   }
 }
 
-// Section headings on publications page
-#quarto-document-content h2 {
-  font-family: $font-family-base;
-  font-size: 1.2rem;
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: $ink-faint;
-  border-bottom: 1px solid $border;
-  padding-bottom: 0.4rem;
-  margin-top: 3rem;
-  margin-bottom: 1.5rem;
-}
-
 // ─── Teaching page ────────────────────────────────────────────────
 .teaching-list {
   width: 100%;
@@ -507,15 +571,15 @@ footer {
 
 .teaching-list h3 {
   font-family: $font-family-base;
-  font-size: 1rem;
+  font-size: 0.85rem;
   font-weight: 500;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.08em;
   color: $ink-muted;
   border-bottom: 1px solid $border;
   padding-bottom: 0.4rem;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
 }
 
 .teaching-list p {
@@ -545,11 +609,9 @@ footer {
 }
 
 // ─── Media page ───────────────────────────────────────────────────
-.media-entry {
-  padding: 0.5rem 0;
-  border-bottom: 1px solid $border;
-
-  &:last-child { border-bottom: none; }
+.media-list h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
 }
 
 .media-list h3 {
@@ -557,9 +619,11 @@ footer {
   margin-bottom: 0.5rem;
 }
 
-.media-list h2 {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
+.media-entry {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid $border;
+
+  &:last-child { border-bottom: none; }
 }
 
 .media-type {
@@ -569,22 +633,23 @@ footer {
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: $ink-faint;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.3rem;
 }
 
 .media-title {
-  font-family: 'Playfair Display', serif;
-  font-size: 1.05rem;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
   font-weight: 400;
   line-height: 1.4;
   color: $ink;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.2rem;
 }
 
 .media-meta {
+  font-family: $font-family-base;
   font-size: 0.85rem;
   color: $ink-muted;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
 }
 
 .media-embed {
@@ -683,43 +748,28 @@ footer {
 
   main {
     padding: 2rem 0 4rem;
-    font-size: 1rem;
   }
 
-.landing-container {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  gap: 10rem;
-  padding: 4rem 0 3rem;
-  flex-wrap: wrap;
-  width: 100%;
-  max-width: 100%;
-}
-
-.landing-left {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  flex-shrink: 0;
-  width: 240px;
-
-  img {
-    width: 100%;
-    height: 300px;
-    object-fit: cover;
-    object-position: center top;
-    border-radius: 2px;
-    filter: grayscale(15%);
+  .landing-container {
+    flex-direction: column;
+    align-items: center;
+    padding: 2.5rem 0;
+    gap: 2rem !important;
   }
-}
+
+  .landing-left { width: 180px; }
 
   .landing-text { min-width: unset; }
 
-  .landing-headline { font-size: 2rem; }
+  .landing-headline { font-size: 1.6rem; }
+
+  .landing-sections {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
 
   .navbar .nav-link {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     padding: 0.2rem 0.4rem;
   }
 
@@ -736,94 +786,5 @@ footer {
       width: 200px !important;
       max-width: 200px !important;
     }
-  }
-}
-
-// ─── Landing page sections (positions + publications) ─────────────
-.landing-sections {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 4rem;
-  padding: 3rem 0 2rem;
-  border-top: 1px solid $border;
-  margin-top: 1rem;
-  width: 100%;
-}
-
-.landing-section-label {
-  font-family: $font-family-base;
-  font-size: 0.7rem;
-  font-weight: 500;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: $ink-faint;
-  margin-bottom: 1.25rem;
-}
-
-.landing-position {
-  display: grid;
-  grid-template-columns: 72px 1fr;
-  gap: 1rem;
-  margin-bottom: 0.6rem;
-  align-items: baseline;
-}
-
-.landing-position-year {
-  font-family: $font-family-base;
-  font-size: 0.8rem;
-  color: $ink-faint;
-  white-space: nowrap;
-}
-
-.landing-position-title {
-  font-family: $font-family-base;
-  font-size: 0.9rem;
-  color: $ink-muted;
-  line-height: 1.5;
-}
-
-.landing-pub {
-  margin-bottom: 1.25rem;
-  padding-bottom: 1.25rem;
-  border-bottom: 1px solid $border;
-
-  &:last-child { border-bottom: none; }
-}
-
-.landing-pub-title {
-  font-family: 'Playfair Display', serif;
-  font-size: 0.95rem;
-  font-weight: 400;
-  line-height: 1.4;
-  color: $ink;
-  margin-bottom: 0.2rem;
-}
-
-.landing-pub-venue {
-  font-family: $font-family-base;
-  font-size: 0.85rem;
-  color: $ink-muted;
-  margin-bottom: 0.2rem;
-}
-
-.landing-pub-links a {
-  font-family: $font-family-base;
-  font-size: 0.7rem;
-  font-weight: 500;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  color: $ink-muted;
-  text-decoration: none;
-  border-bottom: 1px solid $border;
-  padding-bottom: 1px;
-
-  &:hover { color: $ink; border-color: $ink; }
-}
-
-// Responsive
-@media screen and (max-width: 768px) {
-  .landing-sections {
-    grid-template-columns: 1fr;
-    gap: 2rem;
   }
 }
