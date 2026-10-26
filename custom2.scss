@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
 // ─── Colour tokens ───────────────────────────────────────────────
-$cream:        #faf7f4;
+$cream:        #fefefe;
 $ink:          #1e1e1e;
 $ink-muted:    #6b6560;
 $ink-faint:    #a09890;
@@ -10,13 +10,13 @@ $link:         #5a4a42;
 $border:       #e8e2dc;
 
 // ─── Quarto bootstrap overrides ──────────────────────────────────
-$body-bg:                  $cream;
+$body-bg:                  #fefefe;
 $body-color:               $ink;
 $link-color:               $link;
 $font-family-sans-serif:   'DM Sans', system-ui, sans-serif;
 $font-family-base:         $font-family-sans-serif;
 $font-family-monospace:    'IBM Plex Mono', 'Courier New', monospace;
-$navbar-bg:                $cream;
+$navbar-bg:                #f8f5ec;
 $navbar-fg:                $ink-muted;
 $navbar-hl:                $ink;
 $font-size-base:           1rem;
@@ -30,12 +30,16 @@ $line-height-base:         1.75;
 // ─── Base ─────────────────────────────────────────────────────────
 *, *::before, *::after { box-sizing: border-box; }
 
+html {
+  background-color: #f8f5ec !important;
+}
+
 body {
   font-family: $font-family-base;
   font-size: $font-size-base;
   font-weight: 400;
   color: $ink;
-  background-color: $cream;
+  background-color: #f8f5ec !important;
   line-height: $line-height-base;
   -webkit-font-smoothing: antialiased;
 }
@@ -45,6 +49,15 @@ main {
   max-width: 100%;
   margin: 0 auto;
   padding: 3rem 0 5rem;
+  background-color: #f8f5ec;
+}
+
+#quarto-content {
+  background-color: #f8f5ec !important;
+}
+
+#quarto-document-content {
+  background-color: #f8f5ec;
 }
 
 // Full layout pages (home, about, teaching, media, aof)
@@ -52,6 +65,7 @@ main {
   padding: 0 6rem;
   max-width: 100%;
   width: 100%;
+  background-color: #f8f5ec;
 }
 
 #quarto-content.page-layout-full #quarto-document-content {
@@ -81,6 +95,7 @@ main {
   width: 100% !important;
   margin: 0 auto !important;
   align-items: start !important;
+  background-color: #f8f5ec;
 }
 
 #quarto-content.page-layout-article #quarto-sidebar {
@@ -94,6 +109,7 @@ main {
   position: sticky !important;
   top: 4rem !important;
   display: block !important;
+  background-color: #f8f5ec;
 }
 
 #quarto-content.page-layout-article main {
@@ -103,17 +119,12 @@ main {
   width: 100% !important;
   min-width: 0 !important;
   padding: 0 !important;
+  background-color: #f8f5ec;
 }
-
-// ─── About page ───────────────────────────────────────────────────
-.about-content {
-  max-width: 680px;
-}
-
 
 // ─── Navbar ───────────────────────────────────────────────────────
 .navbar {
-  background-color: $cream;
+  background-color: #f8f5ec !important;
   border-bottom: 1px solid $border;
   padding: 0.75rem 2rem;
 
@@ -133,7 +144,7 @@ main {
 
   .nav-link {
     font-family: $font-family-base;
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     font-weight: 400;
     letter-spacing: 0;
     text-transform: none;
@@ -255,6 +266,7 @@ footer {
   color: $ink-faint;
   font-size: 0.8rem;
   text-align: center;
+  background-color: #f8f5ec;
 
   a {
     color: $ink-faint;
@@ -289,24 +301,30 @@ footer {
   }
 }
 
+// ─── About page ───────────────────────────────────────────────────
+.about-content {
+  max-width: 680px;
+}
+
 // ─── Landing page ─────────────────────────────────────────────────
 .landing-container {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: flex-end;
   padding: 4rem 0 3rem;
   flex-wrap: wrap;
   width: 100%;
   max-width: 100%;
 }
 
-.landing-left {
+.landing-text {
+  flex: 1;
+  min-width: 280px;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  flex-shrink: 0;
-  width: 240px;
+  justify-content: flex-end;
 }
+
 
 .landing-socials {
   margin-top: 1.25rem;
@@ -336,27 +354,13 @@ footer {
   display: block;
 }
 
-.landing-headline {
-  font-family: Georgia, 'Times New Roman', serif;
-  font-size: 2rem;
-  font-weight: 400;
-  line-height: 1.2;
-  letter-spacing: 0;
-  margin: 0 0 1.25rem;
-  color: $ink;
-
-  em {
-    font-style: italic;
-    color: $ink-muted;
-  }
-}
-
 .landing-bio {
   font-family: $font-family-base;
-  font-size: 1rem;
+  font-size: 1.15rem;
   line-height: 1.75;
   color: $ink;
   margin-bottom: 1.75rem;
+  max-width: 520px;
 
   a {
     color: $link;
@@ -379,14 +383,14 @@ footer {
   letter-spacing: 0;
   padding: 6px 16px;
   background-color: $ink;
-  color: $cream;
+  color: #f8f5ec;
   text-decoration: none;
   border-radius: 2px;
   transition: background-color 0.15s ease;
 
   &:hover {
     background-color: $accent;
-    color: $cream;
+    color: #f8f5ec;
     text-decoration: none;
   }
 }
@@ -464,11 +468,23 @@ footer {
 
 .landing-pub-title {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: 0.88rem;
+  font-size: 0.85rem;
   font-weight: 400;
   line-height: 1.4;
   color: $ink;
   margin-bottom: 0.2rem;
+}
+
+.landing-pub-title a {
+  color: $ink;
+  text-decoration: none;
+  border-bottom: 1px solid $border;
+  padding-bottom: 1px;
+
+  &:hover {
+    color: $link;
+    border-color: $link;
+  }
 }
 
 .landing-pub-venue {

@@ -33,7 +33,7 @@ website:
         text: CV
     title: false
   page-footer:
-    center: "Made with [quarto](https://quarto.org)"
+    center: "Made with [quarto](https://quarto.org) - © Julien Migozzi"
   google-analytics:
     tracking-id: "G-DM8RWDZ57L"
     storage: none
@@ -44,7 +44,6 @@ execute:
 
 format:
   html:
-    theme:
-      - custom2.scss
+    css: custom.css
     include-in-header: fontawesome.html
     fontsize: 1rem

@@ -3,7 +3,6 @@ title: ""
 format: html
 page-layout: full
 toc: false
-css: custom2.scss
 ---
 
 ```{=html}
@@ -30,8 +29,8 @@ css: custom2.scss
   <div class="landing-text">
     <p class="landing-tag">Welcome!</p>
     <p class="landing-bio">
-      I am an <a href="https://www.devstudies.cam.ac.uk/staff/dr-julien-migozzi">Assistant Professor</a> in Development Studies in the <a href="https://www.polis.cam.ac.uk/">Department of Politics and International Studies</a> at the University of Cambridge.<br>
-      I study how markets work and how they shape inequality, urban space, and capitalism, combining ethnographic fieldwork and computational methods.
+      I am an Assistant Professor in Development Studies in the <a href="https://www.polis.cam.ac.uk/">Department of Politics and International Studies</a> and the <a href="https://www.devstudies.cam.ac.uk/staff/dr-julien-migozzi/">Centre of Development Studies</a> at the University of Cambridge.<br>
+      I study how markets work and how they shape inequality, urban space, and digital capitalism, combining ethnographic fieldwork and computational methods.
     </p>
     <div class="landing-buttons">
       <a href="publications.html" class="btn-outline">Publications</a>

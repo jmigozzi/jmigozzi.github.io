@@ -17,11 +17,11 @@ format:
 
 ### Research
 
-I am an economic and urban geographer. My research examines how markets work and how they shape inequality, urban space, and capitalism, drawing on geography, economic sociology, and urban studies. Empirically, I focus on property and financial markets, combining ethnographic fieldwork with computational methods. 
+I am an economic and urban geographer. My research examines how markets work under and how they shape inequality, urban space, and digital capitalism, drawing on geography, economic sociology, and urban studies. work combines ethnographic fieldwork with computational methods. 
 
-My first research axis examines how technology transforms property markets and the political economy of housing under digital capitalism. Drawing on in-depth fieldwork, computational social science, and spatial analysis, I study how 21st-century housing markets drive social stratification and urban segregation, with South Africa as the core fieldwork site, and the global PropTech industry as a broader comparative lens.
+My first research axis examines how digital technology transforms property markets and the political economy of housing. Drawing on in-depth fieldwork, computational social science, and spatial analysis, I study how 21st-century housing markets drive social stratification and urban segregation, with South Africa as the core fieldwork site, and the global PropTech industry as a broader comparative lens.
 
-My second research strand explores how technology reshapes financial markets. This work spans FinTech, financial centres, and venture capital, and retail investors. I am a co-author of the [*Atlas of Finance*](https://jmigozzi.github.io/aof.html), published at Yale University Press in 2024, and an early-career representative at the [Global Network on Financial Geography](https://www.fingeo.net/).
+My second research strand explores how technology reshapes finance. This work spans the geography of FinTech startups, venture capital, and financial centres. I am currently expanding this research agenda by looking at the case of retail investors, finance podcasts and trading. I am a co-author of the [*Atlas of Finance*](https://jmigozzi.github.io/aof.html), published at Yale University Press in 2024, and an early-career representative at the [Global Network on Financial Geography](https://www.fingeo.net/).
 
 
 ### Background
