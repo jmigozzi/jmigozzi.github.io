@@ -16,7 +16,7 @@ format:
 
 ### Recherche
 
-A la croisée de la géographie, de la sociologie économique et des études urbaines, mes recherches portent sur le capitalisme numérique, le logement, la finance, et les villes. Je mobilise des méthodes mixtes, associant l'enquête ethnographique à l'analyse spatiale et aux sciences sociales computationnelles.
+A la croisée de la géographie, de la sociologie économique et des études urbaines, mes recherches portent sur le capitalisme numérique, le logement, la finance, et les villes.<br>Je mobilise des méthodes mixtes, associant l'enquête ethnographique à l'analyse spatiale et aux sciences sociales computationnelles.
 
 Mon premier axe de recherche porte sur la transformation numérique et la financiarisation des marchés immobiliers, et leurs consvquences sur la stratification sociale et la ségrégation urbaine. L’Afrique du Sud et la ville du Cap, où je mène des recherches approfondies depuis 2015, constituent mon principal terrain d'enquête, avec l'industrie mondiale de la PropTech comme cadre comparatif plus large.
 
