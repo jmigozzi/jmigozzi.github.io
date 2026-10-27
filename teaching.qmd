@@ -15,28 +15,28 @@ toc: false
 
 ### University of Oxford (2021 - 2025)
 
-I give guest lectures for the [MSc in Sustainable Urban Development](https://www.ox.ac.uk/admissions/graduate/courses/msc-sustainable-urban-development).
+Guest lectures for the [MSc in Sustainable Urban Development](https://www.ox.ac.uk/admissions/graduate/courses/msc-sustainable-urban-development).
 
 
 ### Ecole Normale Supérieure, Paris (2017–2021)
 
-- Economic and urban geography — graduate level
-- Mapping and spatial analysis with R — graduate level, Master in Quantitative Social Sciences
-- Statistics and mapping with R — undergraduate level
-- Introduction to urban fieldwork — undergraduate and graduate level
-- Masterclass "[Digital Technologies in the African city](https://jmigozzi.github.io/masterclass/)" — graduate level
+- Economic and urban geography, Master in Geography
+- Mapping and spatial analysis with R, Master in Quantitative Social Sciences
+- Statistics and mapping with R, undergraduate level
+- Introduction to urban fieldwork, undergraduate and graduate level
+- Masterclass "[Digital Technologies in the African city](https://jmigozzi.github.io/masterclass/)"
 
   *A 10-day graduate masterclass in partnership with the Ecole Normale Supérieure and the African Center for Cities, with participants from Nigeria, France and South Africa. The program featured guest speakers, collective workshops, site visits, and participant-led research projects.*
 
-- Masterclass "Researching urban public spaces" — graduate level
+- Masterclass "Researching urban public spaces"
 
   *A 10-day graduate masterclass organized by the Ecole Normale Supérieure (France), the Universities of Lagos (Nigeria) and the French Institute for Research in Africa (Nigeria). The program featured guest speakers, collective workshops, site visits, and participant-led research projects.*
 
 ### University Grenoble Alpes (2014–2017)
 
-- Urban geographies of globalisation — undergraduate level
-- Mainstream policies and grassroot initiatives for local development — graduate level
-- Geographic Information Systems — undergraduate level
+- Urban geographies of globalisation, Bachelor in Geography and Planning
+- Mainstream policies and grassroots initiatives for local development, Master in Development Studies
+- Geographic Information Systems, Bachelor in Geography and Planning
 
 
 </div>

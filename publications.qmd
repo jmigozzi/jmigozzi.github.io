@@ -196,7 +196,7 @@ toc-depth: 2
 </div>
 
 
-## Dissertation
+## PhD Dissertation
 
 <div class="pub">
 <p class="pub-title">A city to sell. Digitalization and financialization of the housing market in Cape Town: stratification and segregation in the emerging global city</p>
@@ -211,7 +211,7 @@ toc-depth: 2
 
 ## Early work
 
-Two peer-reviewed papers from my MA thesis.
+Peer-reviewed papers from my MA thesis.
 
 <div class="pub">
 <p class="pub-title">L'école des Springboks : le rugby scolaire au Cap entre ségrégation et déségrégation</p>
@@ -228,7 +228,7 @@ Two peer-reviewed papers from my MA thesis.
 
 <div class="pub">
 <p class="pub-title">Spatial Justice in Postcolonial Noumea: The Tuband project</p>
-<p class="pub-venue">MA Thesis, École Normale Supérieure de Lyon, 2012</p>
+<p class="pub-venue">MA Thesis, École Normale Supérieure de Lyon, 2012<br></p>
 <p class="pub-links"><a href="https://drive.google.com/file/d/1LwY_xNEt5eXi0etEcvWDtzOrKxNVY9is/view?usp=sharing">PDF</a></p>
 </div>
 
